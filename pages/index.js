@@ -21,7 +21,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>about. {' '}
+        <p>about.   {' '}
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a></p>
 
       </section>

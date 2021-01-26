@@ -25,9 +25,9 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.headingMd}>
         <p>about.{about}   {' '}
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a></p>
-          <Link href="/about.js">
-                  <a className={utilStyles.colorInherit}>{about}</a>
-                </Link>
+        <Link href="/about.js">
+          <a className={utilStyles.colorInherit}>{about}</a>
+        </Link>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>

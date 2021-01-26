@@ -6,6 +6,16 @@ import Link from 'next/link'
 const name = 'YOSY POKARI'
 export const siteTitle = 'YOSY POKARI'
 
+/* favicon */
+const Page = (props) => (
+  <div>
+    <Head>
+      <link rel="shortcut icon" href="/favicon.ico" />
+    </Head>
+  // Other layout/components
+  </div>
+);
+
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
@@ -27,24 +37,12 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-            /* <img
-              src="/images/profile.jpg"
-              className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
-              alt={name}
-            /> */
+
             <h1 className={utilStyles.heading2Xl}>{name}</h1>
           </>
         ) : (
             <>
-              /* <Link href="/">
-                <a>
-                  <img
-                    src="/images/profile.jpg"
-                    className={`${styles.headerImage} ${utilStyles.borderCircle}`}
-                    alt={name}
-                  />
-                </a>
-              </Link> */ 
+              
               <h2 className={utilStyles.headingLg}>
                 <Link href="/">
                   <a className={utilStyles.colorInherit}>{name}</a>
@@ -54,13 +52,38 @@ export default function Layout({ children, home }) {
           )}
       </header>
       <main>{children}</main>
-      /* {!home && (
+      
+    </div>
+  )
+}
+
+/*
+from 40
+            <img
+              src="/images/profile.jpg"
+              className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+              alt={name}
+            />
+
+from 45
+              <Link href="/">
+                <a>
+                  <img
+                    src="/images/profile.jpg"
+                    className={`${styles.headerImage} ${utilStyles.borderCircle}`}
+                    alt={name}
+                  />
+                </a>
+              </Link>
+
+from 55
+      {!home && (
         <div className={styles.backToHome}>
           <Link href="/">
             <a>← Back to home</a>
           </Link>
         </div>
-      )} */
-    </div>
-  )
-}
+      )}
+
+
+*/

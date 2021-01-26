@@ -6,6 +6,7 @@ import Link from 'next/link'
 const name = 'YOSY POKARI'
 export const siteTitle = 'YOSY POKARI'
 
+
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>
@@ -34,7 +35,9 @@ export default function Layout({ children, home }) {
             <>
               
               <h2 className={utilStyles.headingLg}>
-                
+                <Link href="/">
+                  <a className={utilStyles.colorInherit}>{name}</a>
+                </Link>
               </h2>
             </>
           )}
@@ -72,12 +75,6 @@ from 55
           </Link>
         </div>
       )}
-
-from 37
-
-<Link href="/">
-                  <a className={utilStyles.colorInherit}>{name}</a>
-                </Link>
 
 
 */

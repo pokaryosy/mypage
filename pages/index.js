@@ -5,6 +5,8 @@ import { getSortedPostsData } from '../lib/posts'
 import Link from 'next/link'
 import Date from '../components/date'
 
+const about = 'about'
+
 export async function getStaticProps() {
   const allPostsData = getSortedPostsData()
   return {
@@ -21,9 +23,11 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>about.   {' '}
+        <p>about.{about}   {' '}
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a></p>
-
+          <Link href="/about.js">
+                  <a className={utilStyles.colorInherit}>{about}</a>
+                </Link>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>

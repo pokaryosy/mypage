@@ -1,1 +1,1 @@
-[YOSY POKARI](https://www.instagram.com/pokaryosy/).
+[YOSY POKARI](https://www.instagram.com/pokaryosy/)

@@ -6,16 +6,6 @@ import Link from 'next/link'
 const name = 'YOSY POKARI'
 export const siteTitle = 'YOSY POKARI'
 
-/* favicon */
-const Page = (props) => (
-  <div>
-    <Head>
-      <link rel="shortcut icon" href="/favicon.ico" />
-    </Head>
-  // Other layout/components
-  </div>
-);
-
 export default function Layout({ children, home }) {
   return (
     <div className={styles.container}>

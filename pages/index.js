@@ -23,10 +23,10 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-        <p>about.{about}   {' '}
+        <p>about. = {about}   {' '}
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a></p>
         <Link href="/about.js">
-          <a className={utilStyles.colorInherit}>{about}</a>
+          <a className={utilStyles.colorInherit}>about.</a>
         </Link>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

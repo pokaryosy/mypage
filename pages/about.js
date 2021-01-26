@@ -1,28 +1,27 @@
 import Head from 'next/head'
 import Link from 'next/link'
-import styles from './layout.module.css'
-import utilStyles from '../styles/utils.module.css'
+
 
 const name = 'YOSY POKARI'
 
 export default function Page() {
     return (
-        <div className={styles.container}>
+        <div>
             <Head>
 
             </Head>
-            <header className={styles.header}>
+            <header>
                 {home ? (
                     <>
 
-                        <h1 className={utilStyles.heading2Xl}>{name}</h1>
+                        <h1>{name}</h1>
                     </>
                 ) : (
                         <>
 
-                            <h2 className={utilStyles.headingLg}>
+                            <h2>
                                 <Link href="/">
-                                    <a className={utilStyles.colorInherit}>{name}</a>
+                                    <a>{name}</a>
                                 </Link>
                             </h2>
                         </>

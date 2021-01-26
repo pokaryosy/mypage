@@ -4,7 +4,7 @@ import Link from 'next/link'
 
 const name = 'YOSY POKARI'
 
-export default function Page() {
+export default function Page({home}) {
     return (
         <div>
             <Head>

@@ -25,12 +25,13 @@ export default function Page({ children, home }) {
             </section>
                 <section>
                     <body>
-                        <p>musician l performer l model | software engineer
+                        <p>musician | performer | model | software engineer
                         Tp. + F.Hr. + DJ + Vo
                         <img
                             src="/images/profile.jpg"
                             className={`${utilStyles.artistphoto}`}
                             alt={name}
+                            align="right"
                         /></p>
                     </body>
                 </section>

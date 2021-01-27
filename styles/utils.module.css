@@ -56,7 +56,7 @@
   }
 
   .artistphoto {
-    float: right;
+    /*float: right;*/
     width: 50%;
     height: auto;
   }

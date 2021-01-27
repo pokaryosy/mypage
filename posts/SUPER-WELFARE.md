@@ -3,7 +3,7 @@ title: 'SUPER WELFARE EXPO 2020 (超福祉展)'
 date: '2020-01-01'
 ---
 
- 超福祉展 (Exhibition organizing leader, Exhibition Music)
+超福祉展 (Exhibition organizing leader, Exhibition Music)
 
 
 Next.js has two forms of pre-rendering: **Static Generation** and **Server-side Rendering**. The difference is in **when** it generates the HTML for a page.

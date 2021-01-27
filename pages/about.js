@@ -41,7 +41,7 @@ export default function Page({ children, home }) {
                         <p className={utilStyles.clearcase}>
                             <br />
                             <div class="menu">
-                                <input type="checkbox" id="type1">
+                                <input type="checkbox" id="type1"></input>
                                     <label for="type1"> more details.</label>
                                     <div class="menu-content">
                                         <br />
@@ -60,7 +60,7 @@ export default function Page({ children, home }) {
                                         Major: Computing and Music (Jazz performance and composition) <br />
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
                                     </div>
-                                </input>
+                                
                             </div>
                         </p>
 

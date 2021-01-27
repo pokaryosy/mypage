@@ -80,7 +80,7 @@
   line-height: 1;
   cursor :pointer;
 }
-input {
+.clearcase input{
   display: none;
 }
 .menu ul {

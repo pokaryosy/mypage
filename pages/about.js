@@ -44,8 +44,8 @@ export default function Page({ children, home }) {
                                 <input type="checkbox" id="type1"></input>
                                     <label for="type1"> more details.</label>
                                     <div class="menu-content">
-                                        <br />
-                                        Skills <br />
+                                        
+                                        Skills 
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />

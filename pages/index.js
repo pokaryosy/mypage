@@ -19,13 +19,14 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <p>{siteTitle}</p>
+        <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
           <Link href="/about.js">
             <a className={utilStyles.colorInherit}>about.</a>
           </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>
+          <a>twitter</a>
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
         <h2 className={utilStyles.headingLg}>Blog</h2>

@@ -29,9 +29,9 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-          <h1 className={utilStyles.heading2Xl}>
+          <h1 className={utilStyles.heading2Xl} style="cursor: hand; cursor:pointer;">
             <Link href="/">
-            <a className={utilStyles.colorInherit}>{name}</a>
+            {name}
             </Link>
             </h1>
           </>

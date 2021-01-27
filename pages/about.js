@@ -20,17 +20,7 @@ export default function Page({ children, home }) {
                                         <a className={utilStyles.colorInherit}>{name}</a>
                                     </Link>
                                 </h2>
-                    {home ? (
-                        <>
 
-                            
-                        </>
-                    ) : (
-                            <>
-
-                                
-                            </>
-                        )}
                 </header>
                 <section className={utilStyles.headingMd}>
                     <Link href="/about">

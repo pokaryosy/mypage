@@ -110,7 +110,8 @@
 .menu input:checked ~ .menu-content {
 	max-height: 20em;
 }
-/* Icon */
+
+/* Icon 
 .menu label::after {
 	line-height: 3;
 	position: absolute;
@@ -129,3 +130,4 @@
 .menu input[type=checkbox]:checked + label::after {
 	transform: rotate(315deg);
 }
+*/

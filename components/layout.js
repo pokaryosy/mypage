@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
 
-            <h3 className={utilStyles.heading2Xl}>{name}</h1>
+            <h3 className={utilStyles.heading2Xl}>{name}</h3>
           </>
         ) : (
             <>

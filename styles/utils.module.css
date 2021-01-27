@@ -73,11 +73,6 @@
 
 
 
-*,
-*::after,
-*::before {
-  box-sizing: border-box;
-}
 
 .accordion {
   width: 500px;

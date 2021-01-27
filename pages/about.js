@@ -29,7 +29,7 @@ export default function Page({ children, home }) {
                         <p>Tp. + F.Hr. + DJ + Vo</p>
                         <img
                             src="/images/profile.jpg"
-                            className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+                            className={`${styles.headerHomeImage} ${utilStyles.artistphoto}`}
                             alt={name}
                         />
                     </body>

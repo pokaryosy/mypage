@@ -54,3 +54,7 @@
   .lightText {
     color: #999;
   }
+
+  .artistphoto {
+    float: right;
+  }

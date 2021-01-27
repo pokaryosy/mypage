@@ -24,7 +24,7 @@ export default function Page({ children, home }) {
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
             </section>
                 <section>
-                    <body>
+                    <body className={`${utilStyles.artistphoto}`}>
                         <p>musician l performer l model | software engineer</p>
                         <p>Tp. + F.Hr. + DJ + Vo</p>
                         <img

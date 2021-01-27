@@ -12,17 +12,12 @@ export default function Page({ children, home }) {
         <Layout home>
             <div>
                 <Head>
-                    <title>about</title>
+                    <title>about.</title>
                 </Head>
                 <header>
 
                 </header>
-                <section className={utilStyles.headingMd}>
-                    <Link href="/about">
-                        <a className={utilStyles.colorInherit}>about.</a>
-                    </Link>&emsp;
-                <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-            </section>
+               
                 <main>{children}</main>
             </div>
         </Layout>

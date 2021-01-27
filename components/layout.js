@@ -29,9 +29,11 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
+          <h1 className={utilStyles.heading2Xl}>
             <Link href="/">
-              <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <a className={utilStyles.colorInherit}>{name}</a>
             </Link>
+            </h1>
           </>
         ) : (
             <>

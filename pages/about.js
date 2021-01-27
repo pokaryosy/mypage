@@ -39,10 +39,10 @@ export default function Page({ children, home }) {
                         </p>
 
                         <p className={utilStyles.clearcase}>
+                        <br />
                         <div class="menu">
-                            <br />
                             <label for="type1"> more details.</label>
-                            <input type="checkbox" id="type1"></input>
+                            <input type="checkbox" id="type1">
                             <ul id="links1">
                             <li>
                             <br />
@@ -62,6 +62,7 @@ export default function Page({ children, home }) {
                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
                         </li>
                         </ul>
+                        </input>
                         </div>
                         </p>
                         

@@ -1,10 +1,12 @@
 import Head from 'next/head'
 import Link from 'next/link'
+import styles from '../components/layout.module.css'
+import utilStyles from '../styles/utils.module.css'
 
 
 const name = 'YOSY POKARI'
 
-export default function Page({home}) {
+export default function Page({ children, home }) {
     return (
         <div>
             <Head>
@@ -19,15 +21,15 @@ export default function Page({home}) {
                 ) : (
                         <>
 
-                            <h2>
+                            <h2 className={utilStyles.headingLg}>
                                 <Link href="/">
-                                    <a>{name}</a>
+                                    <a className={utilStyles.colorInherit}>{name}</a>
                                 </Link>
                             </h2>
                         </>
                     )}
             </header>
-
+            <main>{children}</main>
         </div>
     )
 }

@@ -29,9 +29,9 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-          <h1 className={utilStyles.heading2Xl} style="cursor: hand; cursor:pointer;">
+          <h1 className={utilStyles.heading2Xl}>
             <Link href="/">
-            {name}
+            <a className={utilStyles.daimei}>{name}</a>
             </Link>
             </h1>
           </>

@@ -4,7 +4,7 @@
     line-height: 1.2;
     font-weight: 100;
     letter-spacing: -0.05rem;
-    margin: 1rem 0;
+    margin: 2rem 0;
     text-align: center
   }
   
@@ -51,4 +51,9 @@
   
   .lightText {
     color: #999;
+  }
+
+  .daimei {
+    cursor: hand; 
+    cursor: pointer;
   }

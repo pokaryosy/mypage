@@ -22,7 +22,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-          <Link href="/about.js">
+          <Link href="/about">
             <a className={utilStyles.colorInherit}>about.</a>
           </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;

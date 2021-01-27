@@ -41,7 +41,7 @@ export default function Page({ children, home }) {
                         <p className={utilStyles.clearcase}>
                         <div class="menu">
                             <br />
-                            <label for="type1"> more details.</label> <br />
+                            <a for="type1"> more details.</a> <br />
                             <input type="checkbox" id="type1" class="accordion"></input>
                             <ul id="links1">
                             <li>

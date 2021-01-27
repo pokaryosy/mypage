@@ -32,7 +32,7 @@ export default function Layout({ children, home }) {
           
             <Link href="/">
             <h1 className={utilStyles.heading2Xl}>
-            <a className={utilStyles.daimei}>{name}</a>
+            {name}
             </h1>
             </Link>
             

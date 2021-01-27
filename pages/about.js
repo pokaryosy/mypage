@@ -8,6 +8,7 @@ const name = 'YOSY POKARI'
 
 export default function Page({ children, home }) {
     return (
+        <Layout home>
         <div>
             <Head>
 
@@ -16,7 +17,7 @@ export default function Page({ children, home }) {
                 {home ? (
                     <>
 
-                        <h3 className={utilStyles.heading2Xl}>{name}</h3>
+                        <h1 className={utilStyles.heading2Xl}>{name}</h1>
                     </>
                 ) : (
                         <>
@@ -29,7 +30,14 @@ export default function Page({ children, home }) {
                         </>
                     )}
             </header>
+            <section className={utilStyles.headingMd}>
+                <Link href="/about">
+                    <a className={utilStyles.colorInherit}>about.</a>
+                </Link>&emsp;
+                <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+            </section>
             <main>{children}</main>
         </div>
+        </Layout>
     )
 }

@@ -59,7 +59,7 @@
     /*float: right;*/
     width: 50%;
     height: auto;
-    margin: 2px;
+    margin-left: 10px;
   }
 
   .topline p{
@@ -73,33 +73,59 @@
 
 
 
-.clearcase label{
-  display: block;
-  margin: 0 0 4px 0;
-  padding : 15px;
-  line-height: 1;
-  cursor :pointer;
+.menu {
+	position: relative;
+	overflow: hidden;
+	width: 100%;
+	margin: 0 auto;
+	color: #ffffff;
 }
-.clearcase input{
-  display: none;
+.menu input {
+	position: absolute;
+	z-index: -1;
+	opacity: 0;
 }
-.menu ul {
-  margin: 0;
-  padding: 0;
-  list-style: none;
+.menu label {
+	font-weight: bold;
+	line-height: 3;
+	position: relative;
+	display: block;
+	padding: 0 0 0 1em;
+	cursor: pointer;
+	margin: 0 0 1px 0;
+	background: #da3c41;
 }
-
-.menu li {
-  height: 0;
-  overflow: hidden;
-  -webkit-transition: all 0.5s;
-  -moz-transition: all 0.5s;
-  -ms-transition: all 0.5s;
-  -o-transition: all 0.5s;
-  transition: all 0.5s;
+.menu .menu-content {
+	overflow: hidden;
+	max-height: 0;
+	-webkit-transition: max-height 0.35s;
+	transition: max-height 0.35s;
+	color: #333333;
+	background: #f1c6c6;
 }
-
-#type1:checked ~ #links1 li{
-  height: 54px;
-  opacity: 1;
+.menu .menu-content p{
+	margin: 1em;
+}
+/* :checked */
+.menu input:checked ~ .menu-content {
+	max-height: 20em;
+}
+/* Icon */
+.menu label::after {
+	line-height: 3;
+	position: absolute;
+	top: 0;
+	right: 0;
+	display: block;
+	width: 3em;
+	height: 3em;
+	-webkit-transition: all 0.35s;
+	transition: all 0.35s;
+	text-align: center;
+}
+.menu input[type=checkbox] + label::after {
+	content: '+';
+}
+.menu input[type=checkbox]:checked + label::after {
+	transform: rotate(315deg);
 }

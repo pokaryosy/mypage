@@ -27,8 +27,8 @@ export default function Home({ allPostsData }) {
           </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
       </section>
-      <br />
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
+      <br />
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title }) => (
             <li className={utilStyles.listItem} key={id}>

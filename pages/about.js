@@ -25,9 +25,9 @@ export default function Page({ children, home }) {
             </section>
                 <section>
                     <body>
-                        <p>musician l performer l model | software engineer</p>
-                        <p>Tp. + F.Hr. + DJ + Vo</p>
-                        <p><img
+                        <p>musician l performer l model | software engineer
+                        Tp. + F.Hr. + DJ + Vo
+                        <img
                             src="/images/profile.jpg"
                             className={`${utilStyles.artistphoto}`}
                             alt={name}

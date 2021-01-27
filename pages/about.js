@@ -16,7 +16,7 @@ export default function Page({ children, home }) {
                 {home ? (
                     <>
 
-                        <h1>{name}</h1>
+                        <h3 className={utilStyles.heading2Xl}>{name}</h3>
                     </>
                 ) : (
                         <>

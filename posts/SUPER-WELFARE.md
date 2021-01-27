@@ -9,14 +9,14 @@ date: '2020-09-06'
 
 2020 9/6(Sun) 14:00-18:00 JST⠀
 
-SUPER WELFARE EXPO 2020
+SUPER WELFARE EXPO 2020 <br>
 (Exhibition organizing leader, Exhibition Music)
 
 Like the ideals in your heart lead you to the outside world.
 We see disabilities as "individuality" and deliver new values and ways of thinking through artwork. We also hope that this will lead to opportunities and confidence for all those who want to express themselves more.
+<br>
 
-
-「2020年、渋谷。超福祉の日常を体験しよう展」
+「2020年、渋谷。超福祉の日常を体験しよう展」<br>
 (展示企画リーダー, 展示音楽)
 
 心に秘めた理想(作品)が、外の世界(自分らしさ)へ導くように。⠀

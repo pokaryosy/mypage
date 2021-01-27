@@ -43,6 +43,8 @@ export default function Page({ children, home }) {
 
                         <p className={utilStyles.clearcase}>
                             <br />
+                            <br />
+                            <br />
                             more details.
                             <br />
                             <br />

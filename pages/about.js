@@ -46,7 +46,7 @@ export default function Page({ children, home }) {
                             <button onclick="func1()">more details.</button>
                             <div id="mymenu" class="show">
                                         
-                                        Skills
+                                        Skills</div>
                                         <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
@@ -61,7 +61,7 @@ export default function Page({ children, home }) {
                                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
-                            </div>
+                            
                         </p>
 
                     </body>

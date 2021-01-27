@@ -45,7 +45,10 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
+                            <br />
+                            <br />
                             more details.
+                            <br />
                             <br />
                             <br />
                                         Skills

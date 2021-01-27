@@ -33,7 +33,10 @@ export default function Page({ children, home }) {
                                 alt={name}
                                 align="right"
                             />
-                        musician | performer | model | software engineer <br />
+                        musician <br />
+                        performer <br />
+                        model <br />
+                        software engineer <br />
                             <br />
                         Tp. + F.Hr. + DJ + Vo
                         </p>
@@ -41,11 +44,12 @@ export default function Page({ children, home }) {
                         <p className={utilStyles.clearcase}>
                             <br />
                             <div class="menu">
-                                <input type="checkbox" id="type1"></input>
-                                    <label for="type1"> more details.</label>
+                                <input type="checkbox" id="detal"></input>
+                                    <label for="detal"> more details.</label>
                                     <div class="menu-content">
                                         <p>
-                                        Skills </p><br />
+                                        <br />
+                                        Skills <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />
@@ -59,7 +63,7 @@ export default function Page({ children, home }) {
                                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
-                                        
+                                        </p>
                                     </div>
                                 
                             </div>

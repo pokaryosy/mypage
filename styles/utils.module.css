@@ -108,7 +108,7 @@
 }
 /* :checked */
 .menu input:checked ~ .menu-content {
-	max-height: 20em;
+	max-height: 2000em;
 }
 
 /* Icon 

@@ -25,13 +25,12 @@ export default function Page({ children, home }) {
             </section>
             <section>
             <body>
-                musician l performer l model | software engineer⠀<br>
-                Tp. + F.Hr. + DJ + Vo
+            <p>musician l performer l model | software engineer</p>
+            <p>Tp. + F.Hr. + DJ + Vo</p>
             </body>
             </section>
                 <main>{children}</main>
             </div>
-            
         </Layout>
         
     )

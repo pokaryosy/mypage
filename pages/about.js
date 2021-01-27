@@ -44,7 +44,8 @@ export default function Page({ children, home }) {
                         <p className={utilStyles.clearcase}>
                             <br />
                             more details.
-                                        
+                            <br />
+                            <br />
                                         Skills
                                         <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />

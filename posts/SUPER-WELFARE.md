@@ -1,9 +1,14 @@
 ---
-title: 'SUPER WELFARE EXPO 2020 (超福祉展)'
+title: 'SUPER WELFARE EXPO 2020'
 date: '2020-09-06'
 ---
 
-超福祉展 (Exhibition organizing leader, Exhibition Music)
+SUPER WELFARE EXPO 2020 (超福祉展) 
+(Exhibition organizing leader, Exhibition Music)
+
+Let the ideals in your heart lead you to the outside world. ⠀⠀
+⠀⠀⠀
+We see disabilities as "individuality" and deliver new values and ways of thinking through artwork. We also hope that this will lead to opportunities and confidence for all those who want to express themselves more.
 
 心に秘めた理想(作品)が、外の世界(自分らしさ)へ導くように。⠀
 障がいも”個性”と捉え、アート作品を通して、新たな価値観や考え方を届けます。そして、自分をもっと表現したい全ての人へ、そのきっかけや自信に繋がることを私達は願います。

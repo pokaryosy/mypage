@@ -19,7 +19,7 @@ export default function Home({ allPostsData }) {
   return (
     <Layout home>
       <Head>
-        <title>{siteTitle}</title>
+        <p>{siteTitle}</p>
       </Head>
       <section className={utilStyles.headingMd}>
           <Link href="/about.js">

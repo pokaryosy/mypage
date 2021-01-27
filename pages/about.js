@@ -23,10 +23,12 @@ export default function Page({ children, home }) {
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
             </section>
+            <section>
             <body>
-                musician l performer l model | software engineer⠀
+                musician l performer l model | software engineer⠀<br>
                 Tp. + F.Hr. + DJ + Vo
             </body>
+            </section>
                 <main>{children}</main>
             </div>
             

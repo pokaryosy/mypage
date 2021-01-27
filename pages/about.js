@@ -32,7 +32,7 @@ export default function Page({ children, home }) {
                                 alt={name}
                                 align="right"
                             />
-                        musician | performer | model | software engineer
+                        musician | performer | model | software engineer <br />
                         Tp. + F.Hr. + DJ + Vo
                         </p>
                     </body>

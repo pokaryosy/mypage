@@ -43,14 +43,9 @@ export default function Page({ children, home }) {
 
                         <p className={utilStyles.clearcase}>
                             <br />
-
-                            <div class="accordion">
-                            <input type="checkbox" id="check1" class="accordion-hidden"></input>
-                            <label for="check1" class="accordion-open">more details.</label>
-                            <label for="check1" class="accordion-close">
+                            more details.
                                         
-                                        Skills</label>
-                            </div>
+                                        Skills
                                         <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />

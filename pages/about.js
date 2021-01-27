@@ -23,15 +23,20 @@ export default function Page({ children, home }) {
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
             </section>
-            <section>
-            <body>
-            <p>musician l performer l model | software engineer</p>
-            <p>Tp. + F.Hr. + DJ + Vo</p>
-            </body>
-            </section>
+                <section>
+                    <body>
+                        <p>musician l performer l model | software engineer</p>
+                        <p>Tp. + F.Hr. + DJ + Vo</p>
+                        <img
+                            src="/images/profile.jpg"
+                            className={`${styles.headerHomeImage} ${utilStyles.borderCircle}`}
+                            alt={name}
+                        />
+                    </body>
+                </section>
                 <main>{children}</main>
             </div>
         </Layout>
-        
+
     )
 }

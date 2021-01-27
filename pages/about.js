@@ -36,8 +36,9 @@ export default function Page({ children, home }) {
                             <br />
                         Tp. + F.Hr. + DJ + Vo
                         </p>
+                        
+                        <p className={utilStyles.clearcase}>
                         <br />
-                        <p>
                         more details <br />
                         <br />
                         Skills <br />

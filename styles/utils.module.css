@@ -66,4 +66,6 @@
     vertical-align:top;
   }
 
-  
+.clearcase{
+  clear:both;
+}

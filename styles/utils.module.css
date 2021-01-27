@@ -71,15 +71,54 @@
   clear:both;
 }
 
-#mymenu {
-  border-style: solid;
+
+
+*,
+*::after,
+*::before {
+  box-sizing: border-box;
 }
-.show {
-  opacity: 1;
-  transform: translateY(20px);
-  transition: 500ms;
+
+.accordion {
+  width: 500px;
+  max-width: 100%;
 }
-.hide {
+
+/*------------------------------
+
+ここからアコーディオンのCSS
+
+------------------------------*/
+/* チェックボックスを非表示にする */
+.accordion-hidden{
+  display: none;
+}
+
+/* Question部分 */
+.accordion-open {
+  display: block;
+  padding: 10px;
+  background: #52a261;
+  cursor: pointer;
+  margin: 5px 0;
+  font-weight: 700;
+}
+
+/* Answer部分は最初は表示しない */
+.accordion-close {
+  display: block;
+  height: 0;
+  overflow: hidden;
+  padding: 0;
   opacity: 0;
-  transition: 500ms;
+  transition: 0.5s;/* 表示速度の設定 */
+}
+
+/* チェックボックスにチェックが入ったらAnswer部分を表示 */
+.accordion-hidden:checked + .accordion-open + .accordion-close {
+  height: auto;
+  opacity: 1;
+  padding: 10px;
+  background: #55acee;
+  font-weight: 700;
 }

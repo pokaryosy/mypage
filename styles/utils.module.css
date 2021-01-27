@@ -61,7 +61,7 @@
     height: auto;
   }
 
-  .topline{
+  .topline p{
     display:inline-block;
     vertical-align:top;
   }

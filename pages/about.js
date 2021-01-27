@@ -27,11 +27,11 @@ export default function Page({ children, home }) {
                     <body className={`${utilStyles.topline}`}>
                         <p>musician l performer l model | software engineer</p>
                         <p>Tp. + F.Hr. + DJ + Vo</p>
-                        <img
+                        <p><img
                             src="/images/profile.jpg"
                             className={`${utilStyles.artistphoto}`}
                             alt={name}
-                        />
+                        /></p>
                     </body>
                 </section>
                 <main>{children}</main>

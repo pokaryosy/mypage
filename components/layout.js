@@ -29,12 +29,13 @@ export default function Layout({ children, home }) {
       <header className={styles.header}>
         {home ? (
           <>
-
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            <Link href="/">
+              <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            </Link>
           </>
         ) : (
             <>
-              
+
               <h2 className={utilStyles.heading2Xl}>
                 <Link href="/">
                   <a className={utilStyles.colorInherit}>{name}</a>
@@ -44,7 +45,7 @@ export default function Layout({ children, home }) {
           )}
       </header>
       <main>{children}</main>
-      
+
     </div>
   )
 }

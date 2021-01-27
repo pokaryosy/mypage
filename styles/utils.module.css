@@ -59,6 +59,7 @@
     /*float: right;*/
     width: 50%;
     height: auto;
+    margin: 2px;
   }
 
   .topline p{
@@ -68,4 +69,37 @@
 
 .clearcase{
   clear:both;
+}
+
+
+
+label {
+  display: block;
+  margin: 0 0 4px 0;
+  padding : 15px;
+  line-height: 1;
+  cursor :pointer;
+}
+input {
+  display: none;
+}
+.menu ul {
+  margin: 0;
+  padding: 0;
+  list-style: none;
+}
+
+.menu li {
+  height: 0;
+  overflow: hidden;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+  transition: all 0.5s;
+}
+
+#type1:checked ~ #links1 li{
+  height: 54px;
+  opacity: 1;
 }

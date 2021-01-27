@@ -25,7 +25,7 @@ export default function Page({ children, home }) {
             </section>
                 <section>
                     <body>
-                    <br />
+                        <br />
                         <p>
                             <img
                                 src="/images/profile.jpg"
@@ -37,27 +37,34 @@ export default function Page({ children, home }) {
                             <br />
                         Tp. + F.Hr. + DJ + Vo
                         </p>
-                        
+
                         <p className={utilStyles.clearcase}>
-                        <br />
-                        more details. <br />
-                        <br />
+                        <div class="menu">
+                            <br />
+                            <label for="type1"> more details.</label> <br />
+                            <input type="checkbox" id="type1" class="accordion"></input>
+                            <ul id="links1">
+                            <li>
+                            <br />
                         Skills <br />
                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />
-                        <br />
-                        <br />
+                            <br />
+                            <br />
                         Education <br />
                         Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
                         Major: Computing and Music <br />
                         Research Theme: New Music Therapy, New Performance with AI <br />
-                        <br />
+                            <br />
                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                         Major: Computing and Music (Jazz performance and composition) <br />
                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
-
+                        </li>
+                        </ul>
+                        </div>
                         </p>
+                        
                     </body>
                 </section>
                 <main>{children}</main>

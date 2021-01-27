@@ -1,5 +1,7 @@
 /* this is title */
 .heading2Xl {
+    cursor: hand; 
+    cursor: pointer;
     font-size: 2.5rem;
     line-height: 1.2;
     font-weight: 100;
@@ -54,6 +56,5 @@
   }
 
   .daimei {
-    cursor: hand; 
-    cursor: pointer;
+    
   }

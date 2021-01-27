@@ -42,7 +42,7 @@ export default function Page({ children, home }) {
                         <div class="menu">
                             <br />
                             <a for="type1"> more details.</a> <br />
-                            <input type="checkbox" id="type1" class="accordion"></input>
+                            <input type="checkbox" id="type1"></input>
                             <ul id="links1">
                             <li>
                             <br />

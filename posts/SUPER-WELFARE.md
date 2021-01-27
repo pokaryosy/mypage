@@ -7,7 +7,7 @@ date: '2020-09-06'
 SUPER WELFARE EXPO 2020
 (Exhibition organizing leader, Exhibition Music)
 
-Let the ideals in your heart lead you to the outside world.
+Like the ideals in your heart lead you to the outside world.
 We see disabilities as "individuality" and deliver new values and ways of thinking through artwork. We also hope that this will lead to opportunities and confidence for all those who want to express themselves more.
 
 

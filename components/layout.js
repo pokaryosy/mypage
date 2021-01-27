@@ -30,7 +30,7 @@ export default function Layout({ children, home }) {
         {home ? (
           <>
 
-            <h1 className={utilStyles.heading2Xl}>{name}</h1>
+            
           </>
         ) : (
             <>
@@ -77,5 +77,6 @@ from 55
         </div>
       )}
 
-
+33
+<h1 className={utilStyles.heading2Xl}>{name}</h1>
 */

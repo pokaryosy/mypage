@@ -29,6 +29,7 @@ We see disabilities as "individuality" and deliver new values and ways of thinki
 <br>
 <br>
 <br>
+<br>
 details of each works
 <br>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
@@ -84,75 +85,66 @@ photos
 
 member
 <br>
-Natsuki 
-WAKE Rep., Organize
-Instagram: https://www.instagram.com/natsuki_lala/​
-WAKE
-Instagram: https://www.instagram.com/wake_tokyo/​
+
+[Natsuki](https://www.instagram.com/natsuki_lala/​)
+[WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize
 <br>
 
-YOSY POKARI
+[YOSY POKARI](https://www.instagram.com/pokaryosy/​)
 Organizing leader, Music
-Instagram: https://www.instagram.com/pokaryosy/​
-web: https://pokaryosy.github.io/portfolio/​
 <br>
 
-M000n¥ 
+[MnY](https://www.instagram.com/insta_ota_whimsy/)
 Organize, Movie
-Instagram: https://www.instagram.com/insta_ota/​
 <br>
 
-内野紀恵
+[内野紀恵](https://www.instagram.com/key_yekk/​)
 Organize, Poetry installation
-Instagram: https://www.instagram.com/key_yekk/​
 <br>
 
-Suzy
+[Suzy](https://www.instagram.com/suzism_/​)
 Organize
-Instagram: https://www.instagram.com/suzism_/​
 <br>
 
-駿河谷美凛
+[駿河谷美凛](https://www.instagram.com/mirin.61s/​)
 Poetry installation
-Instagram: https://www.instagram.com/mirin.61s/​
 <br>
 
-monchan 
+[monchan](https://www.instagram.com/wakuwakumon/​)
 Spatial design
-Instagram: https://www.instagram.com/wakuwakumon/​
 <br>
 
-Masashi 
+[Masashi](https://www.instagram.com/m_asashiomoto/​)
 Music, Painting
-Instagram: https://www.instagram.com/m_asashiomoto/​
 <br>
 
-SHEN LINTAO 
+[SHEN LINTAO](https://www.instagram.com/lintao.s/​)
 Spray painting
-Instagram: https://www.instagram.com/lintao.s/​
 <br>
 
-Ktr 
+[Ktr](https://www.instagram.com/ktr______/)
 Photo 
-Instagram: https://www.instagram.com/ktr______/​
 <br>
 
-Takahashi Yoshimi 
+[Takahashi Yoshimi](https://www.instagram.com/yopsymi/​)
 Painting
-Instagram: https://www.instagram.com/yopsymi/​
-web: https://yoshimitakahashi.wixsite.com/...​
+[web](https://yoshimitakahashi.wixsite.com/...​)
 <br>
 
-Rinze MTSUI 
+[Rinze MTSUI](https://www.instagram.com/rinze_eeeee/​)
 Graphic poster
-Instagram: https://www.instagram.com/rinze_eeeee/​
-Instagram: https://www.instagram.com/_apple.idea/​
+[Instagram2](https://www.instagram.com/_apple.idea/​)
 <br>
 
-Hana Suzuki⠀
+[Hana Suzuki](https://www.instagram.com/hanabudayo/)
 Painting
-Instagram: https://www.instagram.com/hanabudayo/
 <br>
+<br>
+
+Special thanks.
+[F/Actory](https://www.instagram.com/factory_tokyo/) (gallery)
+[Kenji Yamaguchi](https://www.instagram.com/hanabudayo/) (Model, Hawks Captain)
+[幸和義肢研究所](https://www.kowagishi.com/) (wheelchair)
 
 
 <!-- 

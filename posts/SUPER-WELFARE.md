@@ -82,8 +82,77 @@ photos
 <br>
 <br>
 
+member
+<br>
+Natsuki 
+WAKE Rep., Organize
+Instagram: https://www.instagram.com/natsuki_lala/​
+WAKE
+Instagram: https://www.instagram.com/wake_tokyo/​
+<br>
 
+YOSY POKARI
+Organizing leader, Music
+Instagram: https://www.instagram.com/pokaryosy/​
+web: https://pokaryosy.github.io/portfolio/​
+<br>
 
+M000n¥ 
+Organize, Movie
+Instagram: https://www.instagram.com/insta_ota/​
+<br>
+
+内野紀恵
+Organize, Poetry installation
+Instagram: https://www.instagram.com/key_yekk/​
+<br>
+
+Suzy
+Organize
+Instagram: https://www.instagram.com/suzism_/​
+<br>
+
+駿河谷美凛
+Poetry installation
+Instagram: https://www.instagram.com/mirin.61s/​
+<br>
+
+monchan 
+Spatial design
+Instagram: https://www.instagram.com/wakuwakumon/​
+<br>
+
+Masashi 
+Music, Painting
+Instagram: https://www.instagram.com/m_asashiomoto/​
+<br>
+
+SHEN LINTAO 
+Spray painting
+Instagram: https://www.instagram.com/lintao.s/​
+<br>
+
+Ktr 
+Photo 
+Instagram: https://www.instagram.com/ktr______/​
+<br>
+
+Takahashi Yoshimi 
+Painting
+Instagram: https://www.instagram.com/yopsymi/​
+web: https://yoshimitakahashi.wixsite.com/...​
+<br>
+
+Rinze MTSUI 
+Graphic poster
+Instagram: https://www.instagram.com/rinze_eeeee/​
+Instagram: https://www.instagram.com/_apple.idea/​
+<br>
+
+Hana Suzuki⠀
+Painting
+Instagram: https://www.instagram.com/hanabudayo/
+<br>
 
 
 <!-- 

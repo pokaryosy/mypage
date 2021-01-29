@@ -34,7 +34,7 @@ export default function Page({ children, home }) {
                                 align="right"
                             />
                         musician <br />
-                        performer <br />
+                        filmmaker <br />
                         model <br />
                         software engineer <br />
                             <br />

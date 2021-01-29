@@ -86,67 +86,67 @@ photos
 member
 <br>
 
-[Natsuki](https://www.instagram.com/natsuki_lala/​)
-[WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize
+[Natsuki](https://www.instagram.com/natsuki_lala/​) Rep., Organize <br>
+[WAKE](https://www.instagram.com/wake_tokyo/​) 
 <br>
 
-[YOSY POKARI](https://www.instagram.com/pokaryosy/​)
+[YOSY POKARI](https://www.instagram.com/pokaryosy/​) <br>
 Organizing leader, Music
 <br>
 
-[MnY](https://www.instagram.com/insta_ota_whimsy/)
+[MnY](https://www.instagram.com/insta_ota_whimsy/) <br>
 Organize, Movie
 <br>
 
-[内野紀恵](https://www.instagram.com/key_yekk/​)
+[内野紀恵](https://www.instagram.com/key_yekk/​) <br>
 Organize, Poetry installation
 <br>
 
-[Suzy](https://www.instagram.com/suzism_/​)
+[Suzy](https://www.instagram.com/suzism_/​) <br>
 Organize
 <br>
 
-[駿河谷美凛](https://www.instagram.com/mirin.61s/​)
+[駿河谷美凛](https://www.instagram.com/mirin.61s/​) <br>
 Poetry installation
 <br>
 
-[monchan](https://www.instagram.com/wakuwakumon/​)
+[monchan](https://www.instagram.com/wakuwakumon/​) <br>
 Spatial design
 <br>
 
-[Masashi](https://www.instagram.com/m_asashiomoto/​)
+[Masashi](https://www.instagram.com/m_asashiomoto/​) <br>
 Music, Painting
 <br>
 
-[SHEN LINTAO](https://www.instagram.com/lintao.s/​)
+[SHEN LINTAO](https://www.instagram.com/lintao.s/​) <br>
 Spray painting
 <br>
 
-[Ktr](https://www.instagram.com/ktr______/)
+[Ktr](https://www.instagram.com/ktr______/) <br>
 Photo 
 <br>
 
-[Takahashi Yoshimi](https://www.instagram.com/yopsymi/​)
-Painting
+[Takahashi Yoshimi](https://www.instagram.com/yopsymi/​) <br>
+Painting <br>
 [web](https://yoshimitakahashi.wixsite.com/...​)
 <br>
 
-[Rinze MTSUI](https://www.instagram.com/rinze_eeeee/​)
-Graphic poster
-[Instagram2](https://www.instagram.com/_apple.idea/​)
+[Rinze MTSUI](https://www.instagram.com/rinze_eeeee/​) <br>
+Graphic poster <br>
+[Instagram2](https://www.instagram.com/_apple.idea/​) <br>
 <br>
 
-[Hana Suzuki](https://www.instagram.com/hanabudayo/)
+[Hana Suzuki](https://www.instagram.com/hanabudayo/) <br>
 Painting
 <br>
 <br>
 
-Special thanks.
-[F/Actory](https://www.instagram.com/factory_tokyo/) (gallery)
-[Kenji Yamaguchi](https://www.instagram.com/hanabudayo/) (Model, Hawks Captain)
-[幸和義肢研究所](https://www.kowagishi.com/) (wheelchair)
+Special thanks. <br>
+[F/Actory](https://www.instagram.com/factory_tokyo/) (gallery) <br>
+[Kenji Yamaguchi](https://www.instagram.com/hanabudayo/) (Model, Hawks Captain) <br>
+[幸和義肢研究所](https://www.kowagishi.com/) (wheelchair) <br>
 
-
+<br>
 <!-- 
 #h1
 ##h2

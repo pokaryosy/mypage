@@ -24,6 +24,16 @@ We see disabilities as "individuality" and deliver new values and ways of thinki
 
 心に秘めた理想(作品)が、外の世界(自分らしさ)へ導くように。<br>
 障がいも”個性”と捉え、アート作品を通して、新たな価値観や考え方を届けます。そして、自分をもっと表現したい全ての人へ、そのきっかけや自信に繋がることを私達は願います。
+<br>
+<br>
+<br>
+broadcast
+<br>
+<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+
+
+
+
 
 
 <!-- 

@@ -86,58 +86,71 @@ photos
 member
 <br>
 
-[Natsuki](https://www.instagram.com/natsuki_lala/​) (Rep., Organize) <br>
-[WAKE](https://www.instagram.com/wake_tokyo/​) 
+[Natsuki](https://www.instagram.com/natsuki_lala/​) <br>
+([WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize) 
+<br>
 <br>
 
 [YOSY POKARI](https://www.instagram.com/pokaryosy/​) <br>
 (Organizing leader, Music)
 <br>
+<br>
 
 [MnY](https://www.instagram.com/insta_ota_whimsy/) <br>
 (Organize, Movie)
+<br>
 <br>
 
 [内野紀恵](https://www.instagram.com/key_yekk/​) <br>
 (Organize, Poetry installation)
 <br>
+<br>
 
 [Suzy](https://www.instagram.com/suzism_/​) <br>
 (Organize)
+<br>
 <br>
 
 [駿河谷美凛](https://www.instagram.com/mirin.61s/​) <br>
 (Poetry installation)
 <br>
+<br>
 
 [monchan](https://www.instagram.com/wakuwakumon/​) <br>
 (Spatial design)
+<br>
 <br>
 
 [Masashi](https://www.instagram.com/m_asashiomoto/​) <br>
 (Music, Painting)
 <br>
+<br>
 
 [SHEN LINTAO](https://www.instagram.com/lintao.s/​) <br>
 (Spray painting)
 <br>
+<br>
 
 [Ktr](https://www.instagram.com/ktr______/) <br>
 (Photo)
+<br>
 <br>
 
 [Takahashi Yoshimi](https://www.instagram.com/yopsymi/​) <br>
 (Painting) <br>
 [web](https://yoshimitakahashi.wixsite.com/...​)
 <br>
+<br>
 
 [Rinze MTSUI](https://www.instagram.com/rinze_eeeee/​) <br>
 (Graphic poster) <br>
-[Instagram2](https://www.instagram.com/_apple.idea/​) <br>
+[Instagram2](https://www.instagram.com/_apple.idea/​) 
+<br>
 <br>
 
 [Hana Suzuki](https://www.instagram.com/hanabudayo/) <br>
 (Painting)
+<br>
 <br>
 <br>
 

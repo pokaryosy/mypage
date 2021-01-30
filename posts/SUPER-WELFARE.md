@@ -42,15 +42,15 @@ details of each works
 photos
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)](https://www.instagram.com/pokaryosy/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)](https://www.instagram.com/pokaryosy)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)](https://www.instagram.com/wakuwakumon/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)](https://www.instagram.com/wakuwakumon​)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)](https://www.instagram.com/mcguffin_official/)
+[![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)](https://www.instagram.com/mcguffin_official)
 <br>
 <br>
 

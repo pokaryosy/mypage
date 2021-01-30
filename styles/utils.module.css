@@ -84,8 +84,11 @@
   }
 
 
-  .footer p{
-  text-align: center;
+  .footer{
   position: absolute;
   bottom: 0;
+}
+
+.footer p{
+  text-align: center;
 }

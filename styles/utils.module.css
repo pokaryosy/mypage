@@ -84,10 +84,8 @@
   }
 
 
-  .footer{
-  margin-left: auto;
-  margin-right: auto;
-  justify-content: center;
+  .footer p{
+  text-align: center;
   position: absolute;
   bottom: 0;
 }

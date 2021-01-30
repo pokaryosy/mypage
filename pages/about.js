@@ -23,6 +23,7 @@ export default function Page({ children, home }) {
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+                <a href="https://www.youtube.com/channel/UCFZn1q2yvksOER-RQdgSLhA">yoshika.</a>&emsp;
             </section>
                 <section>
                     <body>

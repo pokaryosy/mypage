@@ -73,12 +73,11 @@
 
 .video{
   width:100%;
-  padding-bottom: 156.25%;
+  padding-bottom: 56.25%;
   height:0px;
-  position: relative;
+  position: relative; 
   }
   .video iframe{
-  position: absolute;
   width: 100%;
   height: 100%;
   }
@@ -90,5 +89,5 @@
 }
 
 .footer p{
-  text-align: center;
+  text-align: justify;
 }

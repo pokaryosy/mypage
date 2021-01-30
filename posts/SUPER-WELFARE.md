@@ -54,7 +54,7 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)]
+[![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)]()
 <br>
 <br>
 
@@ -124,7 +124,7 @@ photos
 <br>
 <br>
 
-[Masashi](https://www.instagram.com/m_asashiomoto/) <br>
+[Masashi](https://www.instagram.com/m_asashiomoto) <br>
 (Music, Painting)
 <br>
 <br>

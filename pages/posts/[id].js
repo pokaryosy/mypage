@@ -37,6 +37,7 @@ export default function Post({ postData }) {
                 </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+                <a href="https://www.youtube.com/channel/UCFZn1q2yvksOER-RQdgSLhA">yoshika.</a>
             </section>
             <article>
                 <h1 className={utilStyles.headingXl}>{postData.title}</h1>

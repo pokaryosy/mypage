@@ -5,7 +5,9 @@ date: '2020-09-06'
 <br>
 <br>
 
-<iframe width="100%" height="auto" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div class="video">
+<iframe width="100%" height= "width * 0.563" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 2020 9/6(Sun) 14:00-18:00 JST⠀
 <br>

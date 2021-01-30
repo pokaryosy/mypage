@@ -82,7 +82,7 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)](https://www.instagram.com/yopsymi​)
+[![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)](https://www.instagram.com/yopsymi)
 <br>
 <br>
 
@@ -143,7 +143,7 @@ photos
 <br>
 <br>
 
-[Takahashi Yoshimi](https://www.instagram.com/yopsymi​) <br>
+[Takahashi Yoshimi](https://www.instagram.com/yopsymi) <br>
 (Painting) <br>
 [web](https://yoshimitakahashi.wixsite.com/yoshimi-illustration)
 <br>

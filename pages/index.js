@@ -46,6 +46,10 @@ export default function Home({ allPostsData }) {
         </ul>
       </section>
 
+      <footer className={utilStyles.footer}>
+        <p>(c)YOSY POKARI</p>
+      </footer>
+
     </Layout>
   )
 }

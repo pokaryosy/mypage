@@ -6,6 +6,16 @@ date: '2020-09-06'
 <br>
 
 <iframe width = "auto" height = "auto" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 
 2020 9/6(Sun) 14:00-18:00 JST⠀
 <br>
@@ -35,6 +45,16 @@ We see disabilities as "individuality" and deliver new values and ways of thinki
 details of each works
 <br>
 <iframe width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 <br>

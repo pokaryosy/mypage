@@ -163,7 +163,7 @@ photos
 
 -Special thanks. <br>
 [F/Actory](https://www.instagram.com/factory_tokyo) (gallery) <br>
-[Kenji Yamaguchi](https://www.instagram.com/hanabudayo) (Model, Hawks Captain) <br>
+[Kenji Yamaguchi](https://chibahawks.com) (Model, Hawks Captain) <br>
 [幸和義肢研究所](https://www.kowagishi.com) (wheelchair) <br>
 
 

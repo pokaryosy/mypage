@@ -74,7 +74,7 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)](https://www.instagram.com/lintao.s​)
+[![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)](https://www.instagram.com/lintao.s)
 <br>
 <br>
 

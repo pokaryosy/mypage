@@ -15,13 +15,14 @@ export default function Page({ children, home }) {
                     <title>about.</title>
                 </Head>
                 <header>
-
+                
                 </header>
                 <section className={utilStyles.headingMd}>
                     <Link href="/about">
                         <a className={utilStyles.colorInherit}>about.</a>
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+                <a href="https://www.instagram.com/pokaryosy/">twitter.</a>&emsp;
             </section>
                 <section>
                     <body>

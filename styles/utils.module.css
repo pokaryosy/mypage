@@ -73,20 +73,19 @@
 
 .video{
   width:100%;
-
+  padding-bottom: 56.25%;
+  height:0px;
   position: relative;
   }
   .video iframe{
   position: absolute;
   width: 100%;
   height: 100%;
-  padding-bottom: 56.25%;
-  height:0px;
   }
 
 
   .footer{
-  text-align: initial;
+  position: initial;
   text-align: center;
   position: absolute;
   bottom: 0;

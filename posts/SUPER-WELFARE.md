@@ -42,47 +42,47 @@ details of each works
 photos
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)(https://www.instagram.com/pokaryosy/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)](https://www.instagram.com/pokaryosy/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)(https://www.instagram.com/wakuwakumon/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)](https://www.instagram.com/wakuwakumon/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)(https://www.instagram.com/mcguffin_official/)
+[![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)](https://www.instagram.com/mcguffin_official/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)
+[![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)(https://www.instagram.com/_apple.idea/)
+[![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)](https://www.instagram.com/_apple.idea/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)(https://www.instagram.com/ktr______/)
+[![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)](https://www.instagram.com/ktr______/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)(https://www.instagram.com/lintao.s/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)](https://www.instagram.com/lintao.s/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)(https://www.instagram.com/lintao.s/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)](https://www.instagram.com/lintao.s/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)(https://www.instagram.com/hanabudayo/)
+[![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)](https://www.instagram.com/hanabudayo/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)(https://www.instagram.com/yopsymi/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)](https://www.instagram.com/yopsymi/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)(https://www.instagram.com/ktr______/)
+[![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)](https://www.instagram.com/ktr______/)
 <br>
 <br>
 

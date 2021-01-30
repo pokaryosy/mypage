@@ -10,12 +10,14 @@ date: '2020-09-06'
 2020 9/6(Sun) 14:00-18:00 JST⠀
 <br>
 <br>
+<br>
 
 **SUPER WELFARE EXPO 2020** <br>
 **(Exhibition organizing leader, Exhibition Music)**
 
 Like the ideals in your heart lead you to the outside world.
 We see disabilities as "individuality" and deliver new values and ways of thinking through artwork. We also hope that this will lead to opportunities and confidence for all those who want to express themselves more.
+<br>
 <br>
 <br>
 
@@ -36,18 +38,19 @@ details of each works
 <br>
 <br>
 <br>
+<br>
 photos
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)(https://www.instagram.com/pokaryosy/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)(https://www.instagram.com/wakuwakumon/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)(https://www.instagram.com/mcguffin_official/)
 <br>
 <br>
 
@@ -55,44 +58,44 @@ photos
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)(https://www.instagram.com/_apple.idea/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)(https://www.instagram.com/ktr______/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)(https://www.instagram.com/lintao.s/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)(https://www.instagram.com/lintao.s/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)(https://www.instagram.com/hanabudayo/)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)(https://www.instagram.com/yopsymi/​)
 <br>
 <br>
 
-![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)
+![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)(https://www.instagram.com/ktr______/)
 <br>
 <br>
 
 -member
 <br>
 
-[Natsuki](https://www.instagram.com/natsuki_lala/​) <br>
-([WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize) 
+[YOSY POKARI](https://www.instagram.com/pokaryosy/​) <br>
+(Organizing leader, Music)
 <br>
 <br>
 
-[YOSY POKARI](https://www.instagram.com/pokaryosy/​) <br>
-(Organizing leader, Music)
+[Natsuki](https://www.instagram.com/natsuki_lala/​) <br>
+([WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize) 
 <br>
 <br>
 

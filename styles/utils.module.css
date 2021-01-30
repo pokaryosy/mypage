@@ -76,6 +76,7 @@
   padding-bottom: 56.25%;
   height:0px;
   position: relative;
+  float: left;
   }
   .video iframe{
   position: absolute;
@@ -86,10 +87,7 @@
 
 
   .footer{
-    width: 100%;
-    text-align: center;
-    padding: 30px 0;
-
+  text-align: center;
   position: absolute;/*←絶対位置*/
-    bottom: 0; /*下に固定*/
+  bottom: 0; /*下に固定*/
 }

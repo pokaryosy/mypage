@@ -113,7 +113,7 @@ photos
 <br>
 <br>
 
-[Suzy](https://www.instagram.com/suzism_) <br>
+[Suzy](https://www.instagram.com/szz.y99/) <br>
 (Organize)
 <br>
 <br>
@@ -123,7 +123,7 @@ photos
 <br>
 <br>
 
-[monchan](https://www.instagram.com/wakuwakumon​) <br>
+[monchan](https://www.instagram.com/wakuwakumon) <br>
 (Spatial design)
 <br>
 <br>

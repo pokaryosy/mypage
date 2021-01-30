@@ -54,114 +54,116 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)
+[![SuperExpo](/images/SuperExpo/SuperExpo04.jpg)]
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)](https://www.instagram.com/_apple.idea/)
+[![SuperExpo](/images/SuperExpo/SuperExpo05.jpg)](https://www.instagram.com/_apple.idea)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)](https://www.instagram.com/ktr______/)
+[![SuperExpo](/images/SuperExpo/SuperExpo06.jpg)](https://www.instagram.com/ktr______)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)](https://www.instagram.com/lintao.s/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo07.jpg)](https://www.instagram.com/lintao.s)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)](https://www.instagram.com/lintao.s/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo08.jpg)](https://www.instagram.com/lintao.s​)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)](https://www.instagram.com/hanabudayo/)
+[![SuperExpo](/images/SuperExpo/SuperExpo09.jpg)](https://www.instagram.com/hanabudayo)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)](https://www.instagram.com/yopsymi/​)
+[![SuperExpo](/images/SuperExpo/SuperExpo10.jpg)](https://www.instagram.com/yopsymi​)
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)](https://www.instagram.com/ktr______/)
+[![SuperExpo](/images/SuperExpo/SuperExpo11.jpg)](https://www.instagram.com/ktr______)
 <br>
 <br>
 
 -member
 <br>
 
-[YOSY POKARI](https://www.instagram.com/pokaryosy/​) <br>
+[YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
 (Organizing leader, Music)
 <br>
 <br>
 
-[Natsuki](https://www.instagram.com/natsuki_lala/​) <br>
-([WAKE](https://www.instagram.com/wake_tokyo/​) Rep., Organize) 
+[Natsuki](https://www.instagram.com/natsuki_lala) <br>
+([WAKE](https://www.instagram.com/wake_tokyo) Rep., Organize) 
 <br>
 <br>
 
-[MnY](https://www.instagram.com/insta_ota_whimsy/) <br>
+[MnY](https://www.instagram.com/insta_ota_whimsy) <br>
 (Organize, Movie)
 <br>
 <br>
 
-[内野紀恵](https://www.instagram.com/key_yekk/​) <br>
+[内野紀恵](https://www.instagram.com/key_yekk) <br>
 (Organize, Poetry installation)
 <br>
 <br>
 
-[Suzy](https://www.instagram.com/suzism_/​) <br>
+[Suzy](https://www.instagram.com/suzism_) <br>
 (Organize)
 <br>
 <br>
 
-[駿河谷美凛](https://www.instagram.com/mirin.61s/​) <br>
+[駿河谷美凛](https://www.instagram.com/mirin.61s) <br>
 (Poetry installation)
 <br>
 <br>
 
-[monchan](https://www.instagram.com/wakuwakumon/​) <br>
+[monchan](https://www.instagram.com/wakuwakumon​) <br>
 (Spatial design)
 <br>
 <br>
 
-[Masashi](https://www.instagram.com/m_asashiomoto/​) <br>
+[Masashi](https://www.instagram.com/m_asashiomoto/) <br>
 (Music, Painting)
 <br>
 <br>
 
-[SHEN LINTAO](https://www.instagram.com/lintao.s/​) <br>
+[SHEN LINTAO](https://www.instagram.com/lintao.s) <br>
 (Spray painting)
 <br>
 <br>
 
-[Ktr](https://www.instagram.com/ktr______/) <br>
+[Ktr](https://www.instagram.com/ktr______) <br>
 (Photo)
 <br>
 <br>
 
-[Takahashi Yoshimi](https://www.instagram.com/yopsymi/​) <br>
+[Takahashi Yoshimi](https://www.instagram.com/yopsymi​) <br>
 (Painting) <br>
-[web](https://yoshimitakahashi.wixsite.com/...​)
+[web](https://yoshimitakahashi.wixsite.com/yoshimi-illustration)
 <br>
 <br>
 
-[Rinze MTSUI](https://www.instagram.com/rinze_eeeee/​) <br>
+[Rinze MTSUI](https://www.instagram.com/rinze_eeeee) <br>
 (Graphic poster) <br>
-[Instagram2](https://www.instagram.com/_apple.idea/​) 
+[Instagram2](https://www.instagram.com/_apple.idea) 
 <br>
 <br>
 
-[Hana Suzuki](https://www.instagram.com/hanabudayo/) <br>
+[Hana Suzuki](https://www.instagram.com/hanabudayo) <br>
 (Painting)
 <br>
 <br>
 <br>
 
 -Special thanks. <br>
-[F/Actory](https://www.instagram.com/factory_tokyo/) (gallery) <br>
-[Kenji Yamaguchi](https://www.instagram.com/hanabudayo/) (Model, Hawks Captain) <br>
-[幸和義肢研究所](https://www.kowagishi.com/) (wheelchair) <br>
+[F/Actory](https://www.instagram.com/factory_tokyo) (gallery) <br>
+[Kenji Yamaguchi](https://www.instagram.com/hanabudayo) (Model, Hawks Captain) <br>
+[幸和義肢研究所](https://www.kowagishi.com) (wheelchair) <br>
 
+
+<br>
 <br>
 <!-- 
 #h1

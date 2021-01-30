@@ -30,6 +30,13 @@ export default function Post({ postData }) {
             <Head>
                 <title>{postData.title}</title>
             </Head>
+            <section className={utilStyles.headingMd}>
+                <Link href="/about">
+                    <a className={utilStyles.colorInherit}>about.</a>
+                </Link>&emsp;
+                <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+                <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+            </section>
             <article>
                 <h1 className={utilStyles.headingXl}>{postData.title}</h1>
                 <div className={utilStyles.lightText}>

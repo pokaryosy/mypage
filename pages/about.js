@@ -22,7 +22,7 @@ export default function Page({ children, home }) {
                         <a className={utilStyles.colorInherit}>about.</a>
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-                <a >twitter.</a>&emsp;
+                <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
             </section>
                 <section>
                     <body>

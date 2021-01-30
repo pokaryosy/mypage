@@ -46,7 +46,7 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)](https://www.instagram.com/wakuwakumon​)
+[![SuperExpo](/images/SuperExpo/SuperExpo02.jpg)](https://www.instagram.com/wakuwakumon)
 <br>
 <br>
 

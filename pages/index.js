@@ -47,7 +47,7 @@ export default function Home({ allPostsData }) {
       </section>
 
       <footer className={utilStyles.footer}>
-        <p>(c)YOSY POKARI</p>
+        <p>© 2021 YOSY POKARI</p>
       </footer>
 
     </Layout>

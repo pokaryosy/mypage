@@ -91,4 +91,5 @@
 
 .footer p{
   display: inline-block;
+  bottom: 0;
 }

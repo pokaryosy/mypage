@@ -37,7 +37,7 @@ More travel films are coming, and your subscription is more than welcomed. <br>
 <br>
 <br>
 
-[instagram.](https://www.instagram.com/yoshika_photo/​)<br>
+[instagram.](https://www.instagram.com/yoshika_photo​)<br>
 
 
 <br>

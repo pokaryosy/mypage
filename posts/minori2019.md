@@ -5,6 +5,10 @@ date: '2019-07-26'
 <br>
 <br>
 
+photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
+<br>
+<br>
+
 [![minori2019](/images/minori2019/minori2019_1.jpg)](https://www.instagram.com/pokaryosy/)
 <br>
 <br>
@@ -17,7 +21,7 @@ date: '2019-07-26'
 <br>
 <br>
 
-photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
+
 
 
 <br>

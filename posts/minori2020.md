@@ -5,6 +5,10 @@ date: '2020-10-21'
 <br>
 <br>
 
+photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
+<br>
+<br>
+
 [![minori2020](/images/minori2020/minori2020_1.jpg)](https://www.instagram.com/pokaryosy/)
 <br>
 <br>
@@ -25,7 +29,7 @@ date: '2020-10-21'
 <br>
 <br>
 
-photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
+
 
 
 <br>

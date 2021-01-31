@@ -47,12 +47,11 @@ export default function Post({ postData }) {
                 </div>
                 <div className={utilStyles.video}>
                     <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-                </div>              
-
+                </div>
             </article>
-
-
-
+            <footer className={utilStyles.footer}>
+                <p>© 2021 YOSY POKARI</p>
+            </footer>
         </Layout>
     )
 }

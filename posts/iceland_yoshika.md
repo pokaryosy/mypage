@@ -15,16 +15,7 @@ date: '2020-04-15'
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
+
 
 
 I am walking around in Iceland. <br>
@@ -35,10 +26,10 @@ More travel films are coming, and your subscription is more than welcomed. <br>
 今回は北欧の島国、アイスランドを歩きます。<br>
 歩くことで、見える、聞こえる、感じる世界をありのままにお届けします。<br>
 また、Instagramに訪れた場所やアザーカットも載せていきます！ <br>
+<br>
+<br>
 
-
--Instagram <br>
-[Yoshika](https://www.instagram.com/yoshika_photo/​)<br>
+[instagram.](https://www.instagram.com/yoshika_photo/​)<br>
 
 
 <br>

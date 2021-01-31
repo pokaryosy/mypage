@@ -38,6 +38,9 @@ export default function Layout({ children, home }) {
               <Link href="/">
                 <h2 className={utilStyles.heading2Xl}>{name}</h2>
               </Link>
+              <footer className={utilStyles.footer}>
+                <p>© 2021 YOSY POKARI</p>
+              </footer>
             </>
           )}
       </header>

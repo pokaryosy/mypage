@@ -14,7 +14,7 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 <br>
 <br>
 
-URL：(https://joinclubhouse.com/event/M8A4GNWD)
+URL：[https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)
 <br>
 <br>
 

@@ -1,6 +1,7 @@
 ---
 title: 'PON JAPON FEST 2020'
 date: '2020-12-06'
+postphoto: '/images/ponjaponfest2020/ponjaponfest4.jpg'
 ---
 <br>
 <br>

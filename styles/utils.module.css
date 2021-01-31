@@ -96,5 +96,6 @@
 }
 
 .postphoto {
-  height: auto;
+  cursor: hand; 
+  cursor: pointer;
 }

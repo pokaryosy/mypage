@@ -1,6 +1,7 @@
 ---
 title: 'model'
 date: '2020-10-21'
+postphoto: '/images/minori2020/minori2020_1.jpg'
 ---
 <br>
 <br>

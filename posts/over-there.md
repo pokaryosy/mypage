@@ -1,6 +1,7 @@
 ---
 title: 'over there'
 date: '2020-12-09'
+postphoto: '/images/overthere/overthere.jpg'
 ---
 <br>
 <br>

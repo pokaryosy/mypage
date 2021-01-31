@@ -1,7 +1,7 @@
 ---
 title: 'Clubhouse -music'
 date: '2021-02-01'
-
+postphoto: '/images/Clubhouse/Clubhouse.jpg'
 ---
 <br>
 <br>

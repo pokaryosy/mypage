@@ -1,6 +1,7 @@
 ---
 title: 'SUPER WELFARE EXPO 2020'
 date: '2020-09-06'
+postphoto: '/images/SuperExpo/SuperExpo01.jpg'
 ---
 <br>
 <br>

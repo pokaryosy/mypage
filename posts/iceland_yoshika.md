@@ -1,6 +1,7 @@
 ---
 title: 'Iceland -Yoshika'
 date: '2020-04-15'
+postphoto: '/images/yoshika/Iceland1.jpg'
 ---
 <br>
 <br>

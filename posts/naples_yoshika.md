@@ -1,6 +1,7 @@
 ---
 title: 'Naples -Yoshika'
 date: '2020-03-26'
+postphoto: '/images/yoshika/Naples.jpg'
 ---
 <br>
 <br>

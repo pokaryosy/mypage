@@ -15,7 +15,7 @@ export default function Page({ children, home }) {
                     <title>about.</title>
                 </Head>
                 <header>
-                
+
                 </header>
                 <section className={utilStyles.headingMd}>
                     <Link href="/about">
@@ -23,7 +23,7 @@ export default function Page({ children, home }) {
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-                
+
             </section>
                 <section>
                     <body>
@@ -62,17 +62,17 @@ export default function Page({ children, home }) {
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />
-                                        <br />
-                                        <br />
+                            <br />
+                            <br />
                                         Education <br />
                                         Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
                                         Major: Computing and Music <br />
                                         Research Theme: New Music Therapy, New Performance with AI <br />
-                                        <br />
+                            <br />
                                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
-                            
+
 
                         </p>
 
@@ -80,6 +80,11 @@ export default function Page({ children, home }) {
                 </section>
                 <main>{children}</main>
             </div>
+
+            <footer className={utilStyles.footer}>
+                <p>© 2021 YOSY POKARI</p>
+            </footer>
+
         </Layout>
 
     )

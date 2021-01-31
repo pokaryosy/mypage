@@ -37,18 +37,23 @@ export default function Post({ postData }) {
                 </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-                
+
             </section>
             <article>
-            <br />
+                <br />
                 <h1 className={utilStyles.headingXl}>{postData.title}</h1>
                 <div className={utilStyles.lightText}>
                     <Date dateString={postData.date} />
                 </div>
                 <div className={utilStyles.video}>
-                <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
+                    <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
                 </div>
             </article>
+
+            <footer className={utilStyles.footer}>
+                <p>© 2021 YOSY POKARI</p>
+            </footer>
+
         </Layout>
     )
 }

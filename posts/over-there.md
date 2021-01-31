@@ -14,7 +14,17 @@ date: '2020-12-09'
 <br>
 
 ![overthere](/images/SuperExpo/overthere3.jpg)
+<br>
+<br>
 
+
+What are they looking at on the other side of the portrait photo?
+<br>
+<br>
+#artificalintelligence <br>
+#machinelearning 
+
+<br>
 
 <br>
 <br>

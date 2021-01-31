@@ -1,5 +1,5 @@
 ---
-title: 'photo model (Minori Nakamatsu)'
+title: 'model (Minori Nakamatsu)'
 date: '2019-07-26'
 ---
 <br>

@@ -38,17 +38,17 @@ export default function Home({ allPostsData }) {
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
-                
+                <img
+                  src="/images/Clubhouse/Clubhouse.jpg"
+                  className={`${utilStyles.postphoto}`}
+                  alt={name}
+                />
               </Link>
               <br />
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
               </small>
-              <img
-                  src="/images/Clubhouse/Clubhouse.jpg"
-                  className={`${utilStyles.postphoto}`}
-                  alt={name}
-                />
+              
             </li>
           ))}
         </ul>

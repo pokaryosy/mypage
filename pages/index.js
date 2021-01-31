@@ -15,6 +15,8 @@ export async function getStaticProps() {
   }
 }
 
+const name = 'YOSY POKARI'
+
 export default function Home({ allPostsData }) {
   return (
     <Layout home>
@@ -48,7 +50,7 @@ export default function Home({ allPostsData }) {
         <img
                   src="/images/Clubhouse/Clubhouse.jpg"
                   className={`${utilStyles.postphoto}`}
-                  alt={title}
+                  alt={name}
                 />
         <br />
         <footer className={utilStyles.footer}>

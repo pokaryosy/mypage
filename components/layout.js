@@ -39,15 +39,11 @@ export default function Layout({ children, home }) {
                 <h2 className={utilStyles.heading2Xl}>{name}</h2>
               </Link>
             </>
-
-
+            
           )}
       </header>
       <main>
         {children}
-        <footer className={utilStyles.footer}>
-          <p>© 2021 YOSY POKARI</p>
-        </footer>
       </main>
 
     </div>

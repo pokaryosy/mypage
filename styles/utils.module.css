@@ -85,10 +85,10 @@
 
 
 .footer{
-  position: relative;
+  text-align: center;
+  bottom: 0;
 }
 
 .footer p{
   display: inline-block;
-  bottom: 0;
 }

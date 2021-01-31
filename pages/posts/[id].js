@@ -37,7 +37,6 @@ export default function Post({ postData }) {
                 </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-
             </section>
             <article>
                 <br />
@@ -49,9 +48,6 @@ export default function Post({ postData }) {
                     <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
                 </div>
             </article>
-            <footer className={utilStyles.footer}>
-                <p>© 2021 YOSY POKARI</p>
-            </footer>
         </Layout>
     )
 }

@@ -9,7 +9,7 @@ date: '2021-02-01'
 <br>
 <br>
 
-[First release in Japan] Music Listening Session Born in Clubhouse app <br>
+【First release in Japan】Music Listening Session Born in Clubhouse app <br>
 DJ/music producer TAAR and MASAtO, a member of ANIMAL HACK and music producer, held a joint music production project on Clubhouse on 1/28, inviting musicians to listen to the completed music. We will hold a listening party at Clubhouse from 20:00 on February 1, 2021.
 <br>
 <br>

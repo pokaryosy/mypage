@@ -53,6 +53,9 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
+                            Growing up in London, Hong Kong, Tokyo and Okinawa.
+                            <br />
+                            <br />
                                         Skills
                                         <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />

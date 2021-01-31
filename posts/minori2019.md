@@ -39,3 +39,8 @@ photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
 _Italic_ or *Italic*
 
 -->
+
+<center>
+© 2021 YOSY POKARI
+</center>
+<br>

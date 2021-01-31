@@ -41,3 +41,8 @@ What are they looking at on the other side of the portrait photo?
 _Italic_ or *Italic*
 
 -->
+
+<center>
+© 2021 YOSY POKARI
+</center>
+<br>

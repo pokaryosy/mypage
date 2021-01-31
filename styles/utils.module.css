@@ -74,6 +74,7 @@
 .video{
   width:100%;
   padding-bottom: 56.25%;
+  box-sizing: border-box;
   height:0px;
   position: relative; 
 }

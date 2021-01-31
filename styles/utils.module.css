@@ -86,6 +86,6 @@
 
 .footer{
   position:absolute;
-  text-align: center;
+  display: inline-block;
   bottom: 10px;
 }

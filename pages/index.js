@@ -44,14 +44,15 @@ export default function Home({ allPostsData }) {
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
               </small>
-            </li>
-          ))}
-        </ul>
-        <img
+              <img
                   src="/images/Clubhouse/Clubhouse.jpg"
                   className={`${utilStyles.postphoto}`}
                   alt={name}
                 />
+            </li>
+          ))}
+        </ul>
+        
         <br />
         <footer className={utilStyles.footer}>
           <p>© 2021 YOSY POKARI</p>

@@ -44,14 +44,11 @@ export default function Home({ allPostsData }) {
                 />
               </Link>
               <br />
-              <a>{title}</a>
-              <small className={utilStyles.lightText}>
-                <Date dateString={date} />
-              </small>
+
             </li>
           ))}
         </ul>
-        
+
         <br />
         <footer className={utilStyles.footer}>
           <p>© 2021 YOSY POKARI</p>
@@ -76,4 +73,12 @@ from 32
 
 
         <a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
+
+
+              <a>{title}</a>
+              <small className={utilStyles.lightText}>
+                <Date dateString={date} />
+              </small>
+
+
 */

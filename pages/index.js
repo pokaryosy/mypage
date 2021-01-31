@@ -22,25 +22,25 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
       </Head>
       <section className={utilStyles.headingMd}>
-          <Link href="/about">
-            <a className={utilStyles.colorInherit}>about.</a>
-          </Link>&emsp;
+        <Link href="/about">
+          <a className={utilStyles.colorInherit}>about.</a>
+        </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
           <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-          
+
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
-      <br />
+        <br />
         <ul className={utilStyles.list}>
           {allPostsData.map(({ id, date, title, postphoto }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
                 <img
-                                src="/images/Clubhouse/Clubhouse.jpg"
-                                className={`${utilStyles.postphoto}`}
-                                alt={title}
-                            />
+                  src="/images/Clubhouse/Clubhouse.jpg"
+                  className={`${utilStyles.postphoto}`}
+                  alt={title}
+                />
               </Link>
               <br />
               <small className={utilStyles.lightText}>
@@ -51,10 +51,10 @@ export default function Home({ allPostsData }) {
         </ul>
         <br />
         <footer className={utilStyles.footer}>
-        <p>© 2021 YOSY POKARI</p>
-      </footer>
+          <p>© 2021 YOSY POKARI</p>
+        </footer>
       </section>
-      
+
 
     </Layout>
   )

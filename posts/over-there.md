@@ -23,9 +23,8 @@ What are they looking at on the other side of the portrait photo?
 <br>
 <br>
 #artificalintelligence <br>
-#machinelearning 
-
-[#RunwayML](https://runwayml.com/) <br>
+#machinelearning <br>
+#RunwayML <br>
 
 
 <br>

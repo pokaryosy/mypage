@@ -44,11 +44,12 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
-      </section>
-
-      <footer className={utilStyles.footer}>
+        <footer className={utilStyles.footer}>
         <p>© 2021 YOSY POKARI</p>
       </footer>
+      </section>
+
+      
 
     </Layout>
   )

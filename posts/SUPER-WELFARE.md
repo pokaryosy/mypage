@@ -201,6 +201,6 @@ _Italic_ or *Italic*
 
 -->
 
-<footer className={utilStyles.footer}>
-    <p>© 2021 YOSY POKARI</p>
-</footer>
+<center>
+© 2021 YOSY POKARI
+</center>

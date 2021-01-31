@@ -36,11 +36,7 @@ export default function Home({ allPostsData }) {
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
-                <img
-                  src="/images/Clubhouse/Clubhouse.jpg"
-                  className={`${utilStyles.postphoto}`}
-                  alt={title}
-                />
+                
               </Link>
               <br />
               <small className={utilStyles.lightText}>
@@ -49,6 +45,11 @@ export default function Home({ allPostsData }) {
             </li>
           ))}
         </ul>
+        <img
+                  src="/images/Clubhouse/Clubhouse.jpg"
+                  className={`${utilStyles.postphoto}`}
+                  alt={title}
+                />
         <br />
         <footer className={utilStyles.footer}>
           <p>© 2021 YOSY POKARI</p>

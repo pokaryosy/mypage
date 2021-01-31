@@ -23,7 +23,7 @@ export default function Page({ children, home }) {
                     </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-                <a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
+                
             </section>
                 <section>
                     <body>
@@ -85,3 +85,6 @@ export default function Page({ children, home }) {
     )
 }
 
+/*
+<a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
+*/

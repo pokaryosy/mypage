@@ -27,7 +27,7 @@ export default function Home({ allPostsData }) {
           </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
           <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-          <a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
+          
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
       <br />
@@ -64,4 +64,7 @@ from 26
 from 32
         <h2 className={utilStyles.headingLg}>Blog</h2>
 
+
+
+        <a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
 */

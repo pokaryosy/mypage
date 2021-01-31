@@ -37,7 +37,7 @@ export default function Post({ postData }) {
                 </Link>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-                <a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
+                
             </section>
             <article>
             <br />
@@ -54,5 +54,5 @@ export default function Post({ postData }) {
 }
 
 /*
-
+<a href="https://soundcloud.com/pokaryosy">soundcloud.</a>&emsp;
 */

@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
           {allPostsData.map(({ id, date, title, postphoto }) => (
             <li className={utilStyles.listItem} key={id}>
               <Link href={`/posts/${id}`}>
-                <a>{title}</a>
+                
                 <img
                   src="/images/Clubhouse/Clubhouse.jpg"
                   className={`${utilStyles.postphoto}`}
@@ -48,7 +48,6 @@ export default function Home({ allPostsData }) {
               <small className={utilStyles.lightText}>
                 <Date dateString={date} />
               </small>
-              
             </li>
           ))}
         </ul>

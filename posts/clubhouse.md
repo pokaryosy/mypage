@@ -21,12 +21,12 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 <br>
 <br>
 
-URL：[https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)
+URL: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)
 <br>
 <br>
 <br>
 
-member <br>
+-member <br>
 
 [青山みつ紀](https://www.instagram.com/mi2kiaoyama/) <br>
 [CHICO CARLITO](https://www.instagram.com/chicocarlito1993/) <br>

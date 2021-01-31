@@ -14,22 +14,22 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 <br>
 <br>
 
-URL：https://joinclubhouse.com/event/M8A4GNWD
+URL：(https://joinclubhouse.com/event/M8A4GNWD)
 <br>
 <br>
 
 member: <br>
-[青山みつ紀](https://www.instagram.com/mi2kiaoyama/)
-[CHICO CARLITO](https://www.instagram.com/chicocarlito1993/)
-[Daisuke Kazaoka](https://www.instagram.com/daisukekazaoka/)
-[ハセガワダイスケ](https://www.instagram.com/hasenano/)
-[星野菜名子](https://www.instagram.com/nanaco_7ch_/)
-[madflash](https://twitter.com/madflash)
-[MASAtO](https://www.instagram.com/masato.anml)
-[Seiho](https://www.instagram.com/seiho777/)
-[TAAR](https://www.instagram.com/taar88/)
-[やのあんな](https://www.instagram.com/anna_inthesea/)
-[YOSY POKARI](https://www.instagram.com/pokaryosy)
+[青山みつ紀](https://www.instagram.com/mi2kiaoyama/) <br>
+[CHICO CARLITO](https://www.instagram.com/chicocarlito1993/) <br>
+[Daisuke Kazaoka](https://www.instagram.com/daisukekazaoka/) <br>
+[ハセガワダイスケ](https://www.instagram.com/hasenano/) <br>
+[星野菜名子](https://www.instagram.com/nanaco_7ch_/) <br>
+[madflash](https://twitter.com/madflash) <br>
+[MASAtO](https://www.instagram.com/masato.anml) <br>
+[Seiho](https://www.instagram.com/seiho777/) <br>
+[TAAR](https://www.instagram.com/taar88/) <br>
+[やのあんな](https://www.instagram.com/anna_inthesea/) <br>
+[YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
 
 
 

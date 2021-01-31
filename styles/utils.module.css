@@ -86,6 +86,7 @@
 
 .footer{
   position:absolute;
-  display: inline-block;
+  display: table-cell;
+  vertical-align: middle;
   bottom: 10px;
 }

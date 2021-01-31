@@ -84,6 +84,9 @@ export default function Page({ children, home }) {
             <br />
             <br />
             <br />
+            <br />
+            <br />
+            <br />
             <footer className={utilStyles.footer}>
                 <p>© 2021 YOSY POKARI</p>
             </footer>

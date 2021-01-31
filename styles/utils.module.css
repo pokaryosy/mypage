@@ -87,5 +87,6 @@
 .footer{
   position:absolute;
   right:50%;
-  bottom:0;
+  left: 50%;
+  bottom: 10px;
 }

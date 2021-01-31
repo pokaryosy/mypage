@@ -94,3 +94,10 @@
 .footer p{
   display: inline-block;
 }
+
+.postphoto {
+  /*float: right;*/
+  width: 50%;
+  height: auto;
+  margin-left: 10px;
+}

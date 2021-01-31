@@ -8,6 +8,7 @@ date: '2020-10-21'
 photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31/)
 <br>
 <br>
+<br>
 
 [![minori2020](/images/minori2020/minori2020_1.jpg)](https://www.instagram.com/pokaryosy/)
 <br>

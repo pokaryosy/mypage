@@ -17,7 +17,6 @@ date: '2020-04-15'
 <br>
 
 
-
 I am walking around in Iceland. <br>
 Walk, See, Listen, Feel... Let's travel around the world with me! <br>
 All videos are without filter and keeping the natural sound to make you feel as real as possible. <br>

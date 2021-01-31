@@ -99,5 +99,8 @@
   cursor: hand; 
   cursor: pointer;
   transition: 0.5s ;
+}
+
+.postphoto:hover {
   opacity: 0.5 ;
 }

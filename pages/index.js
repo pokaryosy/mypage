@@ -37,7 +37,7 @@ export default function Home({ allPostsData }) {
               <Link href={`/posts/${id}`}>
                 <a>{title}</a>
                 <img
-                                src={/images/Clubhouse/Clubhouse.jpg}
+                                src="/images/Clubhouse/Clubhouse.jpg"
                                 className={`${utilStyles.postphoto}`}
                                 alt={title}
                             />

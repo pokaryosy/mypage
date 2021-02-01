@@ -27,7 +27,6 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 2021/2/1 20:00~ <br>
 Clubhouse: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)　<br>
 <br>
-<br>
 
 2021/2/1 21:00~ <br>
 Soundcloud: [https://soundcloud.com/animalhack/clubhouse/s-fjQ9hJyP5RX](https://soundcloud.com/animalhack/clubhouse/s-fjQ9hJyP5RX) <br>
@@ -54,13 +53,17 @@ YouTube: [https://youtu.be/pQRvQdFv2YI](https://youtu.be/pQRvQdFv2YI) <br>
 
 <br>
 <br>
-<br>
 
 -media <br>
+
 block.fm: [https://block.fm/news/taar_animalhack_clubhouse](https://block.fm/news/taar_animalhack_clubhouse) <br>
+
 OTOTOY: [https://ototoy.jp/news/100112](https://ototoy.jp/news/100112) <br>
+
 Qetic: [https://qetic.jp/music/clubhouse-taar-masato-210201/386617/](https://qetic.jp/music/clubhouse-taar-masato-210201/386617/) <br>
+
 Spincoaster: [https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse](https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse) <br>
+
 UROROS: [http://uroros.net/eventnews/129979/](http://uroros.net/eventnews/129979/) <br>
 
 

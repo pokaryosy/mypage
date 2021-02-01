@@ -11,13 +11,13 @@ postphoto: '/images/Clubhouse/Clubhouse.jpg'
 <br>
 
 【First release in Japan】Music Listening Session Born in Clubhouse app <br>
-DJ/music producer TAAR and MASAtO, a member of ANIMAL HACK and music producer, held a joint music production project on Clubhouse on 1/28, inviting musicians to listen to the completed music. We will hold a listening party at Clubhouse from 20:00 on February 1, 2021.
+DJ/music producer TAAR and MASAtO, a member of ANIMAL HACK and music producer, held a joint music production project on Clubhouse on 1/28, inviting musicians to listen to the completed music. We will hold a listening party at Clubhouse from 20:00 on February 1, 2021. Also,it can be available on YouTube and SoundCloud from 21:00.
 <br>
 <br>
 
 
 【日本初】Clubhouseで生まれた楽曲試聴会　<br>
-DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバーで音楽プロデューサーのMASAtOさんで、1/28に実施したClubhouse(app)上でミュージシャンを募り行った共同音楽制作企画で、完成した楽曲を2021/2/1の20:00よりClubhouseにてお披露目試聴会を開催。
+DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバーで音楽プロデューサーのMASAtOさんで、1/28に実施したClubhouse(app)上でミュージシャンを募り行った共同音楽制作企画で、完成した楽曲を2021/2/1の20:00よりClubhouseにてお披露目試聴会を開催。21:00からYouTube, SoundCloudで公開。
 <br>
 <br>
 <br>
@@ -34,7 +34,7 @@ YouTube: [https://youtu.be/pQRvQdFv2YI](https://youtu.be/pQRvQdFv2YI) <br>
 
 <br>
 <br>
-<br>
+
 
 -member <br>
 
@@ -67,8 +67,8 @@ Spincoaster: [https://spincoaster.com/news/taar-and-animal-hack-release-collabor
 UROROS: [http://uroros.net/eventnews/129979/](http://uroros.net/eventnews/129979/) <br>
 
 
-
-
+<br>
+<br>
 <br>
 <br>
 <!-- 

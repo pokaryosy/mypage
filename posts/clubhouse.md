@@ -9,8 +9,8 @@ postphoto: '/images/Clubhouse/Clubhouse.jpg'
 ![Clubhouse](/images/Clubhouse/Clubhouse.jpg)
 <br>
 <br>
-I played the trumpet.
-私はトランペットとして楽曲を演奏。
+I participated in the music as a trumpeter.
+私はトランペットとして楽曲に参加。
 <br>
 <br>
 
@@ -36,8 +36,19 @@ Clubhouse: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/
 
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/976124821&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/animalhack" title="ANIMAL HACK" target="_blank" style="color: #cccccc; text-decoration: none;">ANIMAL HACK</a> · <a href="https://soundcloud.com/animalhack/clubhouse" title="TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)" target="_blank" style="color: #cccccc; text-decoration: none;">TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)</a></div> <br>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+<br>
+
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pQRvQdFv2YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 
+<br>
+<br>
+<br>
+<br>
 <br>
 <br>
 

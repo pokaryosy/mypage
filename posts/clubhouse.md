@@ -30,19 +30,10 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 ### Release
 
 2021/2/5 0:00~ <br>
-Apple Music: [https://music.apple.com/jp/album/id1551607477](https://music.apple.com/jp/album/id1551607477) <br>
-Spotify: [https://open.spotify.com/album/4MVZxuE4UtIuNBOb1Cpuz6](https://open.spotify.com/album/4MVZxuE4UtIuNBOb1Cpuz6) <br>
-amazon music: [https://music.amazon.co.jp/albums/B08VJBXFH9](https://music.amazon.co.jp/albums/B08VJBXFH9) <br>
-YouTube Music: [https://www.youtube.com/watch?v=eNcljwc3EP0&ab_channel=VariousArtists-Topic](https://www.youtube.com/watch?v=eNcljwc3EP0&ab_channel=VariousArtists-Topic) <br>
-LINE MUSIC: [https://music.line.me/webapp/album/mb0000000001fcb02a](https://music.line.me/webapp/album/mb0000000001fcb02a) <br>
-AWA: [https://s.awa.fm/album/653fb4ae22d31a855f30?t=1612450965](https://s.awa.fm/album/653fb4ae22d31a855f30?t=1612450965) <br>
-Buy [https://nex-tone.link/95861](https://nex-tone.link/95861)
+Apple Music, Spotify... [https://nex-tone.link/95861](https://nex-tone.link/95861) <br>
+<br>
 <br>
 
-
-2021/2/1 20:00~ <br>
-Clubhouse: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)　<br>
-<br>
 
 2021/2/1 21:00~ <br>
 
@@ -69,6 +60,11 @@ Clubhouse: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/
 <br>
 <br>
 <br>
+<br>
+<br>
+
+2021/2/1 20:00~ <br>
+Clubhouse: [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)　<br>
 <br>
 <br>
 

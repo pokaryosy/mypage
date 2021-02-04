@@ -30,7 +30,7 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 ### Release
 
 2021/2/5 0:00~ <br>
-Apple Music, Spotify... →  [https://nex-tone.link/95861](https://nex-tone.link/95861) <br>
+Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link/95861) <br>
 <br>
 <br>
 

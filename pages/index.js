@@ -29,6 +29,7 @@ export default function Home({ allPostsData }) {
         </Link>&emsp;
           <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
           <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+          <a href="https://github.com/pokaryosy">github.</a>&emsp;
 
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>

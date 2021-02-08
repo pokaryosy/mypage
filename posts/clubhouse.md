@@ -93,6 +93,8 @@ billboard JAPAN: [http://www.billboard-japan.com/d_news/detail/96763/2](http://w
 
 block.fm: [https://block.fm/news/taar_animalhack_clubhouse](https://block.fm/news/taar_animalhack_clubhouse) <br>
 
+YAHOO!JAPAN ニュース: [https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee](https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee) <br>
+
 OTOTOY: [https://ototoy.jp/news/100112](https://ototoy.jp/news/100112) <br>
 
 Qetic: [https://qetic.jp/music/clubhouse-taar-masato-210201/386617/](https://qetic.jp/music/clubhouse-taar-masato-210201/386617/) <br>
@@ -100,6 +102,8 @@ Qetic: [https://qetic.jp/music/clubhouse-taar-masato-210201/386617/](https://qet
 Spincoaster: [https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse](https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse) <br>
 
 UROROS: [http://uroros.net/eventnews/129979/](http://uroros.net/eventnews/129979/) <br>
+
+JBSGROOVE: [http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR](http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR) <br>
 
 スッキリ | 日本テレビ: [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html) <br>
 

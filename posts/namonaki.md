@@ -29,7 +29,7 @@ time <br>
 11:00-20:00 (final day -17:00) <br>
 
 place <br>
-Shibuya MODI 1F pop-up store, Tokyo Japan <br>
+Shibuya MODI 1F pop-up store, Tokyo, Japan <br>
 
 website <br>
 [https://www.namonaki-museum.com/](https://www.namonaki-museum.com/)　<br>

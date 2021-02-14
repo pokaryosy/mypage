@@ -39,6 +39,7 @@ export default function Page({ children, home }) {
                         musician <br />
                         filmmaker <br />
                         model <br />
+                        UI/UX designer <br />
                         software engineer <br />
                             <br />
                         Tp. + F.Hr. + DJ + Vo

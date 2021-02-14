@@ -1,5 +1,5 @@
 ---
-title: 'Clubhouse -music'
+title: 'Clubhouse'
 date: '2021-02-01'
 postphoto: '/images/Clubhouse/Clubhouse.jpg'
 ---

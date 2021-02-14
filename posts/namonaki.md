@@ -12,16 +12,32 @@ postphoto: '/images/namonaki/namonakiH.jpg'
 <br>
 
 My work is exposed. <br>
+<br>
+<br>
+<br>
 
-date: 2021/2/22-28 <br>
+details. <br>
+<br>
 
-Time: 11:00-20:00 (final day -17:00) <br>
 
-place: Shibuya MODI 1F pop-up store, Tokyo Japan <br>
+aim: <br>
+We want people to enjoy art more casually, which is often thought of as something that is too difficult. We also want to create a place where people who like to draw can easily be seen by many people. <br>
+<br>
 
-website:  [https://www.namonaki-museum.com/](https://www.namonaki-museum.com/)　<br>
+date: <br>
+2021/2/22-28 <br>
 
-Shibuya MODI: [https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics](https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics) <br>
+Time: <br>
+11:00-20:00 (final day -17:00) <br>
+
+place: <br>
+Shibuya MODI 1F pop-up store, Tokyo Japan <br>
+
+website: <br>
+[https://www.namonaki-museum.com/](https://www.namonaki-museum.com/)　<br>
+
+Shibuya MODI: <br>
+[https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics](https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics) <br>
 
 
 

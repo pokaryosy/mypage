@@ -19,7 +19,7 @@ postphoto: '/images/overthere/overthere.jpg'
 <br>
 
 
-What are they looking at on the other side of the portrait photo?
+What do they see on the other side of a portrait photo?
 <br>
 <br>
 <br>

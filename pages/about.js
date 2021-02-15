@@ -37,12 +37,12 @@ export default function Page({ children, home }) {
                                 align="right"
                             />
                         musician <br />
-                        filmmaker <br />
                         model <br />
+                        filmmaker <br />
                         UI/UX designer <br />
                         software engineer <br />
                             <br />
-                        Tp. + F.Hr. + DJ + Vo
+                        Tp. + F.Hr. + DJ + Vo + Fl
                         </p>
 
                         <p className={utilStyles.clearcase}>

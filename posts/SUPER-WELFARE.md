@@ -6,7 +6,10 @@ postphoto: '/images/SuperExpo/SuperExpo01.jpg'
 <br>
 <br>
 
+<div className={utilStyles.video}>
 <iframe width = "560" height = "315" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <br>
 <br>
 <br>
@@ -48,7 +51,11 @@ We see disabilities as "individuality" and deliver new values and ways of thinki
 <br>
 details of each works
 <br>
+
+<div className={utilStyles.video}>
 <iframe width="auto" height="auto" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
 <br>
 <br>
 <br>

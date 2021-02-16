@@ -13,19 +13,6 @@ postphoto: '/images/yoshika/Naples.jpg'
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 I am walking around in Naples. <br>
 Walk, See, Listen, Feel... Let's travel around the world with me! <br>

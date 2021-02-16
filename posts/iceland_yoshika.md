@@ -13,19 +13,6 @@ postphoto: '/images/yoshika/Iceland1.jpg'
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 I am walking around in Iceland. <br>
 Walk, See, Listen, Feel... Let's travel around the world with me! <br>

@@ -13,19 +13,6 @@ postphoto: '/images/yoshika/Rome.jpg'
 <br>
 <br>
 <br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-
 
 I am walking around in Rome. <br>
 Walk, See, Listen, Feel... Let's travel around the world with me! <br>

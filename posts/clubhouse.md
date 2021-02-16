@@ -33,11 +33,10 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link/95861) <br>
 <br>
 
-
 2021/2/1 21:00~ <br>
 
 <div className={utilStyles.video}>
-<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/976124821&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/animalhack" title="ANIMAL HACK" target="_blank" style="color: #cccccc; text-decoration: none;">ANIMAL HACK</a> · <a href="https://soundcloud.com/animalhack/clubhouse" title="TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)" target="_blank" style="color: #cccccc; text-decoration: none;">TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)</a></div> <br>
+<iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/976124821&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/animalhack" title="ANIMAL HACK" target="_blank" style="color: #cccccc; text-decoration: none;">ANIMAL HACK</a> · <a href="https://soundcloud.com/animalhack/clubhouse" title="TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)" target="_blank" style="color: #cccccc; text-decoration: none;">TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)</a></div>
 </div>
 
 <div className={utilStyles.video}>

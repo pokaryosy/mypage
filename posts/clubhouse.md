@@ -32,7 +32,6 @@ DJ/音楽プロデューサーのTAARさんと、ANIMAL HACKのメンバ�
 2021/2/5 0:00~ <br>
 Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link/95861) <br>
 <br>
-<br>
 
 
 2021/2/1 21:00~ <br>
@@ -45,7 +44,6 @@ Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pQRvQdFv2YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </div>
 
-<br>
 <br>
 
 2021/2/1 20:00~ <br>

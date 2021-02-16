@@ -6,7 +6,9 @@ postphoto: '/images/yoshika/Rome.jpg'
 <br>
 <br>
 
+<div className={utilStyles.video}>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/2OZUqao-K4s" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
 
 <br>
 <br>

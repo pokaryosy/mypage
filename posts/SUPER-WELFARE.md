@@ -10,9 +10,6 @@ postphoto: '/images/SuperExpo/SuperExpo01.jpg'
 <iframe width = "560" height = "315" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
-<br>
-
 2020 9/6(Sun) 14:00-18:00 JST⠀
 <br>
 <br>
@@ -45,9 +42,6 @@ details of each works
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

@@ -46,9 +46,11 @@ Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link
 </div>
 
 <br>
+<br>
 
 2021/2/1 20:00~ <br>
 Clubhouse:  [https://joinclubhouse.com/event/M8A4GNWD](https://joinclubhouse.com/event/M8A4GNWD)　<br>
+<br>
 <br>
 <br>
 <br>

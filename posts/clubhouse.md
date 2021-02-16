@@ -42,26 +42,11 @@ Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link
 </div>
 
 <br>
-<br>
-<br>
-<br>
-<br>
-
 
 <div className={utilStyles.video}>
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/pQRvQdFv2YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
 </div>
 
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>

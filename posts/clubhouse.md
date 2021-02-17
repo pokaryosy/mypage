@@ -73,11 +73,11 @@ Trumpet: [YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
 
 -media <br>
 
-billboard JAPAN: [http://www.billboard-japan.com/d_news/detail/96763/2](http://www.billboard-japan.com/d_news/detail/96763/2) <br>
+billboard JAPAN <!--  [http://www.billboard-japan.com/d_news/detail/96763/2](http://www.billboard-japan.com/d_news/detail/96763/2)--> <br>
 
 block.fm: [https://block.fm/news/taar_animalhack_clubhouse](https://block.fm/news/taar_animalhack_clubhouse) <br>
 
-YAHOO!JAPAN ニュース: [https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee](https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee) <br>
+YAHOO!JAPAN ニュース <!--  [https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee](https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee) --> <br>
 
 OTOTOY: [https://ototoy.jp/news/100112](https://ototoy.jp/news/100112) <br>
 

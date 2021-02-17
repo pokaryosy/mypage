@@ -33,7 +33,6 @@ We see disabilities as "individuality" and deliver new values and ways of thinki
 <br>
 <br>
 <br>
-<br>
 details of each works
 <br>
 
@@ -41,7 +40,6 @@ details of each works
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/UBcayGtdyTI?start=2338" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
-<br>
 <br>
 <br>
 <br>

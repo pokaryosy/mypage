@@ -6,7 +6,9 @@ postphoto: '/images/SuperExpo/SuperExpo01.jpg'
 <br>
 <br>
 
-<div className={utilStyles.video}>
+
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
 <iframe width = "560" height = "315" src="https://www.youtube-nocookie.com/embed/HON7TwmwTuk?start=426" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 2020 9/6(Sun) 14:00-18:00 JST⠀

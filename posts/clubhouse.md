@@ -38,6 +38,7 @@ Apple Music, Spotify... ⠀  [https://nex-tone.link/95861](https://nex-tone.link
 <div className={utilStyles.video}>
 <iframe width="100%" height="166" scrolling="no" frameborder="no" allow="autoplay" src="https://w.soundcloud.com/player/?url=https%3A//api.soundcloud.com/tracks/976124821&color=%23ff5500&auto_play=false&hide_related=false&show_comments=true&show_user=true&show_reposts=false&show_teaser=true"></iframe><div style="font-size: 10px; color: #cccccc;line-break: anywhere;word-break: normal;overflow: hidden;white-space: nowrap;text-overflow: ellipsis; font-family: Interstate,Lucida Grande,Lucida Sans Unicode,Lucida Sans,Garuda,Verdana,Tahoma,sans-serif;font-weight: 100;"><a href="https://soundcloud.com/animalhack" title="ANIMAL HACK" target="_blank" style="color: #cccccc; text-decoration: none;">ANIMAL HACK</a> · <a href="https://soundcloud.com/animalhack/clubhouse" title="TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)" target="_blank" style="color: #cccccc; text-decoration: none;">TAAR &amp; ANIMAL HACK - Clubhouse (feat. CHICO CARLITO、青山みつ紀)</a></div>
 </div>
+</div>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/pQRvQdFv2YI" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe><br>
@@ -75,21 +76,21 @@ Trumpet: [YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
 
 billboard JAPAN <!--  [http://www.billboard-japan.com/d_news/detail/96763/2](http://www.billboard-japan.com/d_news/detail/96763/2)--> <br>
 
-block.fm: [https://block.fm/news/taar_animalhack_clubhouse](https://block.fm/news/taar_animalhack_clubhouse) <br>
+[block.fm](https://block.fm/news/taar_animalhack_clubhouse) <br>
 
 YAHOO!JAPAN ニュース <!--  [https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee](https://news.yahoo.co.jp/articles/2b8cf6d83d191c2a10a7add5b4473e2a71c706ee) --> <br>
 
-OTOTOY: [https://ototoy.jp/news/100112](https://ototoy.jp/news/100112) <br>
+[OTOTOY](https://ototoy.jp/news/100112) <br>
 
-Qetic: [https://qetic.jp/music/clubhouse-taar-masato-210201/386617/](https://qetic.jp/music/clubhouse-taar-masato-210201/386617/) <br>
+[Qetic](https://qetic.jp/music/clubhouse-taar-masato-210201/386617/) <br>
 
-Spincoaster: [https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse](https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse) <br>
+[Spincoaster](https://spincoaster.com/news/taar-and-animal-hack-release-collaboration-song-cloubhouse) <br>
 
-UROROS: [http://uroros.net/eventnews/129979/](http://uroros.net/eventnews/129979/) <br>
+[UROROS](http://uroros.net/eventnews/129979/) <br>
 
-JBSGROOVE: [http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR](http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR) <br>
+[JBSGROOVE](http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR) <br>
 
-スッキリ | 日本テレビ: [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html) <br>
+スッキリ | 日本テレビ <!-- [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html)--> <br>
 
 
 <br>

@@ -6,8 +6,8 @@ postphoto: '/images/yoshika/Iceland1.jpg'
 <br>
 <br>
 
-<div className={utilStyles.video}>
-<iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/XNilwa7Q4ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/XNilwa7Q4ro" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 
 <br>

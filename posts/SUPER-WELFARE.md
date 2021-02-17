@@ -44,7 +44,6 @@ details of each works
 <br>
 <br>
 <br>
-<br>
 
 photos
 <br>

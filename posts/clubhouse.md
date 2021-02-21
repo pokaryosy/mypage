@@ -1,12 +1,12 @@
 ---
 title: 'Clubhouse'
 date: '2021-02-01'
-postphoto: '/images/Clubhouse/Clubhouse.jpg'
+postphoto: '/images/Clubhouse/ClubhouseNew.jpg'
 ---
 <br>
 <br>
 
-![Clubhouse](/images/Clubhouse/Clubhouse.jpg)
+![Clubhouse](/images/Clubhouse/ClubhouseNew.jpg)
 <br>
 <br>
 <br>

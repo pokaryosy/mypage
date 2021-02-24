@@ -90,6 +90,8 @@ YAHOO!JAPAN ニュース <!--  [https://news.yahoo.co.jp/articles/2b8cf6d83d191
 
 [JBSGROOVE](http://jbsgroove.com/review/weeklysong5.html#:~:text=TAAR) <br>
 
+[HYPNOTICASIA](https://www.hypnoticasia.com/japanese-artists-release-track-entirely-within-clubhouse-app/) <br>
+
 スッキリ | 日本テレビ <!-- [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html)--> <br>
 
 

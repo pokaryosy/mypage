@@ -6,7 +6,7 @@ postphoto: '/images/stagetuesday/stagetuesday.jpg'
 <br>
 <br>
 
-![stagetuesday](/images/stagetuesday/stagetuesday.jpg)
+[![stagetuesday](/images/stagetuesday/stagetuesday.jpg)](https://www.twitch.tv/rina_ctd)
 <br>
 <br>
 <br>
@@ -25,7 +25,7 @@ time <br>
 20:00- <br>
 
 place <br>
-Live on TWITCH (online) <br>
+Live on Twitch (online) <br>
 
 Link <br>
 [https://www.twitch.tv/rina_ctd](https://www.twitch.tv/rina_ctd)　<br>

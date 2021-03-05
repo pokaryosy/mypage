@@ -10,7 +10,7 @@ postphoto: '/images/stagetuesday/stagetuesday.jpg'
 <br>
 <br>
 <br>
-I'll play the DJ and more... <br>
+I played the DJ and more... <br>
 <br>
 <br>
 

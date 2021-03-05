@@ -11,7 +11,7 @@ postphoto: '/images/namonaki/overthereEX.jpg'
 <br>
 <br>
 
-My work will be exhibited. <br>
+My work "over there" was exhibited. <br>
 <br>
 <br>
 

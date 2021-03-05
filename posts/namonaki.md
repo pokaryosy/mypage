@@ -1,12 +1,12 @@
 ---
 title: 'Namonaki Museum'
 date: '2021-02-22'
-postphoto: '/images/namonaki/namonakiH.jpg'
+postphoto: '/images/namonaki/work.jpg'
 ---
 <br>
 <br>
 
-![namonaki](/images/namonaki/namonaki.jpg)
+![namonaki](/images/namonaki/work.jpg)
 <br>
 <br>
 <br>
@@ -37,8 +37,14 @@ website <br>
 Shibuya MODI news <br>
 [https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics](https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics) <br>
 
+<br>
+<br>
+<br>
+
+![namonaki](/images/namonaki/work2.jpg)
 
 
+![namonaki](/images/namonaki/namonaki.jpg)
 
 
 

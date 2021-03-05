@@ -26,7 +26,7 @@ date <br>
 2021/2/22-28 <br>
 
 time <br>
-11:00-20:00 (final day -17:00) <br>
+11:00-20:00<br>
 
 place <br>
 Shibuya MODI 1F pop-up store, Tokyo, Japan <br>
@@ -34,7 +34,7 @@ Shibuya MODI 1F pop-up store, Tokyo, Japan <br>
 website <br>
 [https://www.namonaki-museum.com/](https://www.namonaki-museum.com/)　<br>
 
-Shibuya MODI news <br>
+Shibuya MODI <br>
 [https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics](https://www.0101.co.jp/721/store-info/fair.html?article_id=35190&from=01_pc_st721_top_news-topics) <br>
 
 <br>

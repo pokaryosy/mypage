@@ -1,12 +1,12 @@
 ---
 title: 'Namonaki Museum'
 date: '2021-02-22'
-postphoto: '/images/namonaki/overthere.jpg'
+postphoto: '/images/namonaki/overthereEX.jpg'
 ---
 <br>
 <br>
 
-![namonaki](/images/namonaki/overthere.jpg)
+![namonaki](/images/namonaki/overthereEX.jpg)
 <br>
 <br>
 <br>
@@ -41,7 +41,7 @@ Shibuya MODI <br>
 <br>
 <br>
 
-![namonaki](/images/namonaki/overthere2.jpg)
+![namonaki](/images/namonaki/overthereEX2.jpg)
 
 
 ![namonaki](/images/namonaki/namonaki.jpg)

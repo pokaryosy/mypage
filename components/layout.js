@@ -25,7 +25,7 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@pokaryosy" />
-        <meta property="og:image" content="/images/profile.jpg" />
+        <meta property="og:image" content="https://www.pokaryosy.com/about/profile.jpg" />
       </Head>
       <header className={styles.header}>
         {home ? (

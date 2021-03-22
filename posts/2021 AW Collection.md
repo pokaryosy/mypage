@@ -27,11 +27,8 @@ trumpet: [YOSY POKARI](https://www.instagram.com/pokaryosy/) <br>
 <br>
 
 FORSOMEONE <br>
-web:
-https://rakutenfashionweektokyo.com/jp/brands/detail/forsomeone/ <br>
-
-instagram:
-https://www.instagram.com/forsomeone_official/ <br>
+[web](https://rakutenfashionweektokyo.com/jp/brands/detail/forsomeone/) <br>
+[instagram](https://www.instagram.com/forsomeone_official/) <br>
 
 <br>
 <br>

@@ -1,7 +1,7 @@
 ---
 title: 'FORSOMEONE 2021 A/W Collection | Rakuten Fashion Week TOKYO 2021 A/W'
 date: '2021-03-19'
-postphoto: '/images/2021 AW Collection/2021 AW Collection.jpg'
+postphoto: '/images/2021AWCollection/2021AWCollection.jpg'
 ---
 <br>
 <br>
@@ -19,7 +19,9 @@ I joined the music as a trumpeter.<br>
 <br>
 <br>
 
-music: [TAAR](https://www.instagram.com/taar88/)
+music: [TAAR](https://www.instagram.com/taar88/) <br>
+
+trumpet: [YOSY POKARI](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 <br>

@@ -12,11 +12,6 @@ postphoto: '/images/2021 AW Collection/2021 AW Collection.jpg'
 
 <br>
 <br>
-
-
-### FORSOMEONE 2021 A/W Collection | Rakuten Fashion Week TOKYO 2021 A/W 
-<br>
-
 <br>
 
 I joined the music as a trumpeter.<br>
@@ -40,11 +35,11 @@ https://www.instagram.com/forsomeone_official/ <br>
 <br>
 <br>
 
-![2021AWCollection](/images/2021 AW Collection/2021 AW Collection.jpg) <br>
+![2021AWCollection](/images/2021AWCollection/2021AWCollection.jpg) <br>
 
-![2021AWCollection](/images/2021 AW Collection/2021 AW Collection02.jpg) <br>
+![2021AWCollection](/images/2021AWCollection/2021AWCollection02.jpg) <br>
 
-![2021AWCollection](/images/2021 AW Collection/2021 AW Collection03.jpg) <br>
+![2021AWCollection](/images/2021AWCollection/2021AWCollection03.jpg) <br>
 
 <br>
 <br>

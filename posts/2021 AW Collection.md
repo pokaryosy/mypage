@@ -19,7 +19,7 @@ postphoto: '/images/2021 AW Collection/2021 AW Collection.jpg'
 
 <br>
 
-I join the music as trumpeter.<br>
+I joined the music as a trumpeter.<br>
 
 <br>
 <br>
@@ -28,14 +28,23 @@ music: [TAAR](https://www.instagram.com/taar88/)
 
 <br>
 <br>
+
+FORSOMEONE <br>
+web:
+https://rakutenfashionweektokyo.com/jp/brands/detail/forsomeone/ <br>
+
+instagram:
+https://www.instagram.com/forsomeone_official/ <br>
+
 <br>
 <br>
+<br>
 
-![minori2019](/images/2021 AW Collection/2021 AW Collection.jpg) <br>
+![2021AWCollection](/images/2021 AW Collection/2021 AW Collection.jpg) <br>
 
-![minori2019](/images/2021 AW Collection/2021 AW Collection02.jpg) <br>
+![2021AWCollection](/images/2021 AW Collection/2021 AW Collection02.jpg) <br>
 
-![minori2019](/images/2021 AW Collection/2021 AW Collection03.jpg) <br>
+![2021AWCollection](/images/2021 AW Collection/2021 AW Collection03.jpg) <br>
 
 <br>
 <br>

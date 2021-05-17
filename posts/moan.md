@@ -8,13 +8,18 @@ postphoto: '/images/moan/moan.jpg'
 
 [![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) <br>
 
-<br>
-
 1st single <br>
 
 music (composing, mixing, mastering) - [YOSY](https://www.instagram.com/pokaryosy/) <br>
 
 album cover - [SHEN LINTAO](https://www.instagram.com/lintao.s/) <br>
+
+<br>
+<br>
+
+This music is the exhibition music from the summer of 2020. <br>
+
+![the exhibition](https://www.pokaryosy.com/posts/SUPER-WELFARE) <br>
 
 
 <br>

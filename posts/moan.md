@@ -9,7 +9,6 @@ postphoto: '/images/moan/moan.jpg'
 [![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) <br>
 
 <br>
-<br>
 
 1st single <br>
 

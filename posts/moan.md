@@ -19,7 +19,7 @@ album cover - [SHEN LINTAO](https://www.instagram.com/lintao.s/) <br>
 
 This music is the exhibition music from the summer of 2020. <br>
 
-[SUPER WELFARE EXPO 2020](https://www.pokaryosy.com/posts/SUPER-WELFARE) <br>
+[- SUPER WELFARE EXPO 2020](https://www.pokaryosy.com/posts/SUPER-WELFARE) <br>
 
 
 <br>

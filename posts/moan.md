@@ -6,7 +6,9 @@ postphoto: '/images/moan/moan.jpg'
 <br>
 <br>
 
-[![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) <br>
+[![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) 
+https://linkco.re/0CsC8Z6T?lang=ja
+<br>
 
 1st single <br>
 

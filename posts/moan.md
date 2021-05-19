@@ -6,9 +6,7 @@ postphoto: '/images/moan/moan.jpg'
 <br>
 <br>
 
-[![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) 
-https://linkco.re/0CsC8Z6T?lang=ja
-<br>
+[![moan](/images/moan/moan.jpg)](https://linkco.re/0CsC8Z6T?lang=ja) <br>
 
 1st single <br>
 
@@ -23,6 +21,9 @@ This music is the exhibition music from the summer of 2020. <br>
 
 [- SUPER WELFARE EXPO 2020](https://www.pokaryosy.com/posts/SUPER-WELFARE) <br>
 
+<br>
+
+[Link](https://linkco.re/0CsC8Z6T?lang=ja) <br>
 
 <br>
 <br>

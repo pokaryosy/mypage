@@ -38,6 +38,7 @@ export default function Post({ postData }) {
                 <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+                <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
                 <a href="https://github.com/pokaryosy">github.</a>&emsp;
             </section>
             <article>

@@ -1,4 +1,4 @@
----
+<!-- ---
 title: 'Stage Tuesday'
 date: '2021-03-02'
 postphoto: '/images/stagetuesday/stagetuesday.jpg'
@@ -53,4 +53,4 @@ _Italic_ or *Italic*
 <center>
 © 2021 YOSY POKARI
 </center>
-<br>
+<br> -->

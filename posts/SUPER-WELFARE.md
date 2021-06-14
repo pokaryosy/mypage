@@ -49,7 +49,7 @@ photos
 <br>
 
 
-[![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)](https://www.instagram.com/pokaryosy)
+[![SuperExpo](/images/SuperExpo/SuperExpo01.jpg)](https://www.instagram.com/p/CFwy5gcpJ_p/?utm_source=ig_web_copy_link)
 <br>
 <br>
 

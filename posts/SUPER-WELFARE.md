@@ -57,7 +57,7 @@ photos
 <br>
 <br>
 
-[![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)](https://www.instagram.com/mcguffin_official)
+[![SuperExpo](/images/SuperExpo/SuperExpo03.jpg)](https://www.instagram.com/p/CGKLSQupdTB/?utm_source=ig_web_copy_link)
 <br>
 <br>
 

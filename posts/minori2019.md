@@ -15,11 +15,11 @@ photo: [Minori Nakamatsu](https://www.instagram.com/ironim_31)
 <br>
 <br>
 
-[![minori2019](/images/minori2019/minori2019_2.jpg)](https://www.instagram.com/pokaryosy)
+[![minori2019](/images/minori2019/minori2019_2.jpg)](https://www.instagram.com/p/CEwkF6BDiN1/?utm_source=ig_web_copy_link)
 <br>
 <br>
 
-[![minori2019](/images/minori2019/minori2019_3.jpg)](https://www.instagram.com/pokaryosy)
+[![minori2019](/images/minori2019/minori2019_3.jpg)](https://www.instagram.com/p/CEwj-lJD3GU/?utm_source=ig_web_copy_link)
 <br>
 <br>
 

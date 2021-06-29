@@ -7,6 +7,10 @@ postphoto: '/images/2021AWCollection/2021AWCollection.jpg'
 <br>
 
 <div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
+<iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/qRFOULSFwR0" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
+</div>
+
+<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
 <iframe style="position: absolute; top: 0; left: 0; width: 100%; height: 100%;" width="560" height="315" src="https://www.youtube-nocookie.com/embed/Ff0j90pENtk" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture" allowfullscreen></iframe>
 </div>
 

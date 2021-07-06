@@ -23,7 +23,7 @@ This music is the exhibition music from the summer of 2020. <br>
 
 <br>
 
-Listen
+Listen: 
 [streaming](https://linkco.re/0CsC8Z6T?lang=ja) 
 or
 [BAMDCAMP](https://pokaryosy.bandcamp.com/track/moan) <br>

@@ -61,9 +61,22 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
+
+                                        Awards
+                                        <br />
+                                        Keio University, Keio Light Music Society Jr. band (Bigband) <br />
+                                            Stellar Jam ~ International Jazz Orchestra Festival ~ (2018) <br />
+                                            -Unique Selection Champion and Nominee 7 <br />
+                                            Stellar Jam ~ International Jazz Orchestra Festival ~ (2017) <br />
+                                            -Nominee 7 <br />
+                                        The 40th Kyushu Ensemble Contest 2015 Silver Award <br />
+                                        The 59th Kyushu brass band competition 2014 Gold Award <br />
+                                        Okinawa Junior High School 7th all-star Brass Band Principal Trumpet <br />
+                            <br />
+                            <br />
                                         Skills
                                         <br />
-                                        Programming Languages / Environments:  JavaScript, HTML, CSS, SQL(No, My), Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
+                                        Programming Languages / Environments:  JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />
                             <br />
@@ -71,7 +84,7 @@ export default function Page({ children, home }) {
                                         Education <br />
                                         Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
                                         Major: Computing and Music <br />
-                                        Research Theme: New Music Therapy, New Performance with AI <br />
+                                        Research Theme: Weather music (New Music, New Performance with AI) <br />
                             <br />
                                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />

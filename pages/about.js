@@ -66,8 +66,8 @@ export default function Page({ children, home }) {
                                         <br />
                                         Keio University, Keio Light Music Society Jr. band (Bigband) <br />
                                         - Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                                        (2018) Unique Selection Champion and Nominee 7 <br />
-                                        (2017) Nominee 7 <br />
+                                        -- (2018) Unique Selection Champion and Nominee 7 <br />
+                                        -- (2017) Nominee 7 <br />
                                         The 40th Kyushu Ensemble Contest 2015 Silver Award <br />
                                         The 59th Kyushu brass band competition 2014 Gold Award <br />
                                         Okinawa Junior High School 7th all-star Brass Band Principal Trumpet <br />

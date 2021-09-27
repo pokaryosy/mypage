@@ -50,6 +50,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2021 YOSY POKARI
+© 2021 YOSY
 </center>
 <br>

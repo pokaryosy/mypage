@@ -5,7 +5,7 @@ import utilStyles from '../styles/utils.module.css'
 import Layout, { siteTitle } from '../components/layout'
 
 
-const name = 'YOSY POKARI'
+const name = 'YOSY'
 
 export default function Page({ children, home }) {
     return (
@@ -102,7 +102,7 @@ export default function Page({ children, home }) {
             <br />
             <br />
             <footer className={utilStyles.footer}>
-                <p>© 2021 YOSY POKARI</p>
+                <p>© 2021 YOSY</p>
             </footer>
 
         </Layout>

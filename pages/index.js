@@ -15,7 +15,7 @@ export async function getStaticProps() {
   }
 }
 
-const name = 'YOSY POKARI'
+const name = 'YOSY'
 
 export default function Home({ allPostsData }) {
   return (
@@ -55,7 +55,7 @@ export default function Home({ allPostsData }) {
 
         <br />
         <footer className={utilStyles.footer}>
-          <p>© 2021 YOSY POKARI</p>
+          <p>© 2021 YOSY</p>
         </footer>
       </section>
 

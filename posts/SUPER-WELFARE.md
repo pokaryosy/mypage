@@ -102,7 +102,7 @@ photos
 -member
 <br>
 
-[YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
+[YOSY](https://www.instagram.com/pokaryosy) <br>
 (Organizing leader, Music)
 <br>
 <br>
@@ -192,6 +192,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2021 YOSY POKARI
+© 2021 YOSY
 </center>
 <br>

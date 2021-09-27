@@ -66,7 +66,7 @@ Production, Arrangement: [MASAtO](https://www.instagram.com/masato.anml) <br>
 Modular synthesizer: [Seiho](https://www.instagram.com/seiho777/) <br>
 Production, Arrangement, Mix, Mastering: [TAAR](https://www.instagram.com/taar88/) <br>
 Hook Vocal: [やのあんな](https://www.instagram.com/anna_inthesea/) <br>
-Trumpet: [YOSY POKARI](https://www.instagram.com/pokaryosy) <br>
+Trumpet: [YOSY (POKARI)](https://www.instagram.com/pokaryosy) <br>
 
 
 <br>
@@ -113,6 +113,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2021 YOSY POKARI
+© 2021 YOSY
 </center>
 <br>

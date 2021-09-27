@@ -107,13 +107,24 @@
   opacity: 0.5 ;
 }
 
-@media screen and (max-width:640px) {
+@media screen and (max-width:768px) {
 	.pc {
 		display: none;
 	}
 }
-@media screen and (min-width:641px) {
+@media screen and (min-width:769px) {
 	.sp {
 		display: none;
 	}
 }
+
+/*
+the index is centerd only smratphone
+<p class="spCenter"> ... </p>
+
+@media screen and (max-width:640px) {
+	.spCenter {
+		text-align: center;
+	}
+}
+*/

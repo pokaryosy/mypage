@@ -192,6 +192,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2021 YOSY
+© 2021 YOS
 </center>
 <br>

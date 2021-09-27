@@ -107,6 +107,8 @@
   opacity: 0.5 ;
 }
 
+/*
+
 @media screen and (max-width:768px) {
 	.pc {
 		display: none;
@@ -118,7 +120,7 @@
 	}
 }
 
-/*
+
 the index is centerd only smratphone
 <p class="spCenter"> ... </p>
 

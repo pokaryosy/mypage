@@ -109,25 +109,7 @@
 
 
 
-/* 769pxより大きい画面（タブレット・PC） */
-@media only screen and (min-width: 601px) { 
-  .sp {
-  display: none;
-    }
-  .pc {
-  /* display: block; */
-    }
-  }
-  
-  /* 768pxより小さい画面（スマホ）*/
-@media only screen and (max-width: 600px) { 
-  .sp {
-  /* display: block; */
-    }
-  .pc {
-  display: none;
-    }
-  }
+
 
 
 /*

@@ -37,7 +37,7 @@ export default function Post({ postData }) {
                 </Link>&emsp;
                 <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-                {/* <br class="sp" /> */}
+                <br class="sp" />
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
                 <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
                 <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;

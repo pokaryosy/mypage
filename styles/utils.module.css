@@ -112,7 +112,7 @@
 /* 769pxより大きい画面（タブレット・PC） */
 @media only screen and (min-width: 601px) { 
   .sp {
-  display: none;
+  display: none!important;
     }
   .pc {
   display: block;

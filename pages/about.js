@@ -13,12 +13,12 @@ export default function Page({ children, home }) {
             <div>
                 <Head>
                     <title>about.</title>
+                    <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
                 </Head>
                 <header>
 
                 </header>
                 <section className={utilStyles.headingMd}>
-                <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
                     <Link href="/about">
                         <a className={utilStyles.colorInherit}>about.</a>
                     </Link>&emsp;

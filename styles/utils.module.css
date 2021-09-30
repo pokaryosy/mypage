@@ -109,26 +109,30 @@
 
 
 
-@media screen and (max-width:640px) {
-	.pc {
-		display: none;
-	}
-}
-@media screen and (min-width:641px) {
-	.sp {
-		display: none;
-	}
-}
+/* 769pxより大きい画面（タブレット・PC） */
+@media only screen and (min-width: 769px) { 
+  .sp {
+  display: none;
+    }
+  .pc {
+  display: block;
+    }
+  }
+  
+  /* 768pxより小さい画面（スマホ）*/
+@media only screen and (max-width: 768px) { 
+  .sp {
+  display: block;
+    }
+  .pc {
+  display: none;
+    }
+  }
 
 
 /*
-
-the index is centerd only smratphone
-<p class="spCenter"> ... </p>
-
-@media screen and (max-width:640px) {
-	.spCenter {
-		text-align: center;
-	}
-}
+<!--PC/tbのみ改行-->
+<br class="pc" />
+<!--spのみ改行-->
+<br class="sp" />
 */

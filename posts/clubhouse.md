@@ -92,7 +92,9 @@ YAHOO!JAPAN ニュース <!--  [https://news.yahoo.co.jp/articles/2b8cf6d83d191
 
 [HYPNOTICASIA](https://www.hypnoticasia.com/japanese-artists-release-track-entirely-within-clubhouse-app/) <br>
 
-スッキリ | 日本テレビ <!-- [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html)--> <br>
+[ASIALIVE365](https://asialive365.com/a-track-was-created-entirely-within-the-clubhouse-social-app/?__cf_chl_managed_tk__=pmd_3W9E2C0ltVKqU8VhEYq2tiHtq.7PfNRe0n1kM6VgvZA-1632982601-0-gqNtZGzNAzujcnBszQoR) <br>
+
+[スッキリ | 日本テレビ](https://twitter.com/TAAR88/status/1356397314802282496) <!-- [https://www.ntv.co.jp/sukkiri/index.html](https://www.ntv.co.jp/sukkiri/index.html)--> <br>
 
 
 <br>

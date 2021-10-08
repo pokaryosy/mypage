@@ -14,7 +14,7 @@ export default function Layout({ children, home }) {
         <link rel="icon" href="/favicon.ico" />
         <meta
           name="description"
-          content="musician | model | filmmaker | software UI/UX engineer, Tp. + F.Hr. + DJ + Vo + Fl"
+          content="musician | artist | model | UI/UX design engineer, Tp. + F.Hr. + DJ + Vo + Fl"
         />
         <meta
           property="og:image"

@@ -65,7 +65,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
 
-                                        <div className={utilStyles.futomozi}>Awards</div>
+                                        <strong>Awards</strong>
                                         <br />
                                         Keio University, Keio Light Music Society Jr. band (Bigband) <br />
                                         - Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
@@ -76,14 +76,14 @@ export default function Page({ children, home }) {
                                         Okinawa Junior High School 7th all-star Brass Band Principal Trumpet <br />
                             <br />
                             <br />
-                                        <div className={utilStyles.futomozi}>Skills</div>
+                                        <strong>Skills</strong>
                                         <br />
                                         Programming Languages / Environments:  JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         Software / Hardware:  Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         Languages:  Japanese - native;  English - fluent;  Spanish - basic <br />
                             <br />
                             <br />
-                                        <div className={utilStyles.futomozi}>Education</div>
+                                        <strong>Education</strong>
                                         <br />
                                         Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
                                         Major: Computing and Music <br />

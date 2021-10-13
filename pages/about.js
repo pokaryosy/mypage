@@ -69,11 +69,12 @@ export default function Page({ children, home }) {
                                         <br />
                                         Keio University, Keio Light Music Society Jr. band (Bigband) <br />
                                         Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                                        - Unique Selection Champion and Nominee 7 (2018) <br />
-                                        - Nominee 7 (2017) <br />
+                                        &emsp;Unique Selection Champion and Nominee 7 (2018) <br />
+                                        &emsp;Nominee 7 (2017) <br />
                                         The 40th Kyushu Ensemble Contest 2015 Silver Award <br />
                                         The 59th Kyushu brass band competition 2014 Gold Award <br />
                                         Okinawa Junior High School 7th all-star Brass Band Principal Trumpet <br />
+                            <br />
                             <br />
                             <br />
                                         <strong>Skills</strong>
@@ -81,6 +82,7 @@ export default function Page({ children, home }) {
                                         -- Programming Languages / Environments --  <br /> JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         -- Software / Hardware -- <br /> Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
                                         -- Languages --  <br /> Japanese - native;  English - fluent;  Spanish - basic <br />
+                            <br />
                             <br />
                             <br />
                                         <strong>Education</strong>
@@ -94,15 +96,14 @@ export default function Page({ children, home }) {
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
                             <br />
                             <br />
+                            <br />
                                         <strong>Experience</strong>
                                         <br />
-                                        N sketch Inc. (Tokyo, JP - Intern) &emsp;2017 - <br />
-                                        Major: Computing and Music <br />
-                                        Research Theme: Weather music (New Music, New Performance with AI) <br />
+                                        N sketch Inc. (Tokyo, JP - Intern) &emsp;Nov. 2020 - <br />
+                                        UI/UX Design Engineer / Software Engineer <br />
                             <br />
-                                        Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
-                                        Major: Computing and Music (Jazz performance and composition) <br />
-                                        TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
+                                        JCAT (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
+                                        Web designer / Software Engineer <br />
 
 
                         </p>

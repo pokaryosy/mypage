@@ -26,7 +26,7 @@ export default function Layout({ children, home }) {
         <meta name="og:title" content={siteTitle} />
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:site" content="@pokaryosy" />
-        <meta property="og:image" content="https://www.pokaryosy.com/images/minori2020/minori2020_1.jpg" />
+        {/* <meta property="og:image" content="https://www.pokaryosy.com/images/minori2020/minori2020_1.jpg" /> */}
         <meta property="fb:app_id" content="486043602775575" />
         
       </Head>

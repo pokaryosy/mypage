@@ -68,9 +68,9 @@ export default function Page({ children, home }) {
                                         <strong>Awards</strong>
                                         <br />
                                         Keio University, Keio Light Music Society Jr. band (Bigband) <br />
-                                        - Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                                            Unique Selection Champion and Nominee 7 (2018) <br />
-                                            Nominee 7 (2017) <br />
+                                        Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
+                                        - Unique Selection Champion and Nominee 7 (2018) <br />
+                                        - Nominee 7 (2017) <br />
                                         The 40th Kyushu Ensemble Contest 2015 Silver Award <br />
                                         The 59th Kyushu brass band competition 2014 Gold Award <br />
                                         Okinawa Junior High School 7th all-star Brass Band Principal Trumpet <br />
@@ -86,6 +86,17 @@ export default function Page({ children, home }) {
                                         <strong>Education</strong>
                                         <br />
                                         Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
+                                        Major: Computing and Music <br />
+                                        Research Theme: Weather music (New Music, New Performance with AI) <br />
+                            <br />
+                                        Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
+                                        Major: Computing and Music (Jazz performance and composition) <br />
+                                        TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
+                            <br />
+                            <br />
+                                        <strong>Experience</strong>
+                                        <br />
+                                        N sketch Inc. (Tokyo, JP - Intern) &emsp;2017 - <br />
                                         Major: Computing and Music <br />
                                         Research Theme: Weather music (New Music, New Performance with AI) <br />
                             <br />

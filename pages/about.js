@@ -73,7 +73,7 @@ export default function Page({ children, home }) {
                                         &emsp;Nominee 7 (2017) <br />
                                         The 40th Kyushu Ensemble Contest (2015) Silver Award <br />
                                         The 59th Kyushu brass band competition (2014) Gold Award <br />
-                                        Okinawa Junior High School 7th all-star Brass Band (2011-2012) Principal Trumpet <br />
+                                        Okinawa Junior High School 7th all-star Brass Band (2011-12) Principal Trumpet <br />
                             <br />
                             <br />
                             <br />

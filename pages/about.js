@@ -78,9 +78,9 @@ export default function Page({ children, home }) {
                             <br />
                                         <strong>Skills</strong>
                                         <br />
-                                        Programming Languages / Environments:  <br /> JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
-                                        Software / Hardware:<br />   Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
-                                        Languages:  Japanese - native;<br />   English - fluent;  Spanish - basic <br />
+                                        - Programming Languages / Environments  <br /> JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
+                                        - Software / Hardware <br /> Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
+                                        - Languages  <br /> Japanese - native;  English - fluent;  Spanish - basic <br />
                             <br />
                             <br />
                                         <strong>Education</strong>

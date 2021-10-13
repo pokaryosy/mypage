@@ -69,8 +69,8 @@ export default function Page({ children, home }) {
                                         <br />
                                         Keio University, Keio Light Music Society Jr. band <br />
                                         &emsp;Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                                        &emsp;Unique Selection Champion and Nominee 7 (2018) <br />
-                                        &emsp;Nominee 7 (2017) <br />
+                                        &emsp;(2018) Unique Selection Champion and Nominee 7  <br />
+                                        &emsp;(2017) Nominee 7  <br />
                                         Naha Hight School Brass Band <br />
                                         &emsp;The 40th Kyushu Ensemble Contest (2015) Silver Award <br />
                                         &emsp;The 59th Kyushu brass band competition (2014) Gold Award <br />

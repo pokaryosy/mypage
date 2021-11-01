@@ -35,7 +35,7 @@ My work "Weather Music" was performed and exhibited.<br>
 <br>
 <br>
 
-[CCLab Exhibition 2021 Alternative Dimension](https://alternative-dimension.cc/) <br>
+<strong> [CCLab Exhibition 2021 Alternative Dimension](https://alternative-dimension.cc/) </strong> <br>
 [Keio SFC Computational Creativity Lab (Nao Tokui Lab)](https://cclab.sfc.keio.ac.jp/) <br>
 2021 9/23-27 11:00 - 20:00 <br>
 [TIERS GALLERY](https://www.arakawagrip.co.jp/tiersgallery/) <br>

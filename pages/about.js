@@ -108,7 +108,7 @@ export default function Page({ children, home }) {
                                         <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - <br />
                                         UI/UX Design Engineer / Software Engineer <br />
                             <br />
-                                        <a href="https://www.jcatny.com/">JCAT</a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
+                                        <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
                                         Web designer / Software Engineer <br />
 
 

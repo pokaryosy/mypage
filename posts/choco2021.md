@@ -1,7 +1,7 @@
 ---
 title: 'model'
 date: '2021-02-26'
-postphoto: '/images/choco2021/choco2021_5.jpg'
+postphoto: '/images/choco2021/choco2021_1.jpg'
 ---
 <br>
 <br>

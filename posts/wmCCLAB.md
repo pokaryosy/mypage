@@ -30,11 +30,11 @@ My work "Weather Music" was performed and exhibited.<br>
 
 photos <br>
 
-![wmCCLAB](/images/wmCCLAB/wmCCLAB_2.jpg) <br>
+[![wmCCLAB](/images/wmCCLAB/wmCCLAB_2.jpg)](https://www.instagram.com/pokaryosy) <br>
 
-![wmCCLAB](/images/wmCCLAB/wmCCLAB_3.jpg) <br>
+[![wmCCLAB](/images/wmCCLAB/wmCCLAB_3.jpg)](https://www.instagram.com/pokaryosy) <br>
 
-![wmCCLAB](/images/wmCCLAB/wmCCLAB_4.jpg) <br>
+[![wmCCLAB](/images/wmCCLAB/wmCCLAB_4.jpg)](https://www.instagram.com/pokaryosy) <br>
 
 <br>
 <br>
@@ -44,7 +44,7 @@ photos <br>
 2021 9/23-27 11:00 - 20:00 <br>
 [TIERS GALLERY](https://www.arakawagrip.co.jp/tiersgallery/) <br>
 
-![wmCCLAB](/images/wmCCLAB/wmCCLAB_5.jpg) <br>
+[![wmCCLAB](/images/wmCCLAB/wmCCLAB_5.jpg)](https://alternative-dimension.cc/) <br>
 
 
 

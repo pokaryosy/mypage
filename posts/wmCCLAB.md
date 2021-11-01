@@ -21,11 +21,6 @@ postphoto: '/images/wmCCLAB/wmCCLAB_1.jpg'
 Exhibition ver.
 
 <br>
-
-[CCLab Exhibition 2021 Alternative Dimension 慶應義塾大学SFC 徳井直生研究室](https://alternative-dimension.cc/) <br>
-2021 9/23-27 11:00 - 20:00 <br>
-[TIERS GALLERY](https://www.instagram.com/tiersgallery/) <br>
-<br>
 <br>
 
 My work "Weather Music" was performed and exhibited.<br>
@@ -36,6 +31,14 @@ My work "Weather Music" was performed and exhibited.<br>
 ![wmCCLAB](/images/wmCCLAB/wmCCLAB_3.jpg) <br>
 
 ![wmCCLAB](/images/wmCCLAB/wmCCLAB_4.jpg) <br>
+
+<br>
+<br>
+
+[CCLab Exhibition 2021 Alternative Dimension](https://alternative-dimension.cc/) <br>
+[Keio SFC Computational Creativity Lab (Nao Tokui Lab)](https://cclab.sfc.keio.ac.jp/) <br>
+2021 9/23-27 11:00 - 20:00 <br>
+[TIERS GALLERY](https://www.instagram.com/tiersgallery/) <br>
 
 ![wmCCLAB](/images/wmCCLAB/wmCCLAB_5.jpg) <br>
 

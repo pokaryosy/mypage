@@ -23,11 +23,6 @@ Exhibition ver.
 <br>
 <br>
 
-My work "Weather Music" was performed and exhibited.<br>
-
-<br>
-<br>
-
 <strong>Weather Music</strong> <br>
 aim. <br>
 Searching for the Relationship between Weather and Humans <br>

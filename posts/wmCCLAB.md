@@ -29,8 +29,10 @@ My work "Weather Music" was performed and exhibited.<br>
 <br>
 
 <strong>Weather Music</strong> <br>
-The Relationship between Weather and Humans <br>
+aim. <br>
+Searching for the Relationship between Weather and Humans <br>
 <br>
+abstract.<br>
 The weather often affects our human emotions. Since ancient times, the weather has been an integral part of human life, and various perceptions have been cultivated depending on the period and position. If the image of the weather has a sound, what effect does it have on human emotions? And what kind of expressions do the people who receive them make? I will create a sound/music work based on the events between humans and the weather in the past. <br>
 
 <br>

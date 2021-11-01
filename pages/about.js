@@ -105,7 +105,7 @@ export default function Page({ children, home }) {
                             <br />
                                         <strong>Experience</strong>
                                         <br />
-                                        N sketch Inc. (Tokyo, JP - Intern) &emsp;Nov. 2020 - <br />
+                                        <a href="https://linkco.re/0CsC8Z6T?lang=ja"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - <br />
                                         UI/UX Design Engineer / Software Engineer <br />
                             <br />
                                         JCAT (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />

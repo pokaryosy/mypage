@@ -25,6 +25,10 @@ Exhibition ver.
 
 My work "Weather Music" was performed and exhibited.<br>
 
+<br>
+<br>
+
+photos <br>
 
 ![wmCCLAB](/images/wmCCLAB/wmCCLAB_2.jpg) <br>
 

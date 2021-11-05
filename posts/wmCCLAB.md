@@ -1,7 +1,7 @@
 ---
 title: 'Weather Music - CCLab Exhibition 2021 Alternative Dimension'
 date: '2021-09-22'
-postphoto: '/images/wmCCLAB/wmCCLAB_1.HEIC'
+postphoto: '/images/wmCCLAB/wmCCLAB_1.jpg'
 ---
 <br>
 <br>

@@ -60,7 +60,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://www.dropbox.com/s/syxx6vvkz0dp1yc/cv_yh.pdf?dl=0"> -cv </a>
+                            <a href="https://www.dropbox.com/s/syxx6vvkz0dp1yc/cv_yh.pdf?dl=0"> - cv </a>
                             <br />
                             <a href="https://www.dropbox.com/s/16v3mkfguv5ji4j/design%20portfolio.pdf?dl=0"> - portfolio </a>
                             <br />

@@ -98,11 +98,13 @@ export default function Page({ children, home }) {
                             <br />
                                         <strong>Education</strong>
                                         <br />
-                                        Keio University - B.A. (Environment and Information Studies) &emsp;Apr. 2017 - Mar. 2022<br />
+                                        Keio University - B.A. (Environment and Information Studies) <br />
+                                        Apr. 2017 - Mar. 2022<br />
                                         Major: Computing and Music <br />
                                         Research Theme: Weather Music (New Music, New Performance with AI) <br />
                             <br />
-                                        Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
+                                        Goldsmiths, University of London - Study Abroad <br />
+                                        Aug. 2019 - Jun. 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />
                                         TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
                             <br />

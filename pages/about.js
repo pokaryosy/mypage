@@ -100,7 +100,7 @@ export default function Page({ children, home }) {
                                         <br />
                                         Keio University - B.A. (Environment and Information Studies) &emsp;Apr. 2017 - Mar. 2022<br />
                                         Major: Computing and Music <br />
-                                        Research Theme: Weather music (New Music, New Performance with AI) <br />
+                                        Research Theme: Weather Music (New Music, New Performance with AI) <br />
                             <br />
                                         Goldsmiths, University of London - Study Abroad &emsp;2019 - 2020 <br />
                                         Major: Computing and Music (Jazz performance and composition) <br />
@@ -111,10 +111,10 @@ export default function Page({ children, home }) {
                                         <strong>Experience</strong>
                                         <br />
                                         <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - Aug. 2021<br />
-                                        UI/UX Design Engineer / Software Engineer <br />
+                                        UI/UX Design Engineer / Photographer <br />
                             <br />
                                         <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
-                                        Web designer / Software Engineer <br />
+                                        Web Designer / Software Engineer <br />
 
 
                         </p>

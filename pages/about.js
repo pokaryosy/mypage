@@ -60,7 +60,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://www.dropbox.com/s/syxx6vvkz0dp1yc/cv_yh.pdf?dl=0"> - cv </a>
+                            <a href="https://www.dropbox.com/s/18ezhsw29scrxj9/cv_yh.pdf?dl=0"> - cv </a>
                             <br />
                             <a href="https://www.dropbox.com/s/16v3mkfguv5ji4j/design%20portfolio.pdf?dl=0"> - portfolio </a>
                             <br />
@@ -98,7 +98,7 @@ export default function Page({ children, home }) {
                             <br />
                                         <strong>Education</strong>
                                         <br />
-                                        Keio University - B.A. (Environment and Information Studies) &emsp;2017 - <br />
+                                        Keio University - B.A. (Environment and Information Studies) &emsp;Apr. 2017 - Mar. 2022<br />
                                         Major: Computing and Music <br />
                                         Research Theme: Weather music (New Music, New Performance with AI) <br />
                             <br />
@@ -110,7 +110,7 @@ export default function Page({ children, home }) {
                             <br />
                                         <strong>Experience</strong>
                                         <br />
-                                        <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - <br />
+                                        <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - Aug. 2021<br />
                                         UI/UX Design Engineer / Software Engineer <br />
                             <br />
                                         <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />

@@ -90,7 +90,7 @@ export default function Page({ children, home }) {
                                         JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
                                         <br /> 
                                         Software / Hardware <br /> 
-                                        Ableton Live, Final Cut Pro, Adobe XD / Illustrator, openFrameworks, Unity, Sibelius, Serato DJ Pro, synapseWear, MobMuPlat, OpenBCI, Wekinator, Pix4Dcapture <br />
+                                        Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro <br />
                                         <br /> 
                                         Languages <br /> 
                                         Japanese - native;  English - fluent;  Spanish - basic <br />

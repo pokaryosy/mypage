@@ -60,9 +60,9 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://www.dropbox.com/s/ws2ba21qrfihahn/cv_yh.pdf?dl=0"> - cv </a>
+                            <a href="https://drive.google.com/file/d/1zD9XgA0yGJZh87Yvo76ueqv5o1CR2ih_/view?usp=sharing"> - cv </a>
                             <br />
-                            <a href="https://www.dropbox.com/s/16v3mkfguv5ji4j/design%20portfolio.pdf?dl=0"> - portfolio </a>
+                            <a href="https://drive.google.com/file/d/1LKLv_JDYTwChXhkGDaZh5iP0yFa1DYKb/view?usp=sharing"> - portfolio </a>
                             <br />
                             <br />
                             Growing up in London, Hong Kong, Tokyo and Okinawa.

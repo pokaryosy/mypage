@@ -52,6 +52,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2021 YOSY
+© 2022 YOSY
 </center>
 <br>

@@ -74,7 +74,7 @@ export default function Page({ children, home }) {
                                         <br />
                                         New Interfaces for Musical Expression 2022<br />
                                         &emsp;Accepted in the Music category <br />
-                                        &emsp;work:"Weather Music" artist:YOSY <br />
+                                        &emsp;work:"Weather Music",  artist:YOSY <br />
                                         Keio University, Keio Light Music Society Jr. band <br />
                                         &emsp;Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
                                         &emsp;(2018) Unique Selection Champion and Nominee 7  <br />

@@ -101,7 +101,7 @@ YAHOO!JAPAN ニュース <!--  [https://news.yahoo.co.jp/articles/2b8cf6d83d191
 <br>
 <br>
 <br>
-<!-- 
+<!--
 #h1
 ##h2
 ###h3
@@ -115,6 +115,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2022 YOSY
+© 2023 YOSY
 </center>
 <br>

@@ -25,17 +25,17 @@ export default function Home({ allPostsData }) {
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
       </Head>
       <section className={utilStyles.headingMd}>
-      <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
+        <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
         <Link href="/about">
           <a className={utilStyles.colorInherit}>about.</a>
         </Link>&emsp;
-          <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
-          <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-          <br class="sp" />
-          <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-          <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
-          <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
-          {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
+        <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
+        <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+        <br class="sp" />
+        <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+        <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
+        <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
+        {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
 
       </section>
       <section className={`${utilStyles.headingMd} ${utilStyles.padding1px}`}>
@@ -58,7 +58,7 @@ export default function Home({ allPostsData }) {
 
         <br />
         <footer className={utilStyles.footer}>
-          <p>© 2022 YOSY</p>
+          <p>© 2023 YOSY</p>
         </footer>
       </section>
 

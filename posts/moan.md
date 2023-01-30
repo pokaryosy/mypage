@@ -23,8 +23,8 @@ This music is the exhibition music from the summer of 2020. <br>
 
 <br>
 
-Listen: 
-[streaming](https://linkco.re/0CsC8Z6T?lang=ja) 
+Listen:
+[streaming](https://linkco.re/0CsC8Z6T?lang=ja)
 or
 [BAMDCAMP](https://pokaryosy.bandcamp.com/track/moan) <br>
 
@@ -38,7 +38,7 @@ or
 
 <br>
 <br>
-<!-- 
+<!--
 #h1
 ##h2
 ###h3
@@ -52,6 +52,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2022 YOSY
+© 2023 YOSY
 </center>
 <br>

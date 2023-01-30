@@ -22,15 +22,15 @@ export default function Page({ children, home }) {
                     <Link href="/about">
                         <a className={utilStyles.colorInherit}>about.</a>
                     </Link>&emsp;
-                <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
-                <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-                <br class="sp" />
-                <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
-                <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
-                <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
-                {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
+                    <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
+                    <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+                    <br class="sp" />
+                    <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+                    <a href="https://suzuri.jp/YOSY">items.</a>&emsp;
+                    <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
+                    {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
 
-            </section>
+                </section>
                 <section>
                     <body>
                         <br />
@@ -41,13 +41,13 @@ export default function Page({ children, home }) {
                                 alt={name}
                                 align="right"
                             />
-                        musician <br />
-                        artist <br />
-                        model <br />
-                        UI/UX designer <br />
-                        software engineer <br />
+                            musician <br />
+                            artist <br />
+                            model <br />
+                            UI/UX designer <br />
+                            software engineer <br />
                             <br />
-                        Tp. + F.Hr. + DJ + Vo + Fl
+                            Tp. + F.Hr. + DJ + Vo + Fl
                         </p>
 
                         <p className={utilStyles.clearcase}>
@@ -70,57 +70,57 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
 
-                                        <strong>Awards</strong>
-                                        <br />
-                                        New Interfaces for Musical Expression 2022<br />
-                                        &emsp;Accepted in the Music category <br />
-                                        &emsp;work:"Weather Music",  artist:YOSY <br />
-                                        Keio University, Keio Light Music Society Jr. band <br />
-                                        &emsp;Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                                        &emsp;(2018) Unique Selection Champion and Nominee 7  <br />
-                                        &emsp;(2017) Nominee 7  <br />
-                                        Naha Hight School Brass Band <br />
-                                        &emsp;The 40th Kyushu Ensemble Contest (2015) Silver Award <br />
-                                        &emsp;The 59th Kyushu brass band competition (2014) Gold Award <br />
-                                        Okinawa Junior High School 7th all-star Brass Band (2011-12) <br />
-                                        &emsp;Principal Trumpet <br />
+                            <strong>Awards</strong>
+                            <br />
+                            New Interfaces for Musical Expression 2022<br />
+                            &emsp;Accepted in the Music category <br />
+                            &emsp;work:"Weather Music",  artist:YOSY <br />
+                            Keio University, Keio Light Music Society Jr. band <br />
+                            &emsp;Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
+                            &emsp;(2018) Unique Selection Champion and Nominee 7  <br />
+                            &emsp;(2017) Nominee 7  <br />
+                            Naha Hight School Brass Band <br />
+                            &emsp;The 40th Kyushu Ensemble Contest (2015) Silver Award <br />
+                            &emsp;The 59th Kyushu brass band competition (2014) Gold Award <br />
+                            Okinawa Junior High School 7th all-star Brass Band (2011-12) <br />
+                            &emsp;Principal Trumpet <br />
                             <br />
                             <br />
                             <br />
-                                        <strong>Skills</strong>
-                                        <br />
-                                        Programming Languages / Environments  <br /> 
-                                        JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
-                                        <br /> 
-                                        Software / Hardware <br /> 
-                                        Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro <br />
-                                        <br /> 
-                                        Languages <br /> 
-                                        Japanese - native;  English - fluent;  Spanish - basic <br />
+                            <strong>Skills</strong>
+                            <br />
+                            Programming Languages / Environments  <br />
+                            JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
+                            <br />
+                            Software / Hardware <br />
+                            Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro <br />
+                            <br />
+                            Languages <br />
+                            Japanese - native;  English - fluent;  Spanish - basic <br />
                             <br />
                             <br />
                             <br />
-                                        <strong>Education</strong>
-                                        <br />
-                                        Keio University - B.A. (Environment and Information Studies) <br />
-                                        Apr. 2017 - Mar. 2022<br />
-                                        Major: Computing and Music <br />
-                                        Research Theme: Weather Music (New Music, New Performance with AI) <br />
+                            <strong>Education</strong>
                             <br />
-                                        Goldsmiths, University of London - Study Abroad <br />
-                                        Aug. 2019 - Jun. 2020 <br />
-                                        Major: Computing and Music (Jazz performance and composition) <br />
-                                        TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
+                            Keio University - B.A. (Environment and Information Studies) <br />
+                            Apr. 2017 - Mar. 2022<br />
+                            Major: Computing and Music <br />
+                            Research Theme: Weather Music (New Music, New Performance with AI) <br />
+                            <br />
+                            Goldsmiths, University of London - Study Abroad <br />
+                            Aug. 2019 - Jun. 2020 <br />
+                            Major: Computing and Music (Jazz performance and composition) <br />
+                            TOBITATE! Young Ambassador Program (Japanese public-private Scholarship) <br />
                             <br />
                             <br />
                             <br />
-                                        <strong>Experience</strong>
-                                        <br />
-                                        <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - Aug. 2021<br />
-                                        UI/UX Design Engineer / Photographer <br />
+                            <strong>Experience</strong>
                             <br />
-                                        <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
-                                        Web Designer / Software Engineer <br />
+                            <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - Aug. 2021<br />
+                            UI/UX Design Engineer / Photographer <br />
+                            <br />
+                            <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
+                            Web Designer / Software Engineer <br />
 
 
                         </p>
@@ -134,7 +134,7 @@ export default function Page({ children, home }) {
             <br />
             <br />
             <footer className={utilStyles.footer}>
-                <p>© 2022 YOSY</p>
+                <p>© 2023 YOSY</p>
             </footer>
 
         </Layout>

@@ -108,7 +108,7 @@ photos
 <br>
 
 [Natsuki](https://www.instagram.com/natsuki_lala) <br>
-([WAKE](https://www.instagram.com/wake_tokyo) Rep., Organize) 
+([WAKE](https://www.instagram.com/wake_tokyo) Rep., Organize)
 <br>
 <br>
 
@@ -160,7 +160,7 @@ photos
 
 [Rinze MTSUI](https://www.instagram.com/rinze_eeeee) <br>
 (Graphic poster) <br>
-[Instagram2](https://www.instagram.com/_apple.idea) 
+[Instagram2](https://www.instagram.com/_apple.idea)
 <br>
 <br>
 
@@ -178,7 +178,7 @@ photos
 
 <br>
 <br>
-<!-- 
+<!--
 #h1
 ##h2
 ###h3
@@ -192,6 +192,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2022 YOSY
+© 2023 YOSY
 </center>
 <br>

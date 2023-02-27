@@ -90,13 +90,16 @@ export default function Page({ children, home }) {
                             <strong>Skills</strong>
                             <br />
                             Programming Languages / Environments  <br />
-                            JavaScript, HTML, CSS, NoSQL, MySQL, Java, C#, C++, Python, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv <br />
+                            JavaScript, HTML, CSS, PHP, jQuery, Python, SQL(No, My), Java, C#, C++, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv, VBScript <br />
                             <br />
                             Software / Hardware <br />
-                            Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro <br />
+                            Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro, WordPress, Google Analytics, Google Tag Manager <br />
                             <br />
                             Languages <br />
                             Japanese - native;  English - fluent;  Spanish - basic <br />
+                            <br />
+                            Certification <br />
+                            <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br />
                             <br />
                             <br />
                             <br />
@@ -115,6 +118,18 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <strong>Experience</strong>
+                            <br />
+                            <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Nov. 2020 - Aug. 2021<br />
+                            Lead Software Engineer <br />
+                            <br />
+                            <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Jul. - Dec. 2020 <br />
+                            Lead Software Engineer <br />
+                            <br />
+                            <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
+                            Software Engineer / UI/UX Designer / Artist / Musician <br />
+                            <br />
+                            <a href="https://www.allesgood.jp/"> allesgood Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Aug. - Sep. 2021 <br />
+                            UI/UX Designer <br />
                             <br />
                             <a href="https://nsketch.com/"> N sketch Inc. </a> (Tokyo, JP - Intern) &emsp;Nov. 2020 - Aug. 2021<br />
                             UI/UX Design Engineer / Photographer <br />

@@ -60,7 +60,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://drive.google.com/file/d/1zD9XgA0yGJZh87Yvo76ueqv5o1CR2ih_/view?usp=sharing"> - cv </a>
+                            <a href="https://drive.google.com/file/d/1GgCKr9-eud-asFyMKT_tVTctUAEGE66r/view?usp=sharing"> - cv </a>
                             <br />
                             <a href="https://drive.google.com/file/d/1LKLv_JDYTwChXhkGDaZh5iP0yFa1DYKb/view?usp=sharing"> - portfolio </a>
                             <br />

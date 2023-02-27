@@ -119,10 +119,10 @@ export default function Page({ children, home }) {
                             <br />
                             <strong>Experience</strong>
                             <br />
-                            <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Nov. 2020 - Aug. 2021<br />
+                            <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 -<br />
                             Lead Software Engineer <br />
                             <br />
-                            <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Jul. - Dec. 2020 <br />
+                            <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Oct. 2022 -<br />
                             Lead Software Engineer <br />
                             <br />
                             <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />

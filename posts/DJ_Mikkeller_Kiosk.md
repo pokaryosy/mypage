@@ -1,12 +1,12 @@
 ---
 title: 'DJ with Flugelhorn at Mikkeller Kiosk/Bar'
 date: '2023-07-01'
-postphoto: '/images/DJMikkellerKiosk/mk01.jpg'
+postphoto: '/images/DJMK/mk01.jpg'
 ---
 <br>
 <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk01.jpg)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
+[![DJMK2023S](/images/DJMK/mk01.jpg)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 <br>
 
 DJ with Flugelhorn at Mikkeller Kiosk/Bar (Tokyo, Japan) <br>
@@ -29,11 +29,11 @@ Special thanks<br>
 
 photos <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk02.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
+[![DJMK2023S](/images/DJMK/mk02.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk03.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
+[![DJMK2023S](/images/DJMK/mk03.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk04.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
+[![DJMK2023S](/images/DJMK/mk04.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
 <br>
 <br>

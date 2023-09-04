@@ -15,9 +15,10 @@ DJ with Flugelhorn at Mikkeller Kiosk/Bar (Tokyo, Japan) <br>
 [@mikkellertokyo](https://www.instagram.com/mikkellertokyo/)
 
 <br>
+<br>
 Special thanks <br>
-- [@suga__mee](https://www.instagram.com/suga__mee/) <br>
-- [@t1100001](https://www.instagram.com/t1100001/)
+[@suga__mee](https://www.instagram.com/suga__mee/) <br>
+[@t1100001](https://www.instagram.com/t1100001/)
 
 <br>
 <br>

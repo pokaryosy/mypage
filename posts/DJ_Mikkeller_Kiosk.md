@@ -28,11 +28,11 @@ Special thanks <br>
 
 photos <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk02.png)](https://nime-2022.super.site/music/untitled/weather-music) <br>
+[![DJMK2023S](/images/DJMikkellerKiosk/mk02.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk03.png)](https://nime-2022.super.site/music/untitled/weather-music) <br>
+[![DJMK2023S](/images/DJMikkellerKiosk/mk03.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
-[![DJMK2023S](/images/DJMikkellerKiosk/mk04.png)](https://nime.pubpub.org/pub/0bk05kje/draft?access=25aby03o) <br>
+[![DJMK2023S](/images/DJMikkellerKiosk/mk04.png)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 
 <br>
 <br>

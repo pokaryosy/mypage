@@ -60,9 +60,9 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://drive.google.com/file/d/1GgCKr9-eud-asFyMKT_tVTctUAEGE66r/view?usp=sharing"> - cv </a>
+                            <a href="https://drive.google.com/file/d/1sNtfLlazgVc-pqChAU2rc-ZoGFrIs_JO/view"> - cv </a>
                             <br />
-                            <a href="https://drive.google.com/file/d/1LKLv_JDYTwChXhkGDaZh5iP0yFa1DYKb/view?usp=sharing"> - portfolio </a>
+                            <a href="https://drive.google.com/file/d/1SmqBJmQdCIC5dHmhg1w4GR1ziD0PAdqX/view"> - portfolio </a>
                             <br />
                             <br />
                             Growing up in London, Hong Kong, Tokyo and Okinawa.
@@ -96,7 +96,7 @@ export default function Page({ children, home }) {
                             Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro, WordPress, Google Analytics, Google Tag Manager <br />
                             <br />
                             Languages <br />
-                            Japanese - native;  English - fluent;  Spanish - basic <br />
+                            Japanese - native,   English - fluent,   Spanish - basic <br />
                             <br />
                             Certification <br />
                             <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br />
@@ -122,7 +122,7 @@ export default function Page({ children, home }) {
                             <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 -<br />
                             Lead Software Engineer <br />
                             <br />
-                            <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Oct. 2022 -<br />
+                            <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Oct. 2022 - May 2023<br />
                             Lead Software Engineer <br />
                             <br />
                             <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />

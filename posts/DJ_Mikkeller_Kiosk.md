@@ -9,15 +9,16 @@ postphoto: '/images/DJMK/mk001.jpg'
 [![DJMK2023S](/images/DJMK/mk001.jpg)](https://www.instagram.com/p/CuWzi_nMG-c/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
 <br>
 
-DJ with Flugelhorn at Mikkeller Kiosk/Bar (Tokyo, Japan) <br>
+DJ with Flugelhorn <br>
 
 01/07/2023 Saturday Night <br>
+Mikkeller Kiosk/Bar (Tokyo, Japan) <br>
 [@mikkellertokyo](https://www.instagram.com/mikkellertokyo/)
 
 <br>
 <br>
-Special thanks <br>
 
+Special thanks
 [@suga__mee](https://www.instagram.com/suga__mee/) <br>
 [@t1100001](https://www.instagram.com/t1100001/)
 

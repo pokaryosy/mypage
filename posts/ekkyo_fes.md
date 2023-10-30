@@ -1,7 +1,7 @@
 ---
 title: 'EKKYO.FES 2023'
 date: '2023-02-04'
-postphoto: '/images/EkkyoFes/01.heic'
+postphoto: '/images/EkkyoFes/01.jpg'
 ---
 <br>
 <br>
@@ -12,7 +12,7 @@ February 4th 2023<br>
 
 <br>
 
-[![EkkyoFes](/images/EkkyoFes/01.heic)](https://www.instagram.com/pokaryosy/) <br>
+[![EkkyoFes](/images/EkkyoFes/01.jpg)](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 

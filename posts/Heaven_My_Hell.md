@@ -1,7 +1,7 @@
 ---
 title: 'Heaven My Hell'
 date: '2023-10-26'
-postphoto: '/images/HeavenMyHell/01.png'
+postphoto: '/images/HeavenMyHell/top.jpg'
 ---
 <br>
 <br>
@@ -22,6 +22,18 @@ October 26th 2023<br>
 Special thanks <br>
 [@quarrywastaken](https://www.instagram.com/quarrywastaken/) <br>
 [@scary_luke](https://www.instagram.com/scary_luke/) <br>
+
+<br>
+
+[![HeavenMyHell](/images/HeavenMyHell/port01.png)](https://www.instagram.com/pokaryosy/) <br>
+
+<br>
+
+[![HeavenMyHell](/images/HeavenMyHell/port02.png)](https://www.instagram.com/pokaryosy/) <br>
+
+<br>
+
+[![HeavenMyHell](/images/HeavenMyHell/01.png)](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 

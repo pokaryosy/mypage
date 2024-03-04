@@ -15,7 +15,7 @@ HALF EAST: WAX (vol.2) <br>
 December 1st 2023 <br>
 [Isla Ray](https://www.instagram.com/isla_ray_ldn/)<br>
 
-Organizer<br>
+Organize<br>
 [Half East Records](https://www.instagram.com/halfeastrecords/)<br>
 
 Photo<br>

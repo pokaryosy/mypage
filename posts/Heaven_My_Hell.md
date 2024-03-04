@@ -20,8 +20,8 @@ October 26th 2023<br>
 <br>
 
 Special thanks <br>
-[@quarrywastaken](https://www.instagram.com/quarrywastaken/) <br>
-[@scary_luke](https://www.instagram.com/scary_luke/) <br>
+[Quarry](https://www.instagram.com/quarrywastaken/) <br>
+[Scary Luke](https://www.instagram.com/scary_luke/) <br>
 
 <br>
 

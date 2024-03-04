@@ -65,6 +65,6 @@ _Italic_ or *Italic*
 -->
 
 <center>
-© 2023 YOSY
+© 2024 YOSY
 </center>
 <br>

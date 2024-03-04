@@ -149,7 +149,7 @@ export default function Page({ children, home }) {
             <br />
             <br />
             <footer className={utilStyles.footer}>
-                <p>© 2023 YOSY</p>
+                <p>© 2024 YOSY</p>
             </footer>
 
         </Layout>

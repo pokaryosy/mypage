@@ -43,11 +43,11 @@ export default function Page({ children, home }) {
                             />
                             musician <br />
                             artist <br />
-                            model <br />
                             UI/UX designer <br />
                             software engineer <br />
+                            photographer <br />
                             <br />
-                            Tp. + F.Hr. + DJ + Vo + Fl
+                            Tp. + F.Hr. + DJ + Fl + Vo
                         </p>
 
                         <p className={utilStyles.clearcase}>
@@ -60,7 +60,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://drive.google.com/file/d/1sNtfLlazgVc-pqChAU2rc-ZoGFrIs_JO/view"> - cv </a>
+                            <a href="https://drive.google.com/file/d/11bU8JWgUpPRTx96t4e1PSTdiTCz1xKOX/view"> - cv </a>
                             <br />
                             <a href="https://drive.google.com/file/d/1SmqBJmQdCIC5dHmhg1w4GR1ziD0PAdqX/view"> - portfolio </a>
                             <br />

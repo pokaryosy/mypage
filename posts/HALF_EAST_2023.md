@@ -1,6 +1,6 @@
 ---
 title: 'HALF EAST: WAX (vol.2)'
-date: '2023-12-1'
+date: '2023-12-01'
 postphoto: '/images/HALFEAST2023/01.jpg'
 ---
 <br>

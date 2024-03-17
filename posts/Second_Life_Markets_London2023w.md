@@ -1,6 +1,6 @@
 ---
 title: 'Second Life Markets London 2023W'
-date: '2023-12-3'
+date: '2023-12-03'
 postphoto: '/images/slml2023w/01.jpg'
 ---
 <br>

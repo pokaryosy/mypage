@@ -119,14 +119,17 @@ export default function Page({ children, home }) {
                             <br />
                             <strong>Experience</strong>
                             <br />
+                            <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
+                            Software Engineer / UI/UX Designer / Artist / Musician <br />
+                            <br />
                             <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 -<br />
+                            Lead Software Engineer <br />
+                            <br />
+                            <a href="https://archaes.com/"> Archaes Corp. </a> (Tokyo, JP - Subcontractor) &emsp;Oct. 2023 - Mar. 2024<br />
                             Lead Software Engineer <br />
                             <br />
                             <a href="https://zeal-as.co.jp/"> ZEAL Associate Corp. </a> (Tokyo, JP - Temporary Worker) &emsp;Oct. 2022 - May 2023<br />
                             Lead Software Engineer <br />
-                            <br />
-                            <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
-                            Software Engineer / UI/UX Designer / Artist / Musician <br />
                             <br />
                             <a href="https://www.allesgood.jp/"> allesgood Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Aug. - Sep. 2021 <br />
                             UI/UX Designer <br />

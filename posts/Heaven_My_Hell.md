@@ -17,8 +17,6 @@ Heaven My Hell<br>
 October 26th 2023<br>
 [Artcect Gallery (London, UK)](https://www.instagram.com/artsectgallery)<br>
 
-<br>
-
 Special thanks <br>
 [Quarry](https://www.instagram.com/quarrywastaken/) <br>
 [Scary Luke](https://www.instagram.com/scary_luke/) <br>

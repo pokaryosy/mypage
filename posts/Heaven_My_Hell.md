@@ -24,31 +24,24 @@ Special thanks <br>
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/port01.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/port02.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/01.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/02.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/03.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/04.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/05.png)](https://www.instagram.com/p/C01Yz8Vs_1m/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 [![HeavenMyHell](/images/HeavenMyHell/00.jpg)](https://www.instagram.com/p/Cygqhu7r1xN/?utm_source=ig_web_copy_link&igshid=MzRlODBiNWFlZA==) <br>
@@ -72,8 +65,4 @@ Special thanks <br>
 **bold text**
 _Italic_ or *Italic*
 -->
-
-<center>
-© 2024 YOSY
-</center>
 <br>

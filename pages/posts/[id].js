@@ -55,6 +55,9 @@ export default function Post({ postData }) {
                     <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
                 
             </article>
+            <footer className={utilStyles.footer}>
+                <p>© 2024 YOSY</p>
+            </footer>
         </Layout>
     )
 }

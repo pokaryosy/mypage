@@ -43,12 +43,6 @@ December 1st 2023 <br>
 [![HALFEAST2023](/images/HALFEAST2023/05.jpg)](https://www.instagram.com/p/C1CPd6-sQTF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 <br>
 
-[![HALFEAST2023](/images/HALFEAST2023/04.png)](https://www.instagram.com/p/C1CPd6-sQTF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-<br>
-
-[![HALFEAST2023](/images/HALFEAST2023/05.png)](https://www.instagram.com/p/C1CPd6-sQTF/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-<br>
-
 [![HALFEAST2023](/images/HALFEAST2023/00.jpg)](https://www.instagram.com/p/C0DvguwP6RT/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 <br>
 

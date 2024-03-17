@@ -15,13 +15,13 @@ HALF EAST: WAX (vol.2) <br>
 December 1st 2023 <br>
 [Isla Ray](https://www.instagram.com/isla_ray_ldn/)<br>
 
-- Organize<br>
+>Organize<br>
 [Half East Records](https://www.instagram.com/halfeastrecords/)<br>
 
-- Photo<br>
+>Photo<br>
 [Kanata Sugihara](https://www.instagram.com/kanatasugihara/)<br>
 
-- Special thanks <br>
+>Special thanks <br>
 [Deejay Nye](https://www.instagram.com/deejaynye/)<br>
 [Vince Lam](https://www.instagram.com/dj.vincelam/)<br>
 

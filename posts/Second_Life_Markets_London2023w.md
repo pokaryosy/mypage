@@ -7,7 +7,6 @@ postphoto: '/images/slml2023w/01.jpg'
 <br>
 
 [![slml2023w](/images/slml2023w/01.jpg)](https://www.instagram.com/p/C2cWH2iy0PP/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
-
 <br>
 
 Second Life Markets London<br>

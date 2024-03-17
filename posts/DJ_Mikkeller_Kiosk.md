@@ -64,7 +64,4 @@ photos <br>
 _Italic_ or *Italic*
 -->
 
-<center>
-© 2024 YOSY
-</center>
 <br>

@@ -65,7 +65,4 @@ _Italic_ or *Italic*
 
 -->
 
-<center>
-© 2024 YOSY
-</center>
 <br>

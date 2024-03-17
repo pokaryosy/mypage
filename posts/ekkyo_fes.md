@@ -43,7 +43,4 @@ February 4th 2023<br>
 _Italic_ or *Italic*
 -->
 
-<center>
-© 2024 YOSY
-</center>
 <br>

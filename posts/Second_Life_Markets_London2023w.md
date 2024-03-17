@@ -17,10 +17,10 @@ December 3rd 2023<br>
 [LOCK.](https://www.instagram.com/lockstudios/)<br>
 
 Organize<br>
-[Second Life Markets](https://www.instagram.com/secondlifemarkets_uk/)<br>
+-&emsp;[Second Life Markets](https://www.instagram.com/secondlifemarkets_uk/)<br>
 
 Photo<br>
-[Amina](https://www.instagram.com/aminahumphreys/)<br>
+-&emsp;[Amina](https://www.instagram.com/aminahumphreys/)<br>
 
 <br>
 <br>

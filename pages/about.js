@@ -72,7 +72,10 @@ export default function Page({ children, home }) {
 
                             <strong>Awards</strong>
                             <br />
-                            New Interfaces for Musical Expression 2022<br />
+                            New York City Electroacoustic Music Festival 2024 (NYCEMF)<br />
+                            &emsp;Accepted in the Concert Music <br />
+                            &emsp;work:"Weather Music",  artist:YOSY <br />
+                            New Interfaces for Musical Expression 2022 (NIME)<br />
                             &emsp;Accepted in the Music category <br />
                             &emsp;work:"Weather Music",  artist:YOSY <br />
                             Keio University, Keio Light Music Society Jr. band <br />

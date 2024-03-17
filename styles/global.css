@@ -30,6 +30,13 @@ img {
 }
 
 
+.layout_header__SFlEE a:hover{
+  text-decoration: none;
+}
+
+.layout_header__SFlEE h2:hover{
+  text-decoration: none;
+}
 
 
 /* 769pxより大きい画面（タブレット・PC） */

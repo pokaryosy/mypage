@@ -11,7 +11,8 @@ postphoto: '/images/ByNowTaar/01.jpg'
 
 I played the Trumpet.<br>
 <br>
-2024.6.26 NEW RELEASE RiE MORRiS - By Now (feat. maco marets) [with TAAR]<br>
+2024.6.26 NEW RELEASE<br>
+RiE MORRiS - By Now (feat. maco marets) [with TAAR]<br>
 <br>
 Produced by TAAR<br>
 Composed by TAAR, maco marets, RiE MORRiS<br>

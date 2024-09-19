@@ -11,7 +11,9 @@ postphoto: '/images/CurryNoDE01/01.jpg'
 
 Curry NoDE Vol.1<br>
 07/14(Sat)<br>
-[広島 尾道 浄泉寺](https://www.instagram.com/onomichi_jyousenji/)<br>
+[広島 尾道 浄泉寺(Onomichi Jyousenji)](https://www.instagram.com/onomichi_jyousenji/)<br>
+
+<br>
 
 Organize<br>
 -&emsp;[Mizuki Sugawara](https://www.instagram.com/suga__mee/)<br>
@@ -20,9 +22,7 @@ Organize<br>
 -&emsp;[ART OF PICKLE](https://www.instagram.com/artofpickle7/)<br>
 
 Photo<br>
--&emsp;[6͐̒̀m͋̀̓ò͑͘](https://www.instagram.com/6.moo_/)<br>
-
-——<br>
+-&emsp;[6mo](https://www.instagram.com/6.moo_/)<br>
 
 Curry<br>
 -&emsp;too much india<br>
@@ -32,7 +32,7 @@ Curry<br>
 -&emsp;Rummy Curry<br>
 -&emsp;ART OF PICKLE<br>
 
-出店<br>
+Shop<br>
 -&emsp;引地 shikiji<br>
 -&emsp;きっちゃ 初<br>
 -&emsp;あすの葉<br>
@@ -61,13 +61,11 @@ DJ<br>
 Night DJ<br>
 -&emsp;ɱʯɛɨɳ<br>
 -&emsp;Kento Morishige / P<br>
--&emsp;6͐̒̀m͋̀̓ò͑͘<br>
+-&emsp;6mo<br>
 -&emsp;仙道 Hiroto Takeuchi<br>
 
 Flyer Design<br>
 -&emsp;Fukohirakawa<br>
-
-——<br>
 
 <br>
 

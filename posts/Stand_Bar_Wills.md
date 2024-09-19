@@ -1,12 +1,12 @@
 ---
 title: 'Stand Bar Wills'
 date: '2024-08-09'
-postphoto: '/images/StandBarWills/01.PNG'
+postphoto: '/images/StandBarWills/01.png'
 ---
 <br>
 <br>
 
-[![StandBarWills](/images/StandBarWills/01.PNG)](https://www.instagram.com/p/C_vL45wyiUR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![StandBarWills](/images/StandBarWills/01.png)](https://www.instagram.com/p/C_vL45wyiUR/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 <br>
 
 [Stand Bar Wills](https://www.instagram.com/stand_bar_wills_fukuoka/)<br>

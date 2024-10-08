@@ -15,10 +15,8 @@ postphoto: '/images/NYCEMF2024/00.png'
 <br>
 
 YOSY - Weather Music (vol.3.5) <br>
-<br>
-“Weather Music” - YOSY <br>
 Saturday, June 22 about 1pm <br>
-[(@Loreto Theater)](https://www.sheencenter.org/venues/detail/loreto-theater) <br>
+[@Loreto Theater](https://www.sheencenter.org/venues/detail/loreto-theater) <br>
 <br>
 <br>
 
@@ -28,11 +26,10 @@ Saturday, June 22 about 1pm <br>
 
 <br>
 <br>
-<br>
 
 NYCEMF 2024 Overview <br>
 2024/06/16 - 22 <br>
-[(@Sheen Center)](https://www.sheencenter.org/) <br>
+[@Sheen Center](https://www.sheencenter.org/) <br>
 <br>
 <br>
 
@@ -40,7 +37,6 @@ NYCEMF 2024 Overview <br>
 <br>
 The NYCEMF is the largest showcase of electroacoustic music in New York City, and one of the largest festivals of its kind in the world.<br>
 The festival began in 2009 with the intention of bringing the most innovative and creative new electroacoustic music from around the world to New York City. <br>
-<br>
 <br>
 ニューヨーク・シティ電子音響音楽祭は、 <br>
 ニューヨーク最大の電子音響音楽のショーケースであり、この種の音楽祭としては世界最大級のものである。 <br>
@@ -61,12 +57,6 @@ The festival began in 2009 with the intention of bringing the most innovative an
 [![NYCEMF2024](/images/NYCEMF2024/05.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
 
 [![NYCEMF2024](/images/NYCEMF2024/06.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
-
-
-<br>
-<br>
-<br>
-<br>
 
 
 

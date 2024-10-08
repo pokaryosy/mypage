@@ -1,5 +1,5 @@
 ---
-title: 'NYCEMF2024 - Weather Music (vol.3.5)'
+title: 'NYCEMF2024 - Weather Music (vol. 3.5)'
 date: '2024-06-22'
 postphoto: '/images/NYCEMF2024/00.png'
 ---
@@ -14,7 +14,7 @@ postphoto: '/images/NYCEMF2024/00.png'
 <strong>NYCEMF 2024 Concert Music に採択されました。</strong> <br>
 <br>
 
-YOSY - Weather Music (vol.3.5) <br>
+YOSY - Weather Music (vol. 3.5) <br>
 Saturday, June 22 about 1pm <br>
 [@Loreto Theater](https://www.sheencenter.org/venues/detail/loreto-theater) <br>
 <br>

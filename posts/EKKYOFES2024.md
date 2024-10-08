@@ -16,7 +16,7 @@ August 11th 2024<br>
 
 <br>
 
-[![EKKYOFES2024](/images/EKKYOFES2024/01.png)](https://www.instagram.com/pokaryosy/) <br>
+[![EKKYOFES2024](/images/EKKYOFES2024/01.JPG)](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 

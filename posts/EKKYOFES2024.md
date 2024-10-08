@@ -1,7 +1,7 @@
 ---
 title: 'EKKYO.FES 2024'
 date: '2024-08-11'
-postphoto: '/images/EKKYOFES2024/00.jpg'
+postphoto: '/images/EKKYOFES2024/00.JPG'
 ---
 <br>
 <br>
@@ -12,7 +12,7 @@ August 11th 2024<br>
 
 <br>
 
-[![EKKYOFES2024](/images/EKKYOFES2024/00.jpg)](https://www.instagram.com/pokaryosy/) <br>
+[![EKKYOFES2024](/images/EKKYOFES2024/00.JPG)](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 
@@ -20,7 +20,7 @@ August 11th 2024<br>
 
 <br>
 
-[![EKKYOFES2024](/images/EKKYOFES2024/02.jpg)](https://www.instagram.com/pokaryosy/) <br>
+[![EKKYOFES2024](/images/EKKYOFES2024/02.JPG)](https://www.instagram.com/pokaryosy/) <br>
 
 <br>
 

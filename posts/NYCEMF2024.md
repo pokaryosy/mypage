@@ -20,9 +20,7 @@ Saturday, June 22 about 1pm <br>
 <br>
 <br>
 
-<div style="position:relative; padding-bottom:56.25%; height:0; overflow:hidden;" >
 <iframe width="560" height="315" src="https://www.youtube-nocookie.com/embed/Fq5SACCtah4?si=k8t0xOatENtgAhhY&amp;start=1020" title="YouTube video player" frameborder="0" allow="accelerometer; autoplay; clipboard-write; encrypted-media; gyroscope; picture-in-picture; web-share" referrerpolicy="strict-origin-when-cross-origin" allowfullscreen></iframe>
-</div>
 
 <br>
 <br>

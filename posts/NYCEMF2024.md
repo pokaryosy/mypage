@@ -50,9 +50,9 @@ The festival began in 2009 with the intention of bringing the most innovative an
 
 [![NYCEMF2024](/images/NYCEMF2024/04.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
 
-[![NYCEMF2024](/images/NYCEMF2024/00.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
-
 [![NYCEMF2024](/images/NYCEMF2024/05.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
+
+[![NYCEMF2024](/images/NYCEMF2024/00.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
 
 [![NYCEMF2024](/images/NYCEMF2024/06.png)](https://www.youtube.com/live/Fq5SACCtah4?si=8tGPg-dum44PaRS_&t=1020) <br>
 

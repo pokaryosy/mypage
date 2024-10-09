@@ -127,7 +127,7 @@ export default function Page({ children, home }) {
                             <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
                             Software Engineer / UI/UX Designer / Artist / Musician <br />
                             <br />
-                            <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 -<br />
+                            <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 - Sep. 2024<br />
                             Lead Software Engineer <br />
                             <br />
                             <a href="https://archaes.com/"> Archaes Corp. </a> (Tokyo, JP - Subcontractor) &emsp;Oct. 2023 - Mar. 2024<br />

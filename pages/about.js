@@ -95,7 +95,7 @@ export default function Page({ children, home }) {
                             <strong>Skills</strong>
                             <br />
                             Programming Languages / Environments  <br />
-                            JavaScript, HTML, CSS, PHP, jQuery, Python, SQL(No, My), Java, C#, C++, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv, VBScript <br />
+                            JavaScript(Next.js React), HTML, CSS, PHP, jQuery, Python, SQL(No, My), Java, C#, C++, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv, VBScript <br />
                             <br />
                             Software / Hardware <br />
                             Ableton Live Suite, Final Cut Pro, DaVinci Resolve, Adobe XD / Illustrator, Figma, openFrameworks, Unity, Sibelius, Serato DJ Pro, WordPress, Google Analytics, Google Tag Manager <br />

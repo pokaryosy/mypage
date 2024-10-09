@@ -124,7 +124,7 @@ export default function Page({ children, home }) {
                             <br />
                             <strong>Experience</strong>
                             <br />
-                            <a href="https://www.pokaryosy.com/"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
+                            <a href="https://drive.google.com/file/d/16FDeMqk9THN_FkUM9-VzeCtPSDf0H6Id/view"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
                             Software Engineer / UI/UX Designer / Artist / Musician <br />
                             <br />
                             <a href="http://www.sportsweather.co.jp/"> Sports Weather Inc. </a> (Tokyo, JP - Subcontractor) &emsp;Jan. 2023 - Sep. 2024<br />

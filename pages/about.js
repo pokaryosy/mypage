@@ -34,6 +34,7 @@ export default function Page({ children, home }) {
                 <section>
                     <body>
                         <br />
+                        <br />
                         <p>
                             <img
                                 src="/images/profile.jpg"
@@ -55,14 +56,15 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <br />
                             more details.
                             <br />
                             <br />
                             <br />
                             <a href="https://drive.google.com/file/d/11bU8JWgUpPRTx96t4e1PSTdiTCz1xKOX/view"> - cv </a>
                             <br />
-                            <a href="https://drive.google.com/file/d/1SmqBJmQdCIC5dHmhg1w4GR1ziD0PAdqX/view"> - portfolio </a>
+                            <a href="https://drive.google.com/file/d/16FDeMqk9THN_FkUM9-VzeCtPSDf0H6Id/view"> - portfolio </a>
+                            <br />
+                            <a href="https://drive.google.com/file/d/1N2ffDAr4B62X9K5vt9U695kgkuRhNK6S/view"> - Google UX Design Certification </a>
                             <br />
                             <br />
                             Growing up in London, Hong Kong, Tokyo and Okinawa.

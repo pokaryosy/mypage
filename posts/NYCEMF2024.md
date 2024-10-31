@@ -33,7 +33,7 @@ NYCEMF 2024 Overview <br>
 <br>
 <br>
 
-<strong>[The New York City Electroacoustic Music Festival (NYCEMF)](https://nycemf.org/)</strong> <br>
+<strong>[New York City Electroacoustic Music Festival (NYCEMF)](https://nycemf.org/)</strong> <br>
 <br>
 The NYCEMF is the largest showcase of electroacoustic music in New York City, and one of the largest festivals of its kind in the world.<br>
 The festival began in 2009 with the intention of bringing the most innovative and creative new electroacoustic music from around the world to New York City. <br>

@@ -1,4 +1,3 @@
-
 import Layout from '../../components/layout'
 import { getAllPostIds, getPostData } from '../../lib/posts'
 import Head from 'next/head'
@@ -33,17 +32,17 @@ export default function Post({ postData }) {
                 <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
             </Head>
             <section className={utilStyles.headingMd}>
-                <Link href="../about">
-                    <a className={utilStyles.colorInherit}>about.</a>
+                <Link href="../about" className={utilStyles.colorInherit}>
+                    about.
                 </Link>&emsp;
                 <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
                 <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-                <br class="sp" />
+                <br className="sp" />
                 <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
                 {/* <a href="https://suzuri.jp/YOSY">items.</a>&emsp; */}
                 <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
                 {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
-                
+
             </section>
             <article>
                 <br />
@@ -51,9 +50,9 @@ export default function Post({ postData }) {
                 <div className={utilStyles.lightText}>
                     <Date dateString={postData.date} />
                 </div>
-                
+
                     <div dangerouslySetInnerHTML={{ __html: postData.contentHtml }} />
-                
+
             </article>
             <footer className={utilStyles.footer}>
                 <p>© 2024 YOSY</p>

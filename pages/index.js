@@ -26,15 +26,23 @@ export default function Home({ allPostsData }) {
       </Head>
       <section className={utilStyles.headingMd}>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
-        <Link href="/about">
-          <a className={utilStyles.colorInherit}>about.</a>
+        <Link href="/about" className={utilStyles.colorInherit}>
+          about.
         </Link>&emsp;
-        <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
-        <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-        <br class="sp" />
-        <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+        <Link href="https://linkco.re/0CsC8Z6T?lang=ja" className={utilStyles.colorInherit}>
+          music.
+        </Link>&emsp;
+        <Link href="https://www.instagram.com/pokaryosy/" className={utilStyles.colorInherit}>
+          instagram.
+        </Link>&emsp;
+        <br className="sp" />
+        <Link href="https://twitter.com/pokaryosy" className={utilStyles.colorInherit}>
+          twitter.
+        </Link>&emsp;
         {/* <a href="https://suzuri.jp/YOSY">items.</a>&emsp; */}
-        <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
+        <Link href="mailto:pokaryosy@gmail.com" className={utilStyles.colorInherit}>
+          contact.
+        </Link>&emsp;
         {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
 
       </section>
@@ -70,7 +78,7 @@ export default function Home({ allPostsData }) {
 /*
 from 26
         <p>
-          (This is a sample website - you’ll be building a site like this on{' '}
+          (This is a sample website - you'll be building a site like this on{' '}
           <a href="https://nextjs.org/learn">our Next.js tutorial</a>.)
         </p>
 

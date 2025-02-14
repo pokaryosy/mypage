@@ -15,16 +15,14 @@ export default function Page({ children, home }) {
                     <title>about.</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
                 </Head>
-                <header>
 
-                </header>
                 <section className={utilStyles.headingMd}>
-                    <Link href="/about">
-                        <a className={utilStyles.colorInherit}>about.</a>
+                    <Link href="/about" className={utilStyles.colorInherit}>
+                        about.
                     </Link>&emsp;
                     <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
                     <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
-                    <br class="sp" />
+                    <br className="sp" />
                     <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
                     {/* <a href="https://suzuri.jp/YOSY">items.</a>&emsp; */}
                     <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
@@ -32,7 +30,6 @@ export default function Page({ children, home }) {
 
                 </section>
                 <section>
-                    <body>
                         <br />
                         <br />
                         <p>
@@ -145,10 +142,8 @@ export default function Page({ children, home }) {
                             <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
                             Web Designer / Software Engineer <br />
 
-
                         </p>
 
-                    </body>
                 </section>
                 <main>{children}</main>
             </div>

@@ -57,7 +57,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://drive.google.com/file/d/1p71e-ga0D-gOKGhfuTW3nmtCVJ5Ab2v0/view"> - cv </a>
+                            <a href="https://drive.google.com/file/d/1hc9Y7NPlGTSVwMvnv4lVCPON0sRA0Gi9/view"> - cv </a>
                             <br />
                             <a href="https://drive.google.com/file/d/16FDeMqk9THN_FkUM9-VzeCtPSDf0H6Id/view"> - portfolio </a>
                             <br />

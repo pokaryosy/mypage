@@ -1,12 +1,12 @@
 ---
 title: 'Second Life Markets Melbourne 2025S'
 date: '2025-12-07'
-postphoto: '/images/slml2025s/01.jpg'
+postphoto: '/images/slmm2025s/01.jpg'
 ---
 <br>
 <br>
 
-[![slml2025s](/images/slml2025s/01.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/01.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 <br>
 
 Second Life Markets Melbourne<br>
@@ -22,31 +22,31 @@ Photo<br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/02.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/02.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/03.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/03.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/04.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/04.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/05.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/05.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/06.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/06.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/07.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
+[![slmm2025s](/images/slmm2025s/07.jpg)](https://www.instagram.com/p/DUS_eJrkSOk/?utm_source=ig_web_copy_link&igsh=MzRlODBiNWFlZA==) <br>
 
 <br>
 
-[![slml2025s](/images/slml2025s/00.jpeg)](https://www.instagram.com/secondlifemarkets) <br>
+[![slmm2025s](/images/slmm2025s/00.jpeg)](https://www.instagram.com/secondlifemarkets) <br>
 
 <br>
 

@@ -14,12 +14,33 @@ function unauthorized() {
   });
 }
 
+function authNotConfigured() {
+  return new NextResponse("Auth not configured", {
+    status: 401,
+    headers: {
+      "WWW-Authenticate": 'Basic realm="Private"',
+      "X-Robots-Tag": "noindex, nofollow, noarchive",
+    },
+  });
+}
+
+function decodeBasic(encoded) {
+  const binary = atob(encoded);
+  const bytes = Uint8Array.from(binary, ch => ch.charCodeAt(0));
+  // Browsers typically send UTF-8 these days, but not guaranteed.
+  try {
+    return new TextDecoder("utf-8", { fatal: true }).decode(bytes);
+  } catch {
+    return binary;
+  }
+}
+
 export function middleware(req) {
   const user = process.env.PRIVATE_USER;
   const pass = process.env.PRIVATE_PASS;
 
   // Fail closed to avoid accidental exposure.
-  if (!user || !pass) return unauthorized();
+  if (!user || !pass) return authNotConfigured();
 
   const auth = req.headers.get("authorization");
   if (!auth) return unauthorized();
@@ -29,7 +50,7 @@ export function middleware(req) {
 
   let decoded = "";
   try {
-    decoded = atob(encoded);
+    decoded = decodeBasic(encoded);
   } catch {
     return unauthorized();
   }

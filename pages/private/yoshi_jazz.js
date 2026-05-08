@@ -3,7 +3,7 @@ import path from "path";
 import Head from "next/head";
 
 export async function getStaticProps() {
-  const filePath = path.join(process.cwd(), "private", "yoshi_jazz.html");
+  const filePath = path.join(process.cwd(), "pages", "private", "yoshi_jazz.html");
 
   let html = "";
   try {

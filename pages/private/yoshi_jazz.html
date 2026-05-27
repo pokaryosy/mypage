@@ -1,5 +1,4 @@
 <!DOCTYPE html>
-
 <html lang="ja">
 <head>
 <meta charset="UTF-8">
@@ -8,181 +7,181 @@
 <style>
   @import url('https://fonts.googleapis.com/css2?family=Oswald:wght@400;600;700&family=Noto+Sans+JP:wght@300;400;700&display=swap');
 
-* { margin:0; padding:0; box-sizing:border-box; }
+  * { margin:0; padding:0; box-sizing:border-box; }
 
-body {
-background: #0e0e0e;
-color: #ccc;
-font-family: 'Noto Sans JP', sans-serif;
-font-weight: 300;
-line-height: 1.75;
-padding: 24px 16px 80px;
-max-width: 700px;
-margin: 0 auto;
-}
+  body {
+    background: #0e0e0e;
+    color: #ccc;
+    font-family: 'Noto Sans JP', sans-serif;
+    font-weight: 300;
+    line-height: 1.75;
+    padding: 24px 16px 80px;
+    max-width: 700px;
+    margin: 0 auto;
+  }
 
-/* ── HEADER：白背景・黒文字 ── */
-header {
-background: #ffffff;
-border-radius: 8px;
-padding: 20px 18px 18px;
-margin-bottom: 28px;
-border-left: 5px solid #c8860a;
-}
-.eyebrow {
-font-family: 'Oswald', sans-serif;
-font-size: 10px;
-letter-spacing: 4px;
-color: #888;
-text-transform: uppercase;
-margin-bottom: 6px;
-}
-header h1 {
-font-family: 'Oswald', sans-serif;
-font-weight: 700;
-font-size: 38px;
-letter-spacing: 1px;
-color: #111;
-line-height: 1;
-margin-bottom: 8px;
-}
-.header-sub { font-size: 13px; color: #444; }
+  header {
+    background: #ffffff;
+    border-radius: 8px;
+    padding: 20px 18px 18px;
+    margin-bottom: 28px;
+    border-left: 5px solid #c8860a;
+  }
+  .eyebrow {
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+    letter-spacing: 4px;
+    color: #888;
+    text-transform: uppercase;
+    margin-bottom: 6px;
+  }
+  header h1 {
+    font-family: 'Oswald', sans-serif;
+    font-weight: 700;
+    font-size: 38px;
+    letter-spacing: 1px;
+    color: #111;
+    line-height: 1;
+    margin-bottom: 8px;
+  }
+  .header-sub { font-size: 13px; color: #444; }
 
-/* ── SECTION HEAD：白背景・黒文字 ── */
-.sec-head {
-display: flex;
-align-items: center;
-gap: 10px;
-margin-bottom: 14px;
-background: #ffffff;
-border-radius: 6px;
-padding: 10px 14px;
-}
-.stag {
-font-family: 'Oswald', sans-serif;
-font-size: 10px;
-letter-spacing: 3px;
-padding: 3px 10px;
-border-radius: 3px;
-text-transform: uppercase;
-flex-shrink: 0;
-font-weight: 600;
-}
-.t-daily  { background: #1a1a1a; color: #fff; }
-.t-tue    { background: #fff; color: #1a1a1a; border: 2px solid #1a1a1a; }
-.t-noinst { background: #5a3e8a; color: #fff; }
-.t-road   { background: #fff; color: #444; border: 1px solid #aaa; }
-.t-scale  { background: #1a4a7a; color: #fff; }
-.t-rule   { background: #fff; color: #444; border: 1px solid #aaa; }
-.sec-title {
-font-family: 'Oswald', sans-serif;
-font-size: 20px;
-font-weight: 700;
-letter-spacing: 1px;
-color: #111;
-}
+  .sec-head {
+    display: flex;
+    align-items: center;
+    gap: 10px;
+    margin-bottom: 14px;
+    background: #ffffff;
+    border-radius: 6px;
+    padding: 10px 14px;
+  }
+  .stag {
+    font-family: 'Oswald', sans-serif;
+    font-size: 10px;
+    letter-spacing: 3px;
+    padding: 3px 10px;
+    border-radius: 3px;
+    text-transform: uppercase;
+    flex-shrink: 0;
+    font-weight: 600;
+  }
+  .t-daily  { background: #1a1a1a; color: #fff; }
+  .t-tue    { background: #fff; color: #1a1a1a; border: 2px solid #1a1a1a; }
+  .t-noinst { background: #5a3e8a; color: #fff; }
+  .t-road   { background: #fff; color: #444; border: 1px solid #aaa; }
+  .t-scale  { background: #1a4a7a; color: #fff; }
+  .t-rule   { background: #fff; color: #444; border: 1px solid #aaa; }
+  .t-lesson { background: #1a5a2a; color: #fff; }
+  .sec-title {
+    font-family: 'Oswald', sans-serif;
+    font-size: 20px;
+    font-weight: 700;
+    letter-spacing: 1px;
+    color: #111;
+  }
 
-.section { margin-bottom: 36px; }
+  .section { margin-bottom: 36px; }
 
-/* ── TIME SUMMARY ── */
-.tsummary { background: #1e1e1e; border: 1px solid #333; border-radius: 6px; padding: 14px 16px; margin-bottom: 12px; }
-.ts-row { display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
-.ts-label { font-size: 11px; color: #888; letter-spacing: 1px; }
-.ts-total { font-family: 'Oswald', sans-serif; font-size: 26px; color: #eee; line-height: 1; }
-.ts-total span { font-size: 12px; color: #888; font-family: 'Noto Sans JP', sans-serif; }
-.tbar { height: 6px; border-radius: 3px; display: flex; gap: 2px; overflow: hidden; margin-bottom: 8px; }
-.b-kiso  { background: #666; }
-.b-jazz  { background: #c8860a; }
-.b-kyoku { background: #1a6aaa; }
-.b-flute { background: #1a8a4a; }
-.b-gel   { background: #8a3a8a; }
-.legend { display: flex; gap: 12px; flex-wrap: wrap; }
-.li { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #aaa; }
-.dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
+  .tsummary { background: #1e1e1e; border: 1px solid #333; border-radius: 6px; padding: 14px 16px; margin-bottom: 12px; }
+  .ts-row { display:flex; justify-content:space-between; align-items:flex-end; flex-wrap:wrap; gap:8px; margin-bottom:10px; }
+  .ts-label { font-size: 11px; color: #888; letter-spacing: 1px; }
+  .ts-total { font-family: 'Oswald', sans-serif; font-size: 26px; color: #eee; line-height: 1; }
+  .ts-total span { font-size: 12px; color: #888; font-family: 'Noto Sans JP', sans-serif; }
+  .tbar { height: 6px; border-radius: 3px; display: flex; gap: 2px; overflow: hidden; margin-bottom: 8px; }
+  .b-kiso  { background: #666; }
+  .b-jazz  { background: #c8860a; }
+  .b-kyoku { background: #1a6aaa; }
+  .b-flute { background: #1a8a4a; }
+  .b-gel   { background: #8a3a8a; }
+  .legend { display: flex; gap: 12px; flex-wrap: wrap; }
+  .li { display: flex; align-items: center; gap: 5px; font-size: 12px; color: #aaa; }
+  .dot { width: 8px; height: 8px; border-radius: 50%; flex-shrink: 0; }
 
-/* ── BLOCK ── */
-.block { border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
-.bbar { height: 4px; }
-.bc-kiso   { background: #666; }
-.bc-jazz   { background: #c8860a; }
-.bc-kyoku  { background: #1a6aaa; }
-.bc-flute  { background: #1a8a4a; }
-.bc-purple { background: #5a3e8a; }
-.bc-blue   { background: #1a4a7a; }
-.bc-gel    { background: #8a3a8a; }
-.binner { background: #181818; border: 1px solid #2a2a2a; border-top: none; padding: 14px 16px 16px; border-radius: 0 0 6px 6px; }
-.bhead { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 8px; flex-wrap: wrap; }
-.bname { font-weight: 700; font-size: 14px; color: #eee; line-height: 1.5; }
-.en { font-size: 10px; color: #777; font-weight: 300; letter-spacing: 1px; font-family: 'Oswald', sans-serif; display: inline; margin-left: 5px; }
-.btime { font-family: 'Oswald', sans-serif; font-size: 22px; color: #c8860a; white-space: nowrap; flex-shrink: 0; }
-.btime span { font-size: 11px; color: #777; font-family: 'Noto Sans JP', sans-serif; }
-.bbody { font-size: 13px; color: #bbb; }
-.bbody ul { list-style: none; padding: 0; }
-.bbody ul li { padding: 5px 0 5px 18px; position: relative; border-bottom: 1px solid #252525; }
-.bbody ul li:last-child { border-bottom: none; }
-.bbody ul li::before { content: "→"; position: absolute; left: 0; color: #c8860a; font-size: 11px; }
+  .block { border-radius: 6px; margin-bottom: 10px; overflow: hidden; }
+  .bbar { height: 4px; }
+  .bc-kiso   { background: #666; }
+  .bc-jazz   { background: #c8860a; }
+  .bc-kyoku  { background: #1a6aaa; }
+  .bc-flute  { background: #1a8a4a; }
+  .bc-purple { background: #5a3e8a; }
+  .bc-blue   { background: #1a4a7a; }
+  .bc-gel    { background: #8a3a8a; }
+  .bc-green  { background: #1a5a2a; }
+  .binner { background: #181818; border: 1px solid #2a2a2a; border-top: none; padding: 14px 16px 16px; border-radius: 0 0 6px 6px; }
+  .bhead { display: flex; justify-content: space-between; align-items: flex-start; margin-bottom: 10px; gap: 8px; flex-wrap: wrap; }
+  .bname { font-weight: 700; font-size: 14px; color: #eee; line-height: 1.5; }
+  .en { font-size: 10px; color: #777; font-weight: 300; letter-spacing: 1px; font-family: 'Oswald', sans-serif; display: inline; margin-left: 5px; }
+  .btime { font-family: 'Oswald', sans-serif; font-size: 22px; color: #c8860a; white-space: nowrap; flex-shrink: 0; }
+  .btime span { font-size: 11px; color: #777; font-family: 'Noto Sans JP', sans-serif; }
+  .bbody { font-size: 13px; color: #bbb; }
+  .bbody ul { list-style: none; padding: 0; }
+  .bbody ul li { padding: 5px 0 5px 18px; position: relative; border-bottom: 1px solid #252525; }
+  .bbody ul li:last-child { border-bottom: none; }
+  .bbody ul li::before { content: "→"; position: absolute; left: 0; color: #c8860a; font-size: 11px; }
 
-/* ── BADGE ── */
-.badge { display:inline-block; font-size:9px; font-family:'Oswald',sans-serif; letter-spacing:1px; padding:2px 7px; border-radius:10px; margin-left:6px; vertical-align:middle; text-transform:uppercase; }
-.badge-hi { background: #3a1010; color: #ff8080; border: 1px solid #7a2020; }
-.badge-ok { background: #2a2000; color: #e8b830; border: 1px solid #c8860a; }
+  .badge { display:inline-block; font-size:9px; font-family:'Oswald',sans-serif; letter-spacing:1px; padding:2px 7px; border-radius:10px; margin-left:6px; vertical-align:middle; text-transform:uppercase; }
+  .badge-hi { background: #3a1010; color: #ff8080; border: 1px solid #7a2020; }
+  .badge-ok { background: #2a2000; color: #e8b830; border: 1px solid #c8860a; }
+  .badge-next { background: #0d2040; color: #90ccff; border: 1px solid #2a6aaa; }
 
-.hl  { color: #e8b830; font-weight: 700; }
-.dim { color: #777; font-size: 11px; }
-.ng  { color: #e07070; font-weight: 700; }
+  .hl  { color: #e8b830; font-weight: 700; }
+  .hl2 { color: #90ccff; font-weight: 700; }
+  .dim { color: #777; font-size: 11px; }
+  .ng  { color: #e07070; font-weight: 700; }
 
-/* ── BOXES ── */
-.goal-box { margin-top:10px; background:#2a2000; border:1px solid #c8860a; border-radius:4px; padding:10px 12px; font-size:13px; color:#e8b830; display:flex; gap:8px; align-items:flex-start; }
-.gl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; flex-shrink:0; padding-top:2px; color:#c8860a; }
-.next-box { margin-top:10px; background:#0d1e2e; border:1px solid #2a6aaa; border-radius:4px; padding:10px 12px; font-size:13px; color:#90ccff; display:flex; gap:8px; align-items:flex-start; }
-.nl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; flex-shrink:0; padding-top:2px; color:#5aabef; }
-.warn-box { margin-top:10px; background:#2a0d0d; border:1px solid #7a2020; border-radius:4px; padding:10px 12px; font-size:13px; color:#ff9090; }
-.note-box { margin-top:10px; background:#141414; border:1px solid #333; border-radius:4px; padding:10px 12px; font-size:13px; color:#bbb; }
-.note-lbl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; color:#777; margin-bottom:4px; }
-.sub { margin-top:10px; padding:10px 12px; background:#111; border:1px solid #252525; border-radius:4px; }
-.sub-title { font-family:'Oswald',sans-serif; font-size:11px; letter-spacing:2px; color:#e8b830; text-transform:uppercase; margin-bottom:6px; font-weight:600; }
+  .goal-box { margin-top:10px; background:#2a2000; border:1px solid #c8860a; border-radius:4px; padding:10px 12px; font-size:13px; color:#e8b830; display:flex; gap:8px; align-items:flex-start; }
+  .gl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; flex-shrink:0; padding-top:2px; color:#c8860a; }
+  .next-box { margin-top:10px; background:#0d1e2e; border:1px solid #2a6aaa; border-radius:4px; padding:10px 12px; font-size:13px; color:#90ccff; display:flex; gap:8px; align-items:flex-start; }
+  .nl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; flex-shrink:0; padding-top:2px; color:#5aabef; }
+  .warn-box { margin-top:10px; background:#2a0d0d; border:1px solid #7a2020; border-radius:4px; padding:10px 12px; font-size:13px; color:#ff9090; }
+  .note-box { margin-top:10px; background:#141414; border:1px solid #333; border-radius:4px; padding:10px 12px; font-size:13px; color:#bbb; }
+  .note-lbl { font-family:'Oswald',sans-serif; font-size:10px; letter-spacing:2px; color:#777; margin-bottom:4px; }
+  .sub { margin-top:10px; padding:10px 12px; background:#111; border:1px solid #252525; border-radius:4px; }
+  .sub-title { font-family:'Oswald',sans-serif; font-size:11px; letter-spacing:2px; color:#e8b830; text-transform:uppercase; margin-bottom:6px; font-weight:600; }
 
-hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
+  hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
 
-/* ── TABLE ── */
-.scale-table { width:100%; border-collapse:collapse; font-size:12px; margin-top:10px; }
-.scale-table th { background:#111; color:#e8b830; font-family:'Oswald',sans-serif; letter-spacing:1px; font-size:10px; padding:8px 10px; text-align:left; border-bottom:1px solid #333; }
-.scale-table td { padding:8px 10px; border-bottom:1px solid #222; color:#bbb; vertical-align:top; }
-.scale-table tr:last-child td { border-bottom:none; }
-.scale-table tr:nth-child(even) td { background:#141414; }
-.phase-label { display:inline-block; font-size:9px; font-family:'Oswald',sans-serif; padding:1px 7px; border-radius:10px; }
-.ph1 { background:#2a2000; color:#e8b830; border:1px solid #c8860a; }
-.ph2 { background:#0d1e2e; color:#90ccff; border:1px solid #2a6aaa; }
-.ph3 { background:#1e0e30; color:#c0a0ff; border:1px solid #6a40aa; }
+  .scale-table { width:100%; border-collapse:collapse; font-size:12px; margin-top:10px; }
+  .scale-table th { background:#111; color:#e8b830; font-family:'Oswald',sans-serif; letter-spacing:1px; font-size:10px; padding:8px 10px; text-align:left; border-bottom:1px solid #333; }
+  .scale-table td { padding:8px 10px; border-bottom:1px solid #222; color:#bbb; vertical-align:top; }
+  .scale-table tr:last-child td { border-bottom:none; }
+  .scale-table tr:nth-child(even) td { background:#141414; }
+  .phase-label { display:inline-block; font-size:9px; font-family:'Oswald',sans-serif; padding:1px 7px; border-radius:10px; }
+  .ph1 { background:#2a2000; color:#e8b830; border:1px solid #c8860a; }
+  .ph2 { background:#0d1e2e; color:#90ccff; border:1px solid #2a6aaa; }
+  .ph3 { background:#1e0e30; color:#c0a0ff; border:1px solid #6a40aa; }
 
-/* ── PHASE ── */
-.phase-block { background:#181818; border:1px solid #2a2a2a; border-radius:6px; padding:16px; margin-bottom:10px; }
-.phase-title { font-family:'Oswald',sans-serif; font-size:14px; letter-spacing:1px; color:#eee; margin-bottom:10px; display:flex; align-items:center; gap:8px; }
-.pnum { background:#c8860a; color:#000; font-size:10px; font-family:'Oswald',sans-serif; padding:2px 8px; border-radius:10px; }
-.phase-block ul { list-style:none; font-size:13px; color:#bbb; }
-.phase-block ul li { padding:4px 0 4px 18px; position:relative; border-bottom:1px solid #222; }
-.phase-block ul li:last-child { border-bottom:none; }
-.phase-block ul li::before { content:"✓"; position:absolute; left:0; color:#c8860a; font-size:11px; }
+  .phase-block { background:#181818; border:1px solid #2a2a2a; border-radius:6px; padding:16px; margin-bottom:10px; }
+  .phase-title { font-family:'Oswald',sans-serif; font-size:14px; letter-spacing:1px; color:#eee; margin-bottom:10px; display:flex; align-items:center; gap:8px; }
+  .pnum { background:#c8860a; color:#000; font-size:10px; font-family:'Oswald',sans-serif; padding:2px 8px; border-radius:10px; }
+  .phase-block ul { list-style:none; font-size:13px; color:#bbb; }
+  .phase-block ul li { padding:4px 0 4px 18px; position:relative; border-bottom:1px solid #222; }
+  .phase-block ul li:last-child { border-bottom:none; }
+  .phase-block ul li::before { content:"✓"; position:absolute; left:0; color:#c8860a; font-size:11px; }
 
-/* ── RULE ── */
-.rule-list { background:#181818; border:1px solid #2a2a2a; border-radius:6px; padding:16px; }
-.rule-list ul { list-style:none; font-size:13px; color:#bbb; }
-.rule-list ul li { padding:5px 0 5px 18px; position:relative; border-bottom:1px solid #222; }
-.rule-list ul li:last-child { border-bottom:none; }
-.rule-list ul li::before { content:"▸"; position:absolute; left:0; color:#c8860a; font-size:10px; top:7px; }
+  .rule-list { background:#181818; border:1px solid #2a2a2a; border-radius:6px; padding:16px; }
+  .rule-list ul { list-style:none; font-size:13px; color:#bbb; }
+  .rule-list ul li { padding:5px 0 5px 18px; position:relative; border-bottom:1px solid #222; }
+  .rule-list ul li:last-child { border-bottom:none; }
+  .rule-list ul li::before { content:"▸"; position:absolute; left:0; color:#c8860a; font-size:10px; top:7px; }
+
+  .song-table { width:100%; border-collapse:collapse; font-size:12px; margin-top:10px; }
+  .song-table th { background:#111; color:#e8b830; font-family:'Oswald',sans-serif; letter-spacing:1px; font-size:10px; padding:8px 10px; text-align:left; border-bottom:1px solid #333; }
+  .song-table td { padding:8px 10px; border-bottom:1px solid #222; color:#bbb; vertical-align:top; }
+  .song-table tr:last-child td { border-bottom:none; }
+  .song-table tr:nth-child(even) td { background:#141414; }
 </style>
-
 </head>
 <body>
 
 <header>
   <div class="eyebrow">Practice Schedule · Trumpet · Jazz</div>
   <h1>Yoshi<br>練習メニュー</h1>
-  <div class="header-sub">毎日 1h ／ 火曜 4h（フルート・ゲルホン含む）／ 楽器なし 1h</div>
+  <div class="header-sub">毎日 1h ／ 火曜 4h（フルート・ゲルホン含む）／ 吹けない日 1h</div>
 </header>
 
-<!-- ══════════ 毎日 ══════════ -->
 
+<!-- ══════════ 毎日 ══════════ -->
 <div class="section">
   <div class="sec-head">
     <span class="stag t-daily">Daily</span>
@@ -228,22 +227,23 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
     <div class="bbar bc-jazz"></div>
     <div class="binner">
       <div class="bhead">
-        <div class="bname">メジャー ii-V-I コードトーン練習 <span class="en">Major Two-Five-One / Chord Tone Arpeggios</span><span class="badge badge-hi">最優先</span></div>
-        <div class="btime">10 <span>min</span></div>
+        <div class="bname">メジャー ii-V-I コードトーン練習 <span class="en">Major Two-Five-One / Chord Tones</span><span class="badge badge-hi">最優先</span></div>
+        <div class="btime">15 <span>min</span></div>
       </div>
       <div class="bbody">
         <div class="note-box" style="margin-top:0; margin-bottom:10px;">
           <div class="note-lbl">この練習の意味</div>
-          スケール（ドリアン・ミクソリディアン等）ではなく、<span class="hl">各コードの1・3・5・7音を着地点として繋げる練習</span>。コードトーンが「重力のある音 <span class="dim">Gravity Notes</span>」という感覚を体に刻む。
+          スケールではなく<span class="hl">各コードの1・3・5・7音を着地点として繋げる練習</span>。コードトーンが「重力のある音 <span class="dim">Gravity Notes</span>」という感覚を体に刻む。
           <div style="margin-top:8px; padding:8px; background:#1e1e1e; border-radius:3px; font-size:12px;">
             Dm7 = レ・ファ・ラ・ど　／　G7 = ソ・シ・レ・ファ　／　Cmaj7 = ど・ミ・ソ<br>
-            <span class="dim">（実音ドレミ基準：C=ど、D=レ、E=ミ、F=ファ、G=ソ、A=ラ、B=シ）</span>
+            <span class="dim">（実音ドレミ基準：C=ど、D=レ、E=ミ、F=ファ、G=ソ、A=ラ、B=シ）</span><br>
+            <span class="dim">※コードトーンはin B♭で読めればOK。楽譜の読み方は変えない</span>
           </div>
         </div>
         <ul>
-          <li>Dm7→G7→Cmaj7を例に、コードトーンをアルペジオ <span class="dim">Arpeggio</span> で確認しながらラインを繋げる</li>
+          <li>全12キーで練習しておく（基礎として重要）</li>
+          <li><span class="hl">曲の中のコードトーン＋4度上でやると実践的</span>：例）All of MeのCキーで練習したらFキーでも（女性ボーカル対応）</li>
           <li>毎日2〜3キー：4th Cycle推奨 <span class="dim">ど→ファ→シb→ミb→ラb→レb→ソb→ロ→ミ→ラ→レ→ソ</span></li>
-          <li>「今どのコードトーンに向かっているか」を口で言いながら吹くと定着が速い</li>
         </ul>
         <div class="goal-box">
           <div class="gl">GOAL</div>
@@ -261,25 +261,25 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
     <div class="bbar bc-jazz"></div>
     <div class="binner">
       <div class="bhead">
-        <div class="bname">フレーズ集・1フレーズ深掘り <span class="en">Phrase Book / Deep Practice · 1 per Week</span><span class="badge badge-hi">最優先</span></div>
-        <div class="btime">20 <span>min</span></div>
+        <div class="bname">フレーズ深掘り <span class="en">Phrase Practice · 1 per Week</span><span class="badge badge-hi">最優先</span></div>
+        <div class="btime">15 <span>min</span></div>
       </div>
       <div class="bbody">
         <div class="note-box" style="margin-top:0; margin-bottom:10px;">
-          <div class="note-lbl">週次サイクル</div>
-          毎週火曜に1フレーズ選ぶ。1週間かけて深める。<span class="hl">全12キー完走 + 自分版バリエーション2〜3個できたら次へ</span>。まだなら持ち越しOK。
+          <div class="note-lbl">考え方のアップデート</div>
+          フレーズ集中心ではなく、<span class="hl">曲の中でこのフレーズを使ってみる＋4度上</span>、という流れで進める。フレーズは永遠に増やすものなので固執しすぎない。分析は自分の体にすんなり入るように解釈してOK。大事なのはフレーズを自分のものにすること。
         </div>
         <ul>
-          <li><span class="hl">① 1フレーズだけ選ぶ</span>（フレーズ集のどの種類でも可）</li>
-          <li><span class="hl">② 構造を分析する</span> <span class="dim">Analyze</span>：コードトーンはどれ？クロマチックアプローチ <span class="dim">Chromatic Approach</span> はどこ？ガイドトーン <span class="dim">Guide Tones (3rd・7th)</span> はどれ？</li>
-          <li><span class="hl">③ 楽譜を見ずに全12キーで吹く</span> <span class="dim">Transpose in All 12 Keys by ear</span>：頭と耳で変換。目で追うだけでは語彙にならない</li>
-          <li><span class="hl">④ 1音変えた「自分版」を作る</span> <span class="dim">Personal Variation</span>：音・リズム・入りを変える</li>
-          <li><span class="hl">⑤ iRealのバッキングで使ってみる</span> <span class="dim">Apply Over Backing Track</span></li>
+          <li><span class="hl">① 1フレーズ選ぶ</span>（今週の曲で使えそうなもの）</li>
+          <li><span class="hl">② 構造を分析する</span>：コードトーンはどれ？クロマチックアプローチ <span class="dim">Chromatic Approach / Passing Tone</span> はどこ？</li>
+          <li><span class="hl">③ 曲の中で使ってみる＋4度上でも使う</span> <span class="dim">（男性ボーカル・インストはそのキー、女性ボーカルは4度上）</span></li>
+          <li><span class="hl">④ 自分版を作る</span>：音・リズム・入りを1つ変える</li>
+          <li><span class="hl">⑤ 必要なら全12キーへ</span>：余裕があれば</li>
         </ul>
-        <div class="warn-box"><span class="ng">NG：</span>楽譜に書いてある全キーをただ目で追って吹くだけ → 筋肉記憶 <span class="dim">Muscle Memory</span> に入らず語彙にならない</div>
+        <div class="warn-box"><span class="ng">NG：</span>楽譜の全キーをただ目で追って吹くだけ → 筋肉記憶 <span class="dim">Muscle Memory</span> に入らず語彙にならない</div>
         <div class="goal-box">
           <div class="gl">GOAL</div>
-          バッキングの中で意図的に使える状態にすること。自然に口をついて出てくるようになれば成功
+          曲の中で意図的に使える状態にすること。自然に口をついて出てくるようになれば成功
         </div>
       </div>
     </div>
@@ -289,7 +289,6 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
 <hr class="div">
 
 <!-- ══════════ 火曜日 ══════════ -->
-
 <div class="section">
   <div class="sec-head">
     <span class="stag t-tue">Tuesday</span>
@@ -299,7 +298,7 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
   <div class="tsummary">
     <div class="ts-row">
       <div class="ts-label">TIME BREAKDOWN</div>
-      <div class="ts-total">240 <span>min</span></div>
+      <div class="ts-total">230 <span>min</span></div>
     </div>
     <div class="tbar">
       <div class="b-flute" style="flex:60"></div>
@@ -364,60 +363,53 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
       </div>
       <div class="bbody">
         <div class="note-box" style="margin-top:0; margin-bottom:10px;">
-          <div class="note-lbl">時間配分の目安</div>
-          A=20分 / B=20分 / C=10分 / 片付け10分
+          <div class="note-lbl">優先順位の考え方</div>
+          ii-V-I（構造）→ フレーズ（語彙）→ 曲で統合（実践）の順。ドミナント7スケールはii-V-Iの練習の中で自然に出てくるので統合して練習する。頭が追いつかないので一度に増やしすぎない。
         </div>
 
-<!-- (was a stray markdown fence) -->
-    <div class="sub">
-      <div class="sub-title">A ／ 20min — 週のフレーズおさらい <span class="dim">Weekly Phrase Review</span></div>
-      <ul style="font-size:13px; color:#bbb;">
-        <li>今週のフレーズを全12キー完走（頭と指を温める）</li>
-        <li>自分版バリエーション <span class="dim">Personal Variation</span> 2〜3個確認</li>
-        <li>iRealのAll of Meバッキングで実際に使う</li>
-        <li>完走できた → 次週新フレーズへ。まだなら持ち越す</li>
-      </ul>
-    </div>
+        <div class="sub">
+          <div class="sub-title">A ／ 20min — ii-V-I おさらい <span class="dim">Two-Five-One Review · All 12 Keys</span></div>
+          <ul style="font-size:13px; color:#bbb;">
+            <li>メジャー ii-V-I を<span class="hl">全12キー</span>でコードトーン着地で吹く <span class="dim">（4th Cycle：ど→ファ→シb→ミb→ラb→レb→ソb→ロ→ミ→ラ→レ→ソ）</span></li>
+            <li>慣れてきたらiRealのバッキングに乗せて吹く</li>
+            <li>スケール（ミクソリディアン等）はまだ混ぜない。コードトーンの着地感を体に入れることだけに集中</li>
+          </ul>
+          <div class="goal-box" style="margin-top:8px;">
+            <div class="gl">GOAL</div>
+            全12キーで、コードチェンジの瞬間に1・3・5・7のどれかへ自然に着地できること
+          </div>
+        </div>
 
-    <div class="sub" style="margin-top:8px;">
-      <div class="sub-title">B ／ 20min — 裏コード＋ドミナント7スケール実践 <span class="dim">Tritone Sub + Dom7 Scale Practice</span></div>
-      <ul style="font-size:13px; color:#bbb;">
-        <li>【裏コード <span class="dim">Tritone Substitution</span>】All of MeのV7（G7）を1箇所選ぶ → バッキングG7のまま自分だけDb7フレーズ → Cmaj7に着地</li>
-        <li>【ドミナント7スケール実践】Phase1：ミクソリディアン・HP5をiRealで実戦投入 / Phase2：コンディミ・オルタードへ移行</li>
-        <li><span class="hl">裏コードは1コーラス中1〜2回</span>：使いすぎない</li>
-      </ul>
-      <div class="goal-box" style="margin-top:8px;">
-        <div class="gl">GOAL</div>
-        「外して戻る」快感を耳で体感すること。スケールを音楽の道具として実戦で使えるようにすること
+        <div class="sub" style="margin-top:8px;">
+          <div class="sub-title">B ／ 20min — フレーズ練習 <span class="dim">Phrase Practice</span></div>
+          <ul style="font-size:13px; color:#bbb;">
+            <li>今週のフレーズを構造分析（コードトーン・クロマチックアプローチはどこか）</li>
+            <li>全キーではなく、<span class="hl">今週の曲のキー＋4度上で吹けるようにする</span></li>
+            <li>自分版バリエーション 1〜2個作る（音・リズム・入りを1つ変える）</li>
+          </ul>
+        </div>
+
+        <div class="sub" style="margin-top:8px;">
+          <div class="sub-title">C ／ 20min — 曲で全部統合 <span class="dim">Apply Everything in Context</span></div>
+          <ul style="font-size:13px; color:#bbb;">
+            <li>楽譜なしでテーマを吹く</li>
+            <li>iRealのバッキングに乗せて、A・Bで練習したii-V-I・フレーズ・スケールを曲の中で使ってみる</li>
+            <li>テーマ → トランペットで歌う → コード意識 → スケール意識 → テーマに戻る</li>
+            <li>録音して聴き返す <span class="dim">Record & Review</span></li>
+          </ul>
+          <div class="note-box" style="margin-top:8px; border-color:#2a6aaa; background:#0d1e2e;">
+            <div class="note-lbl" style="color:#5aabef;">近い将来：裏コード <span class="dim">Tritone Substitution · Coming Soon</span></div>
+            <span style="color:#90ccff;">ii-V-Iとフレーズが安定してきたら、曲の中のV7コードで裏コードを1〜2箇所試す。バッキングはそのままで自分だけ裏のルートで吹いてトニックに解決させる。</span>
+          </div>
+        </div>
       </div>
     </div>
-
-    <div class="sub" style="margin-top:8px;">
-      <div class="sub-title">C ／ 10min — All of Me テーマ確認 <span class="dim">Head Review</span></div>
-      <ul style="font-size:13px; color:#bbb;">
-        <li>楽譜なしでメロディー <span class="dim">Head</span> を吹く</li>
-        <li>A・Bで練習したフレーズ・スケール・裏コードを曲の中に自然に混ぜてみる</li>
-      </ul>
-      <div class="note-box" style="margin-top:8px;">
-        <div class="note-lbl">Yoshiの練習法 <span class="badge badge-ok">有効</span></div>
-        テーマ → トランペットで歌う → コード意識で1周 <span class="dim">Chord Tones</span> → スケール意識で1周 <span class="dim">Scale + Tension</span> → テーマに戻る。この流れを他の曲にも応用できる。
-      </div>
-    </div>
-
-    <div class="note-box" style="margin-top:10px; border-color:#c8860a; background:#1e1600;">
-      <span class="hl">録音必須 <span class="dim">Record Every Session</span>：</span>iRealで録って聴き返す。タイム感 <span class="dim">Time Feel</span>・フレージング・解決感を確認する。
-    </div>
-  </div>
-</div>
-<!-- (was a stray markdown fence) -->
-
   </div>
 </div>
 
 <hr class="div">
 
-<!-- ══════════ 楽器なし ══════════ -->
-
+<!-- ══════════ 吹けない日 ══════════ -->
 <div class="section">
   <div class="sec-head">
     <span class="stag t-noinst">No Instrument</span>
@@ -442,9 +434,9 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
         <div class="sub" style="margin-top:8px;">
           <div class="sub-title">B ／ 20min — 歌う（口で） <span class="dim">Vocal Practice</span></div>
           <ul style="font-size:13px; color:#bbb;">
-            <li>今週のフレーズを全12キーで口ずさむ（楽器なしでも転調練習になる）</li>
-            <li>All of Meのメロディーを歌いながら、コード進行を実音ドレミで頭の中で追う</li>
-            <li>原則：<span class="hl">頭の中で鳴らせない音は楽器でも出せない <span class="dim">If you can't hear it, you can't play it</span></span></li>
+            <li>今週のフレーズを口ずさむ（楽器なしでも転調練習になる）</li>
+            <li>今週の曲のメロディーを歌いながら、コード進行を実音ドレミで頭の中で追う</li>
+            <li>原則：<span class="hl">頭の中で鳴らせない音は楽器でも出せない</span></li>
           </ul>
         </div>
         <div class="sub" style="margin-top:8px;">
@@ -452,20 +444,14 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
           <ul style="font-size:13px; color:#bbb;">
             <li>今週のフレーズをピアノアプリで弾いて音を確認</li>
             <li>コードトーン（1・3・5・7）を鍵盤で押して響きを耳で確認</li>
-            <li>裏コード確認：G7とDb7を交互に弾き、共通するガイドトーン（シとファ）を耳で聴く</li>
           </ul>
         </div>
         <div class="sub" style="margin-top:8px;">
           <div class="sub-title">D ／ 10min — 理論整理 <span class="dim">Theory Review</span></div>
           <ul style="font-size:13px; color:#bbb;">
             <li>その週の疑問をノートにまとめる</li>
-            <li>4th Cycle（ど→ファ→シb→ミb…）でコード進行を頭の中でイメージする</li>
             <li>フレーズ集を「読む」：音を出さず、構造だけ分析する</li>
           </ul>
-        </div>
-        <div class="goal-box" style="margin-top:10px;">
-          <div class="gl">GOAL</div>
-          楽器がない日も耳・頭・声で練習を続けられる。楽器なし練習の積み重ねが、楽器を持ったときの反応速度を上げる。
         </div>
       </div>
     </div>
@@ -474,15 +460,126 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
 
 <hr class="div">
 
-<!-- ══════════ スケール一覧 ══════════ -->
+<!-- ══════════ レッスンメモ ══════════ -->
+<div class="section">
+  <div class="sec-head">
+    <span class="stag t-lesson">Lesson</span>
+    <span class="sec-title">レッスンメモ・曲別ポイント</span>
+  </div>
 
+  <!-- キーについて -->
+  <div class="block">
+    <div class="bbar bc-green"></div>
+    <div class="binner">
+      <div class="bhead">
+        <div class="bname">キーの考え方 <span class="en">Key & Transposition</span></div>
+      </div>
+      <div class="bbody">
+        <ul>
+          <li>男性ボーカル・インスト → 黒本通りのキーで練習</li>
+          <li>女性ボーカル → 黒本のキーの<span class="hl">4度上</span>で練習</li>
+          <li>1曲につき「そのキー＋4度上」で練習すれば次の曲に移ってOK</li>
+        </ul>
+        <div class="note-box" style="margin-top:10px;">
+          <div class="note-lbl">モード（イドフリミエロ）の優先度</div>
+          <span class="hl">よく使う：イオニアン・ドリアン・ロクリアン</span><br>
+          あまり重点にしない：フリジアン・ミクソリディアン<br>
+          <span class="dim">※イオニアンとフリジアンはトニックなので、4♯だけ気をつければイオニアンと認識することが多い</span>
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- 曲別ポイント -->
+  <div class="block">
+    <div class="bbar bc-green"></div>
+    <div class="binner">
+      <div class="bhead">
+        <div class="bname">曲別練習ポイント <span class="en">Song-Specific Tips</span></div>
+      </div>
+      <div class="bbody">
+        <table class="song-table">
+          <tr>
+            <th>曲名</th>
+            <th>練習のポイント</th>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">All of Me</strong></td>
+            <td>メジャー4小節フレーズの練習に最適。ⅡがⅡ7なのでリディアンドミナント（HP5）の練習になる</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">Bye Bye Blackbird</strong></td>
+            <td>メジャー4小節フレーズの練習に最適（All of Meと並んで）</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">So What</strong></td>
+            <td>ドリアン練習に最適。ほぼドリアン一発</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">Spain</strong></td>
+            <td>HP5（リディアンドミナント）が出てくる。HP5の実戦練習に</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">Autumn Leaves（枯葉）</strong></td>
+            <td>マイナー ii-V-i の2コード（ハーフディミニッシュ）がロクリアンの練習になる</td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">Take the A Train</strong></td>
+            <td>ⅡがⅡ7なのでリディアンドミナント（HP5）の練習になる（All of Meと同様）</td>
+          </tr>
+        </table>
+        <div class="note-box" style="margin-top:10px;">
+          <div class="note-lbl">補足</div>
+          Ⅰメジャーフレーズは教本にないので、別途仕入れる必要あり。
+        </div>
+      </div>
+    </div>
+  </div>
+
+  <!-- アボイドノート -->
+  <div class="block">
+    <div class="bbar bc-green"></div>
+    <div class="binner">
+      <div class="bhead">
+        <div class="bname">アボイドノート <span class="en">Avoid Notes</span></div>
+      </div>
+      <div class="bbody">
+        <ul>
+          <li>ソロ中はほとんど意識しなくてOK</li>
+          <li>コードトーンを意識していれば自然と避けられる</li>
+          <li>踏んでしまっても、その後コードトーンに着地すれば味になる</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+
+  <!-- ブルーススケール -->
+  <div class="block">
+    <div class="bbar bc-green"></div>
+    <div class="binner">
+      <div class="bhead">
+        <div class="bname">ブルーススケールについて <span class="en">Blues Scale</span></div>
+      </div>
+      <div class="bbody">
+        <ul>
+          <li>一般的な定義：マイナーペンタ＋b5</li>
+          <li>メジャーペンタ＋b3（フラット3rd）= 平行調から見るとブルーススケールと言える</li>
+          <li>定義は人によって解釈が曖昧なので決めつけない</li>
+          <li><span class="hl">メジャーペンタの第3音の半音下（b3）= ブルーノート</span>：メジャーの中にマイナーの色を混ぜる音</li>
+        </ul>
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="div">
+
+<!-- ══════════ スケール一覧 ══════════ -->
 <div class="section">
   <div class="sec-head">
     <span class="stag t-scale">Scale Chart</span>
     <span class="sec-title">スケール一覧</span>
   </div>
-
-  <!-- ドミナント7 -->
 
   <div class="block">
     <div class="bbar bc-blue"></div>
@@ -500,7 +597,7 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
           <tr>
             <td><strong style="color:#eee;">リディアンドミナント</strong><br><span class="dim">HP5・Lydian♭7</span></td>
             <td>Lydian Dominant<br><span class="dim">(4th mode Melodic Minor)</span></td>
-            <td>#11特化。明るいスパイシーさ</td>
+            <td>#11特化。明るいスパイシーさ。All of Me・Take the A TrainのⅡ7、Spainで活躍</td>
             <td><span class="phase-label ph1">Phase 1</span></td>
           </tr>
           <tr>
@@ -531,80 +628,166 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
         <div class="note-box" style="margin-top:10px;">
           <div class="note-lbl">重要な覚え方</div>
           <span class="hl">コンディミ（ハーフホール）= ドミナント7　　ホールハーフ = dim7コード</span><br>
-          オルタードとコンディミの最大の違い：<span class="hl">b13（オルタード）vs ナチュラル13（コンディミ）</span>
+          オルタードとコンディミの違い：<span class="hl">b13（オルタード）vs ナチュラル13（コンディミ）</span>
         </div>
       </div>
     </div>
   </div>
 
-  <!-- ペンタ・ブルース -->
+  <div class="block">
+    <div class="bbar bc-blue"></div>
+    <div class="binner">
+      <div class="bname" style="margin-bottom:12px;">ペンタトニック・ブルーススケール <span class="en">Pentatonic / Blues Scales</span></div>
+      <div class="bbody">
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px; margin-bottom:8px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">メジャーペンタ</strong>
+            <span class="phase-label ph1">Phase 1</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Major Pentatonic　／　ど・レ・ミ・ソ・ラ</div>
+          <div style="font-size:12px; color:#bbb;">Imaj7上で明るく。ドミナント7上でもロック・カントリー的な明るさが出る</div>
+        </div>
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px; margin-bottom:8px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">マイナーペンタ</strong>
+            <span class="phase-label ph1">Phase 1</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Minor Pentatonic　／　ど・ミb・ファ・ソ・シb</div>
+          <div style="font-size:12px; color:#bbb;">マイナーコード上で自然に。ドミナント7上であえて使うとブルージーな響きに</div>
+        </div>
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">ブルーススケール</strong>
+            <span class="phase-label ph1">Phase 1</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Blues Scale　／　ど・ミb・ファ・<span style="color:#e8b830;">ソb</span>・ソ・シb　<span style="color:#777;">（マイナーペンタ＋b5）</span></div>
+          <div style="font-size:12px; color:#bbb;">ブルース進行全体で使う。ソb（b5）がブルーノート。ジャズブルースに必須</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
 
   <div class="block">
     <div class="bbar bc-blue"></div>
     <div class="binner">
-      <div class="bname" style="margin-bottom:8px;">ペンタトニック・ブルーススケール <span class="en">Pentatonic / Blues Scales</span></div>
+      <div class="bname" style="margin-bottom:12px;">マイナースケール <span class="en">Minor Scales</span></div>
+      <div class="bbody">
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px; margin-bottom:8px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">ナチュラルマイナー</strong>
+            <span class="phase-label ph2">Phase 2</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Natural Minor / Aeolian</div>
+          <div style="font-size:12px; color:#bbb;">マイナーコード上で最も自然な響き。基本</div>
+        </div>
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px; margin-bottom:8px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">ハーモニックマイナー</strong>
+            <span class="phase-label ph3">Phase 3</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Harmonic Minor</div>
+          <div style="font-size:12px; color:#bbb;">ジャズではほぼ使わない。理論として知っておく程度でOK</div>
+        </div>
+
+        <div style="background:#111; border:1px solid #2a2a2a; border-radius:4px; padding:10px 12px;">
+          <div style="display:flex; justify-content:space-between; align-items:center; margin-bottom:4px;">
+            <strong style="color:#eee; font-size:13px;">メロディックマイナー</strong>
+            <span class="phase-label ph2">Phase 2</span>
+          </div>
+          <div style="font-size:11px; color:#888; margin-bottom:4px;">Melodic Minor / Jazz Minor　<span style="color:#777;">（ジャズ：上行型のみ使用）</span></div>
+          <div style="font-size:12px; color:#bbb;">ドリアンの7度がメジャーになっただけという認識でOK。マイナーii-V-i全体で使う。オルタードの元になるスケール</div>
+        </div>
+
+      </div>
+    </div>
+  </div>
+</div>
+
+<hr class="div">
+
+<!-- ══════════ モード一覧 ══════════ -->
+<div class="section">
+  <div class="sec-head">
+    <span class="stag t-scale">Mode Chart</span>
+    <span class="sec-title">モード一覧（イドフリミエロ）</span>
+  </div>
+
+  <div class="block">
+    <div class="bbar bc-blue"></div>
+    <div class="binner">
       <div class="bbody">
         <table class="scale-table">
-          <tr><th>スケール</th><th>構成音（Cを例に）</th><th>使いどころ</th><th>段階</th></tr>
           <tr>
-            <td><strong style="color:#eee;">メジャーペンタ</strong><br><span class="dim">Major Pentatonic</span></td>
-            <td>ど・レ・ミ・ソ・ラ</td>
-            <td>Imaj7上で明るく使う。ドミナント7上でもロック・カントリー的な明るさが出る</td>
-            <td><span class="phase-label ph1">Phase 1</span></td>
+            <th>モード</th>
+            <th>English</th>
+            <th>主な使いどころ</th>
+            <th>優先度</th>
           </tr>
           <tr>
-            <td><strong style="color:#eee;">マイナーペンタ</strong><br><span class="dim">Minor Pentatonic</span></td>
-            <td>ど・ミb・ファ・ソ・シb</td>
-            <td>マイナーコード上で自然に使う。ドミナント7上であえて使うとブルージーな響きに</td>
-            <td><span class="phase-label ph1">Phase 1</span></td>
+            <td><strong style="color:#eee;">イオニアン</strong></td>
+            <td>Ionian</td>
+            <td>Imaj7（メジャーキーのトニック）。メジャースケールそのもの。リディアンと違い4度がナチュラルなのが特徴</td>
+            <td><span class="phase-label ph1">高</span></td>
           </tr>
           <tr>
-            <td><strong style="color:#eee;">ブルーススケール</strong><br><span class="dim">Blues Scale</span></td>
-            <td>ど・ミb・ファ・<span style="color:#e8b830;">ソb</span>・ソ・シb<br><span class="dim">（マイナーペンタ＋b5）</span></td>
-            <td>ブルース進行全体で使う。ソb（b5）がブルーノート。ジャズブルースに必須</td>
-            <td><span class="phase-label ph1">Phase 1</span></td>
+            <td><strong style="color:#eee;">ドリアン</strong></td>
+            <td>Dorian</td>
+            <td>IIm7、マイナーコード全般。So Whatで実戦練習に最適</td>
+            <td><span class="phase-label ph1">高</span></td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">フリジアン</strong></td>
+            <td>Phrygian</td>
+            <td>IIIm7。トニックとして扱われることが多い。あまり重点にしない</td>
+            <td><span class="phase-label ph3">低</span></td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">リディアン</strong></td>
+            <td>Lydian</td>
+            <td>IVmaj7、Imaj7#11。明るいスパイシーさ。順番に練習</td>
+            <td><span class="phase-label ph2">中</span></td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">ミクソリディアン</strong></td>
+            <td>Mixolydian</td>
+            <td>V7の基本。メジャーに近いので習得しやすい。色が薄いので早めに次へ</td>
+            <td><span class="phase-label ph2">中</span></td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">エオリアン</strong></td>
+            <td>Aeolian</td>
+            <td>VIm7、ナチュラルマイナー。マイナーコード上の基本</td>
+            <td><span class="phase-label ph1">高</span></td>
+          </tr>
+          <tr>
+            <td><strong style="color:#eee;">ロクリアン</strong></td>
+            <td>Locrian</td>
+            <td>IIm7♭5（マイナーii-V-iの2コード）。枯葉で実戦練習に最適</td>
+            <td><span class="phase-label ph1">高</span></td>
           </tr>
         </table>
         <div class="note-box" style="margin-top:10px;">
-          <div class="note-lbl">ブルーノートについて</div>
-          <span class="hl">メジャーペンタの第3音の半音下（Cなら Eb）= フラット3rd（♭3）</span><br>
-          メジャーの中にマイナーの色を混ぜる音。これが「ブルーノート」の代表的な使い方。<br><br>
-          <span class="hl">ブルーノートスケール vs ブルーススケール</span><br>
-          ブルーススケール = マイナーペンタ + b5（ソb）の7音スケール。実用上はこれを覚えれば十分。<br>
-          ブルーノートスケール = b3・b5・b7を含むより広い概念。文献によって定義が異なる。
+          <div class="note-lbl">コード機能とモードの対応</div>
+          <div style="margin-bottom:8px;">ダイアトニックコードは3つの機能に分類される：</div>
+          <div style="padding:8px; background:#1e1e1e; border-radius:4px; font-size:12px; line-height:2;">
+            <span class="hl">トニック（1・3・6度）</span>　安定・解決感　→ イオニアン（I）・フリジアン（III）・エオリアン（VI）<br>
+            <span style="color:#90ccff;">サブドミナント（2・4度）</span>　中間・緊張への準備　→ ドリアン（II）・リディアン（IV）<br>
+            <span style="color:#c0a0ff;">ドミナント（5・7度）</span>　緊張・解決への推進力　→ ミクソリディアン（V）・ロクリアン（VII）
+          </div>
+          <div style="margin-top:10px; font-size:12px; color:#bbb; line-height:1.9;">
+            <span class="hl">補足・注意点：</span><br>
+            <span style="color:#e8b830;">リディアン</span>はIVmaj7（サブドミナント）由来だが、現代ジャズではImaj7（トニック）上でも頻繁に使われる。#4がavoid noteにならないため、トニックコード上でもよく機能する。「4度由来だがトニックでも使う」という二面性を持つ。<br><br>
+            <span style="color:#e8b830;">ドリアン</span>はIIm7（サブドミナント）由来。マイナーモードだが6度がナチュラルで明るさがあり、ジャズで最もよく使われるマイナーモード。<br><br>
+            <span style="color:#e8b830;">フリジアン</span>はIIIm7（トニック）由来だが、♭2が特徴の暗い響き。イオニアンとは全く別物として扱う。<br><br>
+            <span style="color:#e8b830;">ロクリアン</span>はVIIm7♭5（ドミナント）由来。マイナーii-V-iのIIm7♭5上で使う。不安定で解決を求める響き。
+          </div>
         </div>
-      </div>
-    </div>
-  </div>
-
-  <!-- マイナースケール -->
-
-  <div class="block">
-    <div class="bbar bc-blue"></div>
-    <div class="binner">
-      <div class="bname" style="margin-bottom:8px;">マイナースケール <span class="en">Minor Scales</span></div>
-      <div class="bbody">
-        <table class="scale-table">
-          <tr><th>スケール</th><th>English</th><th>使いどころ</th><th>段階</th></tr>
-          <tr>
-            <td><strong style="color:#eee;">ナチュラルマイナー</strong></td>
-            <td>Natural Minor<br><span class="dim">(Aeolian)</span></td>
-            <td>マイナーコード上で最も自然な響き。基本</td>
-            <td><span class="phase-label ph2">Phase 2</span></td>
-          </tr>
-          <tr>
-            <td><strong style="color:#eee;">ハーモニックマイナー</strong></td>
-            <td>Harmonic Minor</td>
-            <td>マイナーのV7（G7→Cm）への解決で使う。7度が半音上がりシャープな解決感</td>
-            <td><span class="phase-label ph2">Phase 2</span></td>
-          </tr>
-          <tr>
-            <td><strong style="color:#eee;">メロディックマイナー</strong><br><span class="dim">（ジャズ：上行型のみ使用）</span></td>
-            <td>Melodic Minor<br><span class="dim">(Jazz Minor)</span></td>
-            <td>マイナーii-V-i全体で使う。オルタードの代わりにもなる。上下行どちらにも同じ音を使う（ジャズ流儀）</td>
-            <td><span class="phase-label ph2">Phase 2</span></td>
-          </tr>
-        </table>
       </div>
     </div>
   </div>
@@ -613,45 +796,66 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
 <hr class="div">
 
 <!-- ══════════ ロードマップ ══════════ -->
-
 <div class="section">
   <div class="sec-head">
     <span class="stag t-road">Roadmap</span>
-    <span class="sec-title">段階的な進め方</span>
+    <span class="sec-title">やることロードマップ</span>
   </div>
 
-  <div class="phase-block">
-    <div class="phase-title"><span class="pnum">Phase 1</span> 今すぐ — Right Now</div>
+  <div class="note-box" style="margin-bottom:14px;">
+    <div class="note-lbl">使い方</div>
+    上から順番に進める。各ステップが「曲の中で自然に使える」状態になったら次へ。完了したものは✓を頭に書き込んでOK。
+  </div>
+
+  <!-- STEP 1 -->
+  <div class="phase-block" style="border-left:4px solid #c8860a;">
+    <div class="phase-title">
+      <span class="pnum">STEP 1</span> 今すぐ取り組む
+      <span class="dim" style="font-size:11px; margin-left:4px;">現在地</span>
+    </div>
     <ul>
-      <li>実音ドレミ基準（C=ど、D=レ、E=ミ…）でコードトーンを覚え直す</li>
-      <li>メジャー ii-V-I を全12キーでコードトーン着地で吹けるようにする</li>
-      <li>All of Me のテーマ + コード進行をセットで暗譜する</li>
-      <li>フレーズ集から1フレーズ/週を深く練習（全12キー + 自分版）</li>
-      <li>ドミナント7スケール実践：ミクソリディアン・HP5をiRealバッキングで実際に使う <span class="dim">（スケール練習済み → 実戦投入が次のステップ）</span></li>
-      <li>ペンタトニック・ブルーススケール：メジャーペンタ・マイナーペンタ・ブルーススケールをバッキングで使ってみる</li>
-      <li>裏コード <span class="dim">Tritone Substitution</span>：スケール実践に慣れてきたら、All of MeのG7で1〜2回試す</li>
+      <li>実音ドレミ基準でコードトーンを覚える <span class="dim">C=ど、D=レ、E=ミ… in B♭で読めればOK</span></li>
+      <li>All of Me・Bye Bye Blackbird のテーマ＋コード進行をセットで暗譜</li>
+      <li>メジャー ii-V-I コードトーン着地 → 全12キーで練習。曲での実践は今週のキー＋4度上</li>
+      <li>フレーズを1つ選んで曲の中で使う → 4度上でも使う</li>
+      <li>ミクソリディアン・HP5（リディアンドミナント）を曲中のV7で実戦投入</li>
+      <li>メジャーペンタ・マイナーペンタ・ブルーススケールをバッキングで試す</li>
     </ul>
   </div>
 
+  <!-- STEP 2 -->
   <div class="phase-block">
-    <div class="phase-title"><span class="pnum">Phase 2</span> メジャー ii-V-I 全12キー安定後</div>
+    <div class="phase-title"><span class="pnum">STEP 2</span> メジャー ii-V-I が全12キーで安定したら</div>
     <ul>
-      <li>マイナー ii-V-i <span class="dim">Minor Two-Five-One</span> を同じ流れで開始（別物として扱う）</li>
-      <li>マイナースケール実践：ナチュラル・ハーモニック・メロディックマイナーを使い分ける</li>
-      <li>All of Me のコード進行全体でii-V-Iの位置を把握・分析する</li>
-      <li>耳コピ <span class="dim">Transcription</span>：好きなフレーズ8〜16小節 → コード紐づけ → 12キー</li>
-      <li>ドミナント7スケール：コンディミ（ハーフホール）・オルタードを実戦投入</li>
-      <li>裏コードを使う箇所を意図的に増やす</li>
+      <li>マイナー ii-V-i を開始 <span class="dim">（メジャーとは別物として扱う）</span></li>
+      <li>ナチュラルマイナー（エオリアン）・メロディックマイナーをマイナーコード上で使い分ける</li>
+      <li>ロクリアン：枯葉のIIm7♭5コードで実戦練習</li>
+      <li>ドリアン：So Whatで実戦練習</li>
+      <li>リディアン：IVmaj7の箇所で使ってみる</li>
+      <li>コンディミ（ハーフホール）・オルタードをV7で実戦投入</li>
+      <li>裏コード（トライトーン代理）：曲のV7コードで1〜2箇所試す</li>
+      <li>耳コピ：好きなフレーズ8〜16小節 → コード紐づけ → 転調</li>
     </ul>
   </div>
 
+  <!-- STEP 3 -->
   <div class="phase-block">
-    <div class="phase-title"><span class="pnum">Phase 3</span> その後 — Beyond</div>
+    <div class="phase-title"><span class="pnum">STEP 3</span> マイナー ii-V-i も安定したら</div>
     <ul>
-      <li>ターンアラウンド <span class="dim">Turnaround (I-vi-ii-V)</span>・ジャズブルース <span class="dim">Jazz Blues</span> へ拡張</li>
-      <li>ドミナント7スケール：ホールトーン・ホールハーフを使いどころとともに習得</li>
-      <li>黒本の曲を増やす（Autumn Leaves、Tune Up 等）</li>
-      <li>自分のアドリブを構築 <span class="dim">Clark Terry: Imitation → Assimilation → Innovation</span></li>
+      <li>ターンアラウンド <span class="dim">I-vi-ii-V</span>・ジャズブルース進行へ拡張</li>
+      <li>ホールトーン・ホールハーフを使いどころとともに習得</li>
+      <li>Ⅰメジャーフレーズを別途仕入れて練習</li>
+      <li>Spain・Take the A Train など曲を増やす</li>
+    </ul>
+  </div>
+
+  <!-- STEP 4 -->
+  <div class="phase-block">
+    <div class="phase-title"><span class="pnum">STEP 4</span> その先 — Beyond</div>
+    <ul>
+      <li>黒本の曲を増やし続ける</li>
+      <li>自分のアドリブスタイルを構築していく</li>
+      <li><span class="dim">Clark Terry: Imitation → Assimilation → Innovation</span></li>
     </ul>
   </div>
 </div>
@@ -659,7 +863,6 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
 <hr class="div">
 
 <!-- ══════════ 練習の原則 ══════════ -->
-
 <div class="section">
   <div class="sec-head">
     <span class="stag t-rule">Principles</span>
@@ -667,15 +870,15 @@ hr.div { border: none; border-top: 1px solid #222; margin: 28px 0; }
   </div>
   <div class="rule-list">
     <ul>
-      <li>コードトーンは実音ドレミで覚える（C=ど、D=レ、E=ミ、F=ファ、G=ソ、A=ラ、B=シ）。楽譜の読み方は変えない</li>
-      <li>フレーズは量より深さ <span class="dim">Depth Over Volume</span>。1フレーズを完全に身体に入れる方が、20個を浅くやるより価値がある</li>
-      <li>楽譜を見て吹くだけではインプットにならない。<span class="hl">頭で転調して吹くこと</span></li>
+      <li>コードトーンはin B♭で読めればOK。楽譜の読み方は変えない</li>
+      <li>フレーズは曲の中で使えることがゴール。固執しすぎない</li>
+      <li>楽譜を見て吹くだけではインプットにならない。<span class="hl">曲の中で使って初めて語彙になる</span></li>
       <li>スケールを吹くときもコードトーンを着地点として意識する <span class="dim">Chord Tones as Gravity Notes</span></li>
-      <li><span class="hl">スケールは音楽ではない <span class="dim">A scale itself is not music</span></span>。音の引き出しとして使う道具に過ぎない</li>
-      <li>テーマ <span class="dim">Head</span> とコード進行はセットで暗譜する。瞬時の判断が即興の質を決める</li>
-      <li>iRealで録音して聴き返す <span class="dim">Record & Review</span>。吹いている最中には気づけない問題が見える</li>
-      <li>裏コード <span class="dim">Tritone Substitution</span> は使いすぎない。1コーラス中1〜2回がちょうどいい</li>
-      <li>Yoshiの練習法（テーマ→歌う→コード意識→スケール意識→テーマ）は有効。他の曲にも応用する</li>
+      <li><span class="hl">スケールは音楽ではない</span>。曲の文脈の中で使う道具に過ぎない</li>
+      <li>テーマとコード進行はセットで暗譜する。瞬時の判断が即興の質を決める</li>
+      <li>iRealで録音して聴き返す <span class="dim">Record & Review</span></li>
+      <li>アボイドノートはソロ中ほぼ意識不要。コードトーンに着地すれば味になる</li>
+      <li>テーマ → 歌う → コード意識 → スケール意識 → テーマに戻る、の流れはどの曲にも応用できる</li>
     </ul>
   </div>
 </div>

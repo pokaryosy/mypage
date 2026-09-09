@@ -101,10 +101,10 @@ export default function Page({ children, home }) {
                             Japanese - native,   English - fluent,   Spanish - basic <br />
                             <br />
                             Certification <br />
-                            <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br /> */}
+                            <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br />
                             <br />
                             <br />
-                            <br />
+                            <br /> */}
                             <strong>Education</strong>
                             <br />
                             Keio University - B.A. (Environment and Information Studies) <br />

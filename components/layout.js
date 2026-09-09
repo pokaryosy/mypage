@@ -12,6 +12,12 @@ export default function Layout({ children, home }) {
     <div className={styles.container}>
       <Head>
         <link rel="icon" href="/favicon.ico" />
+        <link rel="preconnect" href="https://fonts.googleapis.com" />
+        <link rel="preconnect" href="https://fonts.gstatic.com" crossOrigin="" />
+        <link
+          href="https://fonts.googleapis.com/css2?family=Source+Sans+3:wght@400&display=swap"
+          rel="stylesheet"
+        />
         <meta
           name="description"
           content="musician | artist | model | UI/UX design engineer, Tp. + F.Hr. + DJ + Vo + Fl"

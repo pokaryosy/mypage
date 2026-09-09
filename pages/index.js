@@ -24,7 +24,7 @@ export default function Home({ allPostsData }) {
         <title>{siteTitle}</title>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
       </Head>
-      <section className={utilStyles.headingMd}>
+      <section className={utilStyles.navMenu}>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
         <Link href="/about" className={utilStyles.colorInherit}>
           about.

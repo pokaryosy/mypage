@@ -68,19 +68,20 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
+                            <br />
 
                             <strong>Awards</strong>
                             <br />
-                            New York City Electroacoustic Music Festival 2024 (NYCEMF)<br />
+                            New York City Electroacoustic Music Festival 2024<br />
                             &emsp;Accepted in the Concert Music <br />
                             &emsp;work:"Weather Music",  artist:YOSY <br />
-                            New Interfaces for Musical Expression 2022 (NIME)<br />
+                            New Interfaces for Musical Expression 2022<br />
                             &emsp;Accepted in the Music category <br />
                             &emsp;work:"Weather Music",  artist:YOSY <br />
                             Keio University, Keio Light Music Society Jr. band <br />
                             &emsp;Stellar Jam ~ International Jazz Orchestra Festival ~ <br />
-                            &emsp;(2018) Unique Selection Champion and Nominee 7  <br />
-                            &emsp;(2017) Nominee 7  <br />
+                            &emsp;Unique Selection Champion and Nominee 7 (2018)<br />
+                            &emsp;Nominee 7 (2017)<br />
                             Naha Hight School Brass Band <br />
                             &emsp;The 40th Kyushu Ensemble Contest (2015) Silver Award <br />
                             &emsp;The 59th Kyushu brass band competition (2014) Gold Award <br />

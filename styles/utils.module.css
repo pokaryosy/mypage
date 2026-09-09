@@ -31,11 +31,13 @@
   }
 
   .navMenu {
-    font-family: "Source Sans 3", Lato, -apple-system, system-ui;
+    font-family: Lato, -apple-system, system-ui;
     font-size: 1.2rem;
     line-height: 1.5;
     font-weight: 300;
     letter-spacing: 0.02em;
+    /* Lato has no weight between 300 and 400; stroke optically fills the gap */
+    -webkit-text-stroke: 0.28px currentColor;
   }
 
   .navMenu a {

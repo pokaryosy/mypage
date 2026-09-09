@@ -27,21 +27,21 @@ export default function Home({ allPostsData }) {
       <section className={utilStyles.navMenu}>
         <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
         <Link href="/about" className={utilStyles.colorInherit}>
-          about.
+          about
         </Link>&emsp;
         <Link href="https://linkco.re/0CsC8Z6T?lang=ja" className={utilStyles.colorInherit}>
-          music.
+          music
         </Link>&emsp;
         <Link href="https://www.instagram.com/pokaryosy/" className={utilStyles.colorInherit}>
-          instagram.
+          instagram
         </Link>&emsp;
         <br className="sp" />
         <Link href="https://twitter.com/pokaryosy" className={utilStyles.colorInherit}>
-          twitter.
+          twitter
         </Link>&emsp;
         {/* <a href="https://suzuri.jp/YOSY">items.</a>&emsp; */}
         <Link href="mailto:pokaryosy@gmail.com" className={utilStyles.colorInherit}>
-          contact.
+          contact
         </Link>&emsp;
         {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
 

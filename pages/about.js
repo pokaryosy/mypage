@@ -12,20 +12,20 @@ export default function Page({ children, home }) {
         <Layout home>
             <div>
                 <Head>
-                    <title>about.</title>
+                    <title>about</title>
                     <meta name="viewport" content="width=device-width, initial-scale=1.0, maximum-scale=1.0, minimum-scale=1.0"></meta>
                 </Head>
 
                 <section className={utilStyles.navMenu}>
                     <Link href="/about" className={utilStyles.colorInherit}>
-                        about.
+                        about
                     </Link>&emsp;
-                    <a href="https://linkco.re/0CsC8Z6T?lang=ja">music.</a>&emsp;
-                    <a href="https://www.instagram.com/pokaryosy/">instagram.</a>&emsp;
+                    <a href="https://linkco.re/0CsC8Z6T?lang=ja">music</a>&emsp;
+                    <a href="https://www.instagram.com/pokaryosy/">instagram</a>&emsp;
                     <br className="sp" />
-                    <a href="https://twitter.com/pokaryosy">twitter.</a>&emsp;
+                    <a href="https://twitter.com/pokaryosy">twitter</a>&emsp;
                     {/* <a href="https://suzuri.jp/YOSY">items.</a>&emsp; */}
-                    <a href="mailto:pokaryosy@gmail.com">contact.</a>&emsp;
+                    <a href="mailto:pokaryosy@gmail.com">contact</a>&emsp;
                     {/* <a href="https://github.com/pokaryosy">github.</a>&emsp; */}
 
                 </section>

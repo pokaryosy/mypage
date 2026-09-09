@@ -57,9 +57,9 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <a href="https://drive.google.com/file/d/1hc9Y7NPlGTSVwMvnv4lVCPON0sRA0Gi9/view"> - cv </a>
+                            <a href="https://drive.google.com/file/d/1hc9Y7NPlGTSVwMvnv4lVCPON0sRA0Gi9/view?usp=sharing"> - CV </a>
                             <br />
-                            <a href="https://drive.google.com/file/d/16FDeMqk9THN_FkUM9-VzeCtPSDf0H6Id/view"> - portfolio </a>
+                            <a href="https://drive.google.com/file/d/1l6VRE87KCM8b5RBMo7NkmmT9js3b0S-n/view?usp=sharing"> - Portfolio </a>
                             <br />
                             <a href="https://drive.google.com/file/d/1N2ffDAr4B62X9K5vt9U695kgkuRhNK6S/view"> - Google UX Design Certification </a>
                             <br />
@@ -89,7 +89,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <strong>Skills</strong>
+                            {/* <strong>Skills</strong>
                             <br />
                             Programming Languages / Environments  <br />
                             JavaScript(Next.js React), HTML, CSS, PHP, jQuery, Python, SQL(No, My), Java, C#, C++, Ruby on Rails, Processing, Max/MSP, Pure Data, MATLAB, Arduino, R, vvvv, VBScript <br />
@@ -101,7 +101,7 @@ export default function Page({ children, home }) {
                             Japanese - native,   English - fluent,   Spanish - basic <br />
                             <br />
                             Certification <br />
-                            <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br />
+                            <a href="https://drive.google.com/file/d/1VthS1uodXOz8PHtX8q0jT29Sv1Eeg7vG/view?usp=sharing"> Foundations of User Experience (UX) Design - Google UX Design certification</a> <br /> */}
                             <br />
                             <br />
                             <br />
@@ -119,7 +119,7 @@ export default function Page({ children, home }) {
                             <br />
                             <br />
                             <br />
-                            <strong>Experience</strong>
+                            {/* <strong>Experience</strong>
                             <br />
                             <a href="https://drive.google.com/file/d/16FDeMqk9THN_FkUM9-VzeCtPSDf0H6Id/view"> Freelance Engineer, Designer, Artist </a> &emsp;Apr. 2022 -<br />
                             Software Engineer / UI/UX Designer / Artist / Musician <br />
@@ -140,7 +140,7 @@ export default function Page({ children, home }) {
                             UI/UX Design Engineer / Photographer <br />
                             <br />
                             <a href="https://www.jcatny.com/"> JCAT </a> (NY, USA - Intern) &emsp;Jul. - Dec. 2020 <br />
-                            Web Designer / Software Engineer <br />
+                            Web Designer / Software Engineer <br /> */}
 
                         </p>
 
